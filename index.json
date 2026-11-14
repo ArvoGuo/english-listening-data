@@ -4,7 +4,7 @@
   "articles": [
     {
       "id": "finding-my-own-taste",
-      "revision": 2,
+      "revision": 3,
       "title": "Finding My Own Taste",
       "subtitle": "从博主分享和电影推荐谈起，思考为什么自己难以说清喜好，以及如何关注真实的个人感受。",
       "duration": 122.088,
@@ -14,8 +14,8 @@
           "id": "p01",
           "text": "Okay, last night my friend and I were talking about something really interesting and confusing at the same time.",
           "audio": {
-            "path": "finding-my-own-taste-01.mp3",
-            "sha256": "cfa824e2065265e14df6cad3e2460111ea0bd66dd7b87a8ceefe37f1a1e6686c"
+            "path": "finding-my-own-taste-words-p01.mp3",
+            "sha256": "d9526cc5aa74c4e180e2369db396fad80dc901cd852759c5bd153ed89a812145"
           },
           "vocabulary": [
             {
@@ -24,14 +24,156 @@
               "meaning": "令人困惑的"
             }
           ],
-          "updatedAt": "2026-11-14"
+          "updatedAt": "2026-11-14",
+          "lines": [
+            {
+              "text": "Okay, last night my friend and I were talking about something really interesting and confusing at the same time.",
+              "translation": "昨晚，我和朋友聊起了一件既有趣又让人困惑的事。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "Okay",
+              "location": 0,
+              "length": 4,
+              "start": 0.104333,
+              "end": 0.661416
+            },
+            {
+              "text": "last",
+              "location": 6,
+              "length": 4,
+              "start": 0.824458,
+              "end": 1.123374
+            },
+            {
+              "text": "night",
+              "location": 11,
+              "length": 5,
+              "start": 1.136958,
+              "end": 1.354333
+            },
+            {
+              "text": "my",
+              "location": 17,
+              "length": 2,
+              "start": 1.367916,
+              "end": 1.503791
+            },
+            {
+              "text": "friend",
+              "location": 20,
+              "length": 6,
+              "start": 1.517375,
+              "end": 1.938583
+            },
+            {
+              "text": "and",
+              "location": 27,
+              "length": 3,
+              "start": 1.952166,
+              "end": 2.074457
+            },
+            {
+              "text": "I",
+              "location": 31,
+              "length": 1,
+              "start": 2.088041,
+              "end": 2.155957
+            },
+            {
+              "text": "were",
+              "location": 33,
+              "length": 4,
+              "start": 2.169583,
+              "end": 2.305458
+            },
+            {
+              "text": "talking",
+              "location": 38,
+              "length": 7,
+              "start": 2.319041,
+              "end": 2.740249
+            },
+            {
+              "text": "about",
+              "location": 46,
+              "length": 5,
+              "start": 2.753791,
+              "end": 3.039124
+            },
+            {
+              "text": "something",
+              "location": 52,
+              "length": 9,
+              "start": 3.052708,
+              "end": 3.501083
+            },
+            {
+              "text": "really",
+              "location": 62,
+              "length": 6,
+              "start": 3.514666,
+              "end": 3.827166
+            },
+            {
+              "text": "interesting",
+              "location": 69,
+              "length": 11,
+              "start": 3.84075,
+              "end": 4.479333
+            },
+            {
+              "text": "and",
+              "location": 81,
+              "length": 3,
+              "start": 4.492916,
+              "end": 4.615207
+            },
+            {
+              "text": "confusing",
+              "location": 85,
+              "length": 9,
+              "start": 4.628791,
+              "end": 5.240207
+            },
+            {
+              "text": "at",
+              "location": 95,
+              "length": 2,
+              "start": 5.253791,
+              "end": 5.335332
+            },
+            {
+              "text": "the",
+              "location": 98,
+              "length": 3,
+              "start": 5.348916,
+              "end": 5.430457
+            },
+            {
+              "text": "same",
+              "location": 102,
+              "length": 4,
+              "start": 5.444041,
+              "end": 5.729374
+            },
+            {
+              "text": "time",
+              "location": 107,
+              "length": 4,
+              "start": 5.742916,
+              "end": 6.286374
+            }
+          ]
         },
         {
           "id": "p02",
           "text": "We noticed that some people seem to have an unbelievably detailed sense of their own preferences and everyday experiences, but we just don't seem to have that.",
           "audio": {
-            "path": "finding-my-own-taste-02.mp3",
-            "sha256": "142ef99ee2b52c36cd321792696c5b987388150ec83a99d140718efa215ce048"
+            "path": "finding-my-own-taste-words-p02.mp3",
+            "sha256": "5b26009f1ce14af63e691cf14e580800336406a7e549e66a20d0dd5174926a90"
           },
           "vocabulary": [
             {
@@ -55,14 +197,212 @@
               "meaning": "经历；体验（复数）"
             }
           ],
-          "updatedAt": "2026-11-14"
+          "updatedAt": "2026-11-14",
+          "lines": [
+            {
+              "text": "We noticed that some people seem to have an unbelievably detailed sense of their own preferences and everyday experiences, but we just don't seem to have that.",
+              "translation": "我们发现，有些人似乎对自己的喜好和日常体验有着极其细致的感知，但我们好像没有。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "We",
+              "location": 0,
+              "length": 2,
+              "start": 0.104333,
+              "end": 0.280958
+            },
+            {
+              "text": "noticed",
+              "location": 3,
+              "length": 7,
+              "start": 0.294583,
+              "end": 0.742958
+            },
+            {
+              "text": "that",
+              "location": 11,
+              "length": 4,
+              "start": 0.756541,
+              "end": 0.933166
+            },
+            {
+              "text": "some",
+              "location": 16,
+              "length": 4,
+              "start": 0.94675,
+              "end": 1.191333
+            },
+            {
+              "text": "people",
+              "location": 21,
+              "length": 6,
+              "start": 1.204875,
+              "end": 1.530958
+            },
+            {
+              "text": "seem",
+              "location": 28,
+              "length": 4,
+              "start": 1.544583,
+              "end": 1.789166
+            },
+            {
+              "text": "to",
+              "location": 33,
+              "length": 2,
+              "start": 1.802708,
+              "end": 1.884249
+            },
+            {
+              "text": "have",
+              "location": 36,
+              "length": 4,
+              "start": 1.897833,
+              "end": 2.047291
+            },
+            {
+              "text": "an",
+              "location": 41,
+              "length": 2,
+              "start": 2.060875,
+              "end": 2.19675
+            },
+            {
+              "text": "unbelievably",
+              "location": 44,
+              "length": 12,
+              "start": 2.210333,
+              "end": 2.957624
+            },
+            {
+              "text": "detailed",
+              "location": 57,
+              "length": 8,
+              "start": 2.971208,
+              "end": 3.514666
+            },
+            {
+              "text": "sense",
+              "location": 66,
+              "length": 5,
+              "start": 3.52825,
+              "end": 3.84075
+            },
+            {
+              "text": "of",
+              "location": 72,
+              "length": 2,
+              "start": 3.854333,
+              "end": 3.935874
+            },
+            {
+              "text": "their",
+              "location": 75,
+              "length": 5,
+              "start": 3.949458,
+              "end": 4.139666
+            },
+            {
+              "text": "own",
+              "location": 81,
+              "length": 3,
+              "start": 4.15325,
+              "end": 4.343458
+            },
+            {
+              "text": "preferences",
+              "location": 85,
+              "length": 11,
+              "start": 4.357083,
+              "end": 5.145124
+            },
+            {
+              "text": "and",
+              "location": 97,
+              "length": 3,
+              "start": 5.158708,
+              "end": 5.430458
+            },
+            {
+              "text": "everyday",
+              "location": 101,
+              "length": 8,
+              "start": 5.444041,
+              "end": 5.878832
+            },
+            {
+              "text": "experiences",
+              "location": 110,
+              "length": 11,
+              "start": 5.892375,
+              "end": 6.96575
+            },
+            {
+              "text": "but",
+              "location": 123,
+              "length": 3,
+              "start": 7.223916,
+              "end": 7.373374
+            },
+            {
+              "text": "we",
+              "location": 127,
+              "length": 2,
+              "start": 7.386958,
+              "end": 7.509249
+            },
+            {
+              "text": "just",
+              "location": 130,
+              "length": 4,
+              "start": 7.522833,
+              "end": 7.753791
+            },
+            {
+              "text": "don't",
+              "location": 135,
+              "length": 5,
+              "start": 7.767375,
+              "end": 7.98475
+            },
+            {
+              "text": "seem",
+              "location": 141,
+              "length": 4,
+              "start": 7.998375,
+              "end": 8.21575
+            },
+            {
+              "text": "to",
+              "location": 146,
+              "length": 2,
+              "start": 8.229333,
+              "end": 8.310874
+            },
+            {
+              "text": "have",
+              "location": 149,
+              "length": 4,
+              "start": 8.324458,
+              "end": 8.541833
+            },
+            {
+              "text": "that",
+              "location": 154,
+              "length": 4,
+              "start": 8.555416,
+              "end": 9.003791
+            }
+          ]
         },
         {
           "id": "p03",
           "text": "For example, there's this vlogger my friend follows. When she does a room tour, she can talk about almost every little detail in her house, like why she puts a particular piece of furniture there, how she uses it, and what she likes about it.",
           "audio": {
-            "path": "finding-my-own-taste-03.mp3",
-            "sha256": "3084d165ca9b95712142e6bc17a36b2e2017f364c2372c5bcfc8ef3f99c4482d"
+            "path": "finding-my-own-taste-words-p03.mp3",
+            "sha256": "dfb3901d026c9af59ddc5d911106329d3ad0e93267d073072365ff82297501bd"
           },
           "vocabulary": [
             {
@@ -81,14 +421,343 @@
               "meaning": "家具（不可数名词）"
             }
           ],
-          "updatedAt": "2026-11-14"
+          "updatedAt": "2026-11-14",
+          "lines": [
+            {
+              "text": "For example, there's this vlogger my friend follows.",
+              "translation": "比如，我朋友关注的一位视频博主。",
+              "location": 0
+            },
+            {
+              "text": "When she does a room tour, she can talk about almost every little detail in her house, like why she puts a particular piece of furniture there, how she uses it, and what she likes about it.",
+              "translation": "她介绍自己的房间时，几乎能说出家里每一个小细节：为什么把某件家具放在那里、怎么使用它，以及喜欢它的哪些地方。",
+              "location": 53
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "For",
+              "location": 0,
+              "length": 3,
+              "start": 0.104333,
+              "end": 0.348916
+            },
+            {
+              "text": "example",
+              "location": 4,
+              "length": 7,
+              "start": 0.3625,
+              "end": 1.055416
+            },
+            {
+              "text": "there's",
+              "location": 13,
+              "length": 7,
+              "start": 1.191291,
+              "end": 1.408666
+            },
+            {
+              "text": "this",
+              "location": 21,
+              "length": 4,
+              "start": 1.422291,
+              "end": 1.626082
+            },
+            {
+              "text": "vlogger",
+              "location": 26,
+              "length": 7,
+              "start": 1.639666,
+              "end": 2.047291
+            },
+            {
+              "text": "my",
+              "location": 34,
+              "length": 2,
+              "start": 2.060875,
+              "end": 2.210333
+            },
+            {
+              "text": "friend",
+              "location": 37,
+              "length": 6,
+              "start": 2.223916,
+              "end": 2.563582
+            },
+            {
+              "text": "follows",
+              "location": 44,
+              "length": 7,
+              "start": 2.577166,
+              "end": 3.324457
+            },
+            {
+              "text": "When",
+              "location": 53,
+              "length": 4,
+              "start": 4.266291,
+              "end": 4.470082
+            },
+            {
+              "text": "she",
+              "location": 58,
+              "length": 3,
+              "start": 4.483708,
+              "end": 4.646749
+            },
+            {
+              "text": "does",
+              "location": 62,
+              "length": 4,
+              "start": 4.660333,
+              "end": 4.877708
+            },
+            {
+              "text": "a",
+              "location": 67,
+              "length": 1,
+              "start": 4.891291,
+              "end": 4.959207
+            },
+            {
+              "text": "room",
+              "location": 69,
+              "length": 4,
+              "start": 4.972833,
+              "end": 5.244583
+            },
+            {
+              "text": "tour",
+              "location": 74,
+              "length": 4,
+              "start": 5.258166,
+              "end": 5.720124
+            },
+            {
+              "text": "she",
+              "location": 80,
+              "length": 3,
+              "start": 5.9375,
+              "end": 6.100541
+            },
+            {
+              "text": "can",
+              "location": 84,
+              "length": 3,
+              "start": 6.114125,
+              "end": 6.277166
+            },
+            {
+              "text": "talk",
+              "location": 88,
+              "length": 4,
+              "start": 6.29075,
+              "end": 6.576083
+            },
+            {
+              "text": "about",
+              "location": 93,
+              "length": 5,
+              "start": 6.589666,
+              "end": 6.847832
+            },
+            {
+              "text": "almost",
+              "location": 99,
+              "length": 6,
+              "start": 6.861416,
+              "end": 7.282624
+            },
+            {
+              "text": "every",
+              "location": 106,
+              "length": 5,
+              "start": 7.296208,
+              "end": 7.554374
+            },
+            {
+              "text": "little",
+              "location": 112,
+              "length": 6,
+              "start": 7.567916,
+              "end": 7.853249
+            },
+            {
+              "text": "detail",
+              "location": 119,
+              "length": 6,
+              "start": 7.866833,
+              "end": 8.355958
+            },
+            {
+              "text": "in",
+              "location": 126,
+              "length": 2,
+              "start": 8.369583,
+              "end": 8.451124
+            },
+            {
+              "text": "her",
+              "location": 129,
+              "length": 3,
+              "start": 8.464666,
+              "end": 8.614124
+            },
+            {
+              "text": "house",
+              "location": 133,
+              "length": 5,
+              "start": 8.627708,
+              "end": 9.130416
+            },
+            {
+              "text": "like",
+              "location": 140,
+              "length": 4,
+              "start": 9.375,
+              "end": 9.605958
+            },
+            {
+              "text": "why",
+              "location": 145,
+              "length": 3,
+              "start": 9.619583,
+              "end": 9.796208
+            },
+            {
+              "text": "she",
+              "location": 149,
+              "length": 3,
+              "start": 9.809791,
+              "end": 9.972832
+            },
+            {
+              "text": "puts",
+              "location": 153,
+              "length": 4,
+              "start": 9.986416,
+              "end": 10.230999
+            },
+            {
+              "text": "a",
+              "location": 158,
+              "length": 1,
+              "start": 10.244583,
+              "end": 10.298916
+            },
+            {
+              "text": "particular",
+              "location": 160,
+              "length": 10,
+              "start": 10.3125,
+              "end": 10.964666
+            },
+            {
+              "text": "piece",
+              "location": 171,
+              "length": 5,
+              "start": 10.97825,
+              "end": 11.277166
+            },
+            {
+              "text": "of",
+              "location": 177,
+              "length": 2,
+              "start": 11.29075,
+              "end": 11.385875
+            },
+            {
+              "text": "furniture",
+              "location": 180,
+              "length": 9,
+              "start": 11.399458,
+              "end": 11.929333
+            },
+            {
+              "text": "there",
+              "location": 190,
+              "length": 5,
+              "start": 11.942916,
+              "end": 12.282582
+            },
+            {
+              "text": "how",
+              "location": 197,
+              "length": 3,
+              "start": 12.567916,
+              "end": 12.690207
+            },
+            {
+              "text": "she",
+              "location": 201,
+              "length": 3,
+              "start": 12.703791,
+              "end": 12.893999
+            },
+            {
+              "text": "uses",
+              "location": 205,
+              "length": 4,
+              "start": 12.907625,
+              "end": 13.301666
+            },
+            {
+              "text": "it",
+              "location": 210,
+              "length": 2,
+              "start": 13.315208,
+              "end": 13.559791
+            },
+            {
+              "text": "and",
+              "location": 214,
+              "length": 3,
+              "start": 13.804333,
+              "end": 13.913041
+            },
+            {
+              "text": "what",
+              "location": 218,
+              "length": 4,
+              "start": 13.926625,
+              "end": 14.10325
+            },
+            {
+              "text": "she",
+              "location": 223,
+              "length": 3,
+              "start": 14.116833,
+              "end": 14.279874
+            },
+            {
+              "text": "likes",
+              "location": 227,
+              "length": 5,
+              "start": 14.293458,
+              "end": 14.633124
+            },
+            {
+              "text": "about",
+              "location": 233,
+              "length": 5,
+              "start": 14.64675,
+              "end": 14.945666
+            },
+            {
+              "text": "it",
+              "location": 239,
+              "length": 2,
+              "start": 14.95925,
+              "end": 15.231
+            }
+          ]
         },
         {
           "id": "p04",
           "text": "And the same goes for a beauty influencer I watch. She can just take out an ordinary skincare product and somehow have so much to say about its packaging, how she uses it, and how this little thing fits—or doesn't fit—into her daily life.",
           "audio": {
-            "path": "finding-my-own-taste-04.mp3",
-            "sha256": "e8437905da15fcb72c9f69bc9a5ca84f0e4b2c9360782aa937ae1ef321a066ef"
+            "path": "finding-my-own-taste-words-p04.mp3",
+            "sha256": "f7ee5b255f25e2690ce167accddf7dae231727ce01ab760348601e91eee3a2fb"
           },
           "vocabulary": [
             {
@@ -112,14 +781,350 @@
               "meaning": "商品的包装"
             }
           ],
-          "updatedAt": "2026-11-14"
+          "updatedAt": "2026-11-14",
+          "lines": [
+            {
+              "text": "And the same goes for a beauty influencer I watch.",
+              "translation": "我关注的一位美妆博主也是如此。",
+              "location": 0
+            },
+            {
+              "text": "She can just take out an ordinary skincare product and somehow have so much to say about its packaging, how she uses it, and how this little thing fits—or doesn't fit—into her daily life.",
+              "translation": "她随手拿出一件普通护肤品，就能谈很多：它的包装、用法，以及这件小东西如何融入——或不适合——她的日常生活。",
+              "location": 51
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "And",
+              "location": 0,
+              "length": 3,
+              "start": 0.104333,
+              "end": 0.280958
+            },
+            {
+              "text": "the",
+              "location": 4,
+              "length": 3,
+              "start": 0.294583,
+              "end": 0.403291
+            },
+            {
+              "text": "same",
+              "location": 8,
+              "length": 4,
+              "start": 0.416833,
+              "end": 0.715749
+            },
+            {
+              "text": "goes",
+              "location": 13,
+              "length": 4,
+              "start": 0.729333,
+              "end": 0.960291
+            },
+            {
+              "text": "for",
+              "location": 18,
+              "length": 3,
+              "start": 0.973916,
+              "end": 1.123374
+            },
+            {
+              "text": "a",
+              "location": 22,
+              "length": 1,
+              "start": 1.136958,
+              "end": 1.191291
+            },
+            {
+              "text": "beauty",
+              "location": 24,
+              "length": 6,
+              "start": 1.204875,
+              "end": 1.530958
+            },
+            {
+              "text": "influencer",
+              "location": 31,
+              "length": 10,
+              "start": 1.544583,
+              "end": 2.169583
+            },
+            {
+              "text": "I",
+              "location": 42,
+              "length": 1,
+              "start": 2.183166,
+              "end": 2.264707
+            },
+            {
+              "text": "watch",
+              "location": 44,
+              "length": 5,
+              "start": 2.27825,
+              "end": 2.876083
+            },
+            {
+              "text": "She",
+              "location": 51,
+              "length": 3,
+              "start": 3.817916,
+              "end": 4.048874
+            },
+            {
+              "text": "can",
+              "location": 55,
+              "length": 3,
+              "start": 4.0625,
+              "end": 4.225541
+            },
+            {
+              "text": "just",
+              "location": 59,
+              "length": 4,
+              "start": 4.239125,
+              "end": 4.4565
+            },
+            {
+              "text": "take",
+              "location": 64,
+              "length": 4,
+              "start": 4.470125,
+              "end": 4.701083
+            },
+            {
+              "text": "out",
+              "location": 69,
+              "length": 3,
+              "start": 4.714666,
+              "end": 4.864124
+            },
+            {
+              "text": "an",
+              "location": 73,
+              "length": 2,
+              "start": 4.877708,
+              "end": 5.013583
+            },
+            {
+              "text": "ordinary",
+              "location": 76,
+              "length": 8,
+              "start": 5.027166,
+              "end": 5.529874
+            },
+            {
+              "text": "skincare",
+              "location": 85,
+              "length": 8,
+              "start": 5.543458,
+              "end": 6.100541
+            },
+            {
+              "text": "product",
+              "location": 94,
+              "length": 7,
+              "start": 6.114125,
+              "end": 6.657583
+            },
+            {
+              "text": "and",
+              "location": 102,
+              "length": 3,
+              "start": 6.671208,
+              "end": 6.807083
+            },
+            {
+              "text": "somehow",
+              "location": 106,
+              "length": 7,
+              "start": 6.820666,
+              "end": 7.201082
+            },
+            {
+              "text": "have",
+              "location": 114,
+              "length": 4,
+              "start": 7.214666,
+              "end": 7.404874
+            },
+            {
+              "text": "so",
+              "location": 119,
+              "length": 2,
+              "start": 7.418458,
+              "end": 7.663041
+            },
+            {
+              "text": "much",
+              "location": 122,
+              "length": 4,
+              "start": 7.676625,
+              "end": 8.002708
+            },
+            {
+              "text": "to",
+              "location": 127,
+              "length": 2,
+              "start": 8.016291,
+              "end": 8.111416
+            },
+            {
+              "text": "say",
+              "location": 130,
+              "length": 3,
+              "start": 8.125,
+              "end": 8.369583
+            },
+            {
+              "text": "about",
+              "location": 134,
+              "length": 5,
+              "start": 8.383166,
+              "end": 8.641332
+            },
+            {
+              "text": "its",
+              "location": 140,
+              "length": 3,
+              "start": 8.654875,
+              "end": 8.817916
+            },
+            {
+              "text": "packaging",
+              "location": 144,
+              "length": 9,
+              "start": 8.831541,
+              "end": 9.551666
+            },
+            {
+              "text": "how",
+              "location": 155,
+              "length": 3,
+              "start": 9.836958,
+              "end": 9.959249
+            },
+            {
+              "text": "she",
+              "location": 159,
+              "length": 3,
+              "start": 9.972833,
+              "end": 10.163041
+            },
+            {
+              "text": "uses",
+              "location": 163,
+              "length": 4,
+              "start": 10.176625,
+              "end": 10.58425
+            },
+            {
+              "text": "it",
+              "location": 168,
+              "length": 2,
+              "start": 10.597833,
+              "end": 10.842416
+            },
+            {
+              "text": "and",
+              "location": 172,
+              "length": 3,
+              "start": 11.100541,
+              "end": 11.195666
+            },
+            {
+              "text": "how",
+              "location": 176,
+              "length": 3,
+              "start": 11.20925,
+              "end": 11.372291
+            },
+            {
+              "text": "this",
+              "location": 180,
+              "length": 4,
+              "start": 11.385875,
+              "end": 11.589666
+            },
+            {
+              "text": "little",
+              "location": 185,
+              "length": 6,
+              "start": 11.60325,
+              "end": 11.847833
+            },
+            {
+              "text": "thing",
+              "location": 192,
+              "length": 5,
+              "start": 11.861416,
+              "end": 12.133166
+            },
+            {
+              "text": "fits",
+              "location": 198,
+              "length": 4,
+              "start": 12.14675,
+              "end": 12.663041
+            },
+            {
+              "text": "or",
+              "location": 203,
+              "length": 2,
+              "start": 12.894041,
+              "end": 13.057082
+            },
+            {
+              "text": "doesn't",
+              "location": 206,
+              "length": 7,
+              "start": 13.070666,
+              "end": 13.423916
+            },
+            {
+              "text": "fit",
+              "location": 214,
+              "length": 3,
+              "start": 13.4375,
+              "end": 13.831541
+            },
+            {
+              "text": "into",
+              "location": 218,
+              "length": 4,
+              "start": 14.035333,
+              "end": 14.307083
+            },
+            {
+              "text": "her",
+              "location": 223,
+              "length": 3,
+              "start": 14.320666,
+              "end": 14.442957
+            },
+            {
+              "text": "daily",
+              "location": 227,
+              "length": 5,
+              "start": 14.456541,
+              "end": 14.809791
+            },
+            {
+              "text": "life",
+              "location": 233,
+              "length": 4,
+              "start": 14.823375,
+              "end": 15.421208
+            }
+          ]
         },
         {
           "id": "p05",
           "text": "And think about some celebrity interviews where actors are asked to name, like, five favorite movies. I remember seeing the Stranger Things cast being asked this kind of question, and everybody just seemed to have a very personal, well-defined list ready to go.",
           "audio": {
-            "path": "finding-my-own-taste-05.mp3",
-            "sha256": "9bf81dbdc2808752b039351c4b8eca16ae7373b8f0258f09e6bc5f8fafc2ff96"
+            "path": "finding-my-own-taste-words-p05.mp3",
+            "sha256": "ac9dbdda13b30111e53cd8aa37ab0449a9e45676cd0d23d16625b0b5f2a392d1"
           },
           "vocabulary": [
             {
@@ -143,14 +1148,329 @@
               "meaning": "清晰明确的；这里指喜好很明确"
             }
           ],
-          "updatedAt": "2026-11-14"
+          "updatedAt": "2026-11-14",
+          "lines": [
+            {
+              "text": "And think about some celebrity interviews where actors are asked to name, like, five favorite movies.",
+              "translation": "再想想一些明星访谈，演员会被问到最喜欢的五部电影之类的问题。",
+              "location": 0
+            },
+            {
+              "text": "I remember seeing the Stranger Things cast being asked this kind of question, and everybody just seemed to have a very personal, well-defined list ready to go.",
+              "translation": "我记得看过《怪奇物语》的演员们回答这类问题，每个人似乎都早有一份很个人化、很明确的片单。",
+              "location": 102
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "And",
+              "location": 0,
+              "length": 3,
+              "start": 0.104333,
+              "end": 0.294541
+            },
+            {
+              "text": "think",
+              "location": 4,
+              "length": 5,
+              "start": 0.308166,
+              "end": 0.525541
+            },
+            {
+              "text": "about",
+              "location": 10,
+              "length": 5,
+              "start": 0.539125,
+              "end": 0.824458
+            },
+            {
+              "text": "some",
+              "location": 16,
+              "length": 4,
+              "start": 0.838041,
+              "end": 1.041832
+            },
+            {
+              "text": "celebrity",
+              "location": 21,
+              "length": 9,
+              "start": 1.055416,
+              "end": 1.666832
+            },
+            {
+              "text": "interviews",
+              "location": 31,
+              "length": 10,
+              "start": 1.680416,
+              "end": 2.278249
+            },
+            {
+              "text": "where",
+              "location": 42,
+              "length": 5,
+              "start": 2.291833,
+              "end": 2.495624
+            },
+            {
+              "text": "actors",
+              "location": 48,
+              "length": 6,
+              "start": 2.50925,
+              "end": 2.944041
+            },
+            {
+              "text": "are",
+              "location": 55,
+              "length": 3,
+              "start": 2.957625,
+              "end": 3.147833
+            },
+            {
+              "text": "asked",
+              "location": 59,
+              "length": 5,
+              "start": 3.161416,
+              "end": 3.514666
+            },
+            {
+              "text": "to",
+              "location": 65,
+              "length": 2,
+              "start": 3.52825,
+              "end": 3.609791
+            },
+            {
+              "text": "name",
+              "location": 68,
+              "length": 4,
+              "start": 3.623375,
+              "end": 4.017416
+            },
+            {
+              "text": "like",
+              "location": 74,
+              "length": 4,
+              "start": 4.221208,
+              "end": 4.520124
+            },
+            {
+              "text": "five",
+              "location": 80,
+              "length": 4,
+              "start": 4.669583,
+              "end": 4.982083
+            },
+            {
+              "text": "favorite",
+              "location": 85,
+              "length": 8,
+              "start": 4.995666,
+              "end": 5.389707
+            },
+            {
+              "text": "movies",
+              "location": 94,
+              "length": 6,
+              "start": 5.40325,
+              "end": 6.082583
+            },
+            {
+              "text": "I",
+              "location": 102,
+              "length": 1,
+              "start": 7.024458,
+              "end": 7.173916
+            },
+            {
+              "text": "remember",
+              "location": 104,
+              "length": 8,
+              "start": 7.1875,
+              "end": 7.649458
+            },
+            {
+              "text": "seeing",
+              "location": 113,
+              "length": 6,
+              "start": 7.663041,
+              "end": 7.921207
+            },
+            {
+              "text": "the",
+              "location": 120,
+              "length": 3,
+              "start": 7.934791,
+              "end": 8.043499
+            },
+            {
+              "text": "Stranger",
+              "location": 124,
+              "length": 8,
+              "start": 8.057083,
+              "end": 8.546208
+            },
+            {
+              "text": "Things",
+              "location": 133,
+              "length": 6,
+              "start": 8.559791,
+              "end": 8.940207
+            },
+            {
+              "text": "cast",
+              "location": 140,
+              "length": 4,
+              "start": 8.953791,
+              "end": 9.388582
+            },
+            {
+              "text": "being",
+              "location": 145,
+              "length": 5,
+              "start": 9.402166,
+              "end": 9.660332
+            },
+            {
+              "text": "asked",
+              "location": 151,
+              "length": 5,
+              "start": 9.673916,
+              "end": 10.027166
+            },
+            {
+              "text": "this",
+              "location": 157,
+              "length": 4,
+              "start": 10.04075,
+              "end": 10.230958
+            },
+            {
+              "text": "kind",
+              "location": 162,
+              "length": 4,
+              "start": 10.244583,
+              "end": 10.489166
+            },
+            {
+              "text": "of",
+              "location": 167,
+              "length": 2,
+              "start": 10.502708,
+              "end": 10.584249
+            },
+            {
+              "text": "question",
+              "location": 170,
+              "length": 8,
+              "start": 10.597833,
+              "end": 11.263583
+            },
+            {
+              "text": "and",
+              "location": 180,
+              "length": 3,
+              "start": 11.548916,
+              "end": 11.725541
+            },
+            {
+              "text": "everybody",
+              "location": 184,
+              "length": 9,
+              "start": 11.739125,
+              "end": 12.255416
+            },
+            {
+              "text": "just",
+              "location": 194,
+              "length": 4,
+              "start": 12.269041,
+              "end": 12.581541
+            },
+            {
+              "text": "seemed",
+              "location": 199,
+              "length": 6,
+              "start": 12.595125,
+              "end": 12.880458
+            },
+            {
+              "text": "to",
+              "location": 206,
+              "length": 2,
+              "start": 12.894041,
+              "end": 12.975582
+            },
+            {
+              "text": "have",
+              "location": 209,
+              "length": 4,
+              "start": 12.989125,
+              "end": 13.152166
+            },
+            {
+              "text": "a",
+              "location": 214,
+              "length": 1,
+              "start": 13.16575,
+              "end": 13.233666
+            },
+            {
+              "text": "very",
+              "location": 216,
+              "length": 4,
+              "start": 13.247291,
+              "end": 13.559791
+            },
+            {
+              "text": "personal",
+              "location": 221,
+              "length": 8,
+              "start": 13.573375,
+              "end": 14.211958
+            },
+            {
+              "text": "well-defined",
+              "location": 231,
+              "length": 12,
+              "start": 14.483708,
+              "end": 15.122291
+            },
+            {
+              "text": "list",
+              "location": 244,
+              "length": 4,
+              "start": 15.135875,
+              "end": 15.407625
+            },
+            {
+              "text": "ready",
+              "location": 249,
+              "length": 5,
+              "start": 15.421208,
+              "end": 15.679374
+            },
+            {
+              "text": "to",
+              "location": 255,
+              "length": 2,
+              "start": 15.692916,
+              "end": 15.815207
+            },
+            {
+              "text": "go",
+              "location": 258,
+              "length": 2,
+              "start": 15.828791,
+              "end": 16.263582
+            }
+          ]
         },
         {
           "id": "p06",
           "text": "And this is just one example. There are countless moments like this.",
           "audio": {
-            "path": "finding-my-own-taste-06.mp3",
-            "sha256": "bf18935497416d2790d6f71b8f778cc541d07909e630582ca1b14ae04260ca44"
+            "path": "finding-my-own-taste-words-p06.mp3",
+            "sha256": "dffa45a7abac6542ad96f60712aa48713f7ea9d79d5e954d6d9ff4c5c1048cae"
           },
           "vocabulary": [
             {
@@ -159,14 +1479,112 @@
               "meaning": "无数的；数不清的"
             }
           ],
-          "updatedAt": "2026-11-14"
+          "updatedAt": "2026-11-14",
+          "lines": [
+            {
+              "text": "And this is just one example.",
+              "translation": "这还只是一个例子。",
+              "location": 0
+            },
+            {
+              "text": "There are countless moments like this.",
+              "translation": "类似的时刻还有无数个。",
+              "location": 30
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "And",
+              "location": 0,
+              "length": 3,
+              "start": 0.104333,
+              "end": 0.280958
+            },
+            {
+              "text": "this",
+              "location": 4,
+              "length": 4,
+              "start": 0.294583,
+              "end": 0.511958
+            },
+            {
+              "text": "is",
+              "location": 9,
+              "length": 2,
+              "start": 0.525541,
+              "end": 0.647832
+            },
+            {
+              "text": "just",
+              "location": 12,
+              "length": 4,
+              "start": 0.661416,
+              "end": 0.946749
+            },
+            {
+              "text": "one",
+              "location": 17,
+              "length": 3,
+              "start": 0.960333,
+              "end": 1.150541
+            },
+            {
+              "text": "example",
+              "location": 21,
+              "length": 7,
+              "start": 1.164125,
+              "end": 1.870666
+            },
+            {
+              "text": "There",
+              "location": 30,
+              "length": 5,
+              "start": 2.8125,
+              "end": 3.016291
+            },
+            {
+              "text": "are",
+              "location": 36,
+              "length": 3,
+              "start": 3.029875,
+              "end": 3.138583
+            },
+            {
+              "text": "countless",
+              "location": 40,
+              "length": 9,
+              "start": 3.152166,
+              "end": 3.654874
+            },
+            {
+              "text": "moments",
+              "location": 50,
+              "length": 7,
+              "start": 3.668458,
+              "end": 4.089666
+            },
+            {
+              "text": "like",
+              "location": 58,
+              "length": 4,
+              "start": 4.10325,
+              "end": 4.307041
+            },
+            {
+              "text": "this",
+              "location": 63,
+              "length": 4,
+              "start": 4.320666,
+              "end": 4.836957
+            }
+          ]
         },
         {
           "id": "p07",
           "text": "I also watch plenty of movies, but if I were in their shoes, I honestly wouldn't know what to say.",
           "audio": {
-            "path": "finding-my-own-taste-07.mp3",
-            "sha256": "b47f2e9b6246792d8faaf85e379bf036f8912db813f883d99d4b59d8f8b3d4a3"
+            "path": "finding-my-own-taste-words-p07.mp3",
+            "sha256": "a596e657d7c30080f00617073685ebf0d70c1b0c6144c2ba02ad004bda356f1b"
           },
           "vocabulary": [
             {
@@ -185,14 +1603,163 @@
               "meaning": "说实话；坦白地说"
             }
           ],
-          "updatedAt": "2026-11-14"
+          "updatedAt": "2026-11-14",
+          "lines": [
+            {
+              "text": "I also watch plenty of movies, but if I were in their shoes, I honestly wouldn't know what to say.",
+              "translation": "我也看很多电影，但如果换作是我，说实话，我都不知道该说些什么。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "I",
+              "location": 0,
+              "length": 1,
+              "start": 0.104333,
+              "end": 0.308124
+            },
+            {
+              "text": "also",
+              "location": 2,
+              "length": 4,
+              "start": 0.32175,
+              "end": 0.620666
+            },
+            {
+              "text": "watch",
+              "location": 7,
+              "length": 5,
+              "start": 0.63425,
+              "end": 0.919583
+            },
+            {
+              "text": "plenty",
+              "location": 13,
+              "length": 6,
+              "start": 0.933166,
+              "end": 1.340791
+            },
+            {
+              "text": "of",
+              "location": 20,
+              "length": 2,
+              "start": 1.354333,
+              "end": 1.435874
+            },
+            {
+              "text": "movies",
+              "location": 23,
+              "length": 6,
+              "start": 1.449458,
+              "end": 2.074458
+            },
+            {
+              "text": "but",
+              "location": 31,
+              "length": 3,
+              "start": 2.264666,
+              "end": 2.414124
+            },
+            {
+              "text": "if",
+              "location": 35,
+              "length": 2,
+              "start": 2.427708,
+              "end": 2.536416
+            },
+            {
+              "text": "I",
+              "location": 38,
+              "length": 1,
+              "start": 2.55,
+              "end": 2.658708
+            },
+            {
+              "text": "were",
+              "location": 40,
+              "length": 4,
+              "start": 2.672291,
+              "end": 2.821749
+            },
+            {
+              "text": "in",
+              "location": 45,
+              "length": 2,
+              "start": 2.835333,
+              "end": 2.930458
+            },
+            {
+              "text": "their",
+              "location": 48,
+              "length": 5,
+              "start": 2.944041,
+              "end": 3.107082
+            },
+            {
+              "text": "shoes",
+              "location": 54,
+              "length": 5,
+              "start": 3.120666,
+              "end": 3.691332
+            },
+            {
+              "text": "I",
+              "location": 61,
+              "length": 1,
+              "start": 3.922291,
+              "end": 4.071749
+            },
+            {
+              "text": "honestly",
+              "location": 63,
+              "length": 8,
+              "start": 4.085333,
+              "end": 4.588041
+            },
+            {
+              "text": "wouldn't",
+              "location": 72,
+              "length": 8,
+              "start": 4.601625,
+              "end": 4.859791
+            },
+            {
+              "text": "know",
+              "location": 81,
+              "length": 4,
+              "start": 4.873375,
+              "end": 5.00925
+            },
+            {
+              "text": "what",
+              "location": 86,
+              "length": 4,
+              "start": 5.022833,
+              "end": 5.199458
+            },
+            {
+              "text": "to",
+              "location": 91,
+              "length": 2,
+              "start": 5.213041,
+              "end": 5.294582
+            },
+            {
+              "text": "say",
+              "location": 94,
+              "length": 3,
+              "start": 5.308166,
+              "end": 5.838041
+            }
+          ]
         },
         {
           "id": "p08",
           "text": "I mean, I can evaluate things from the outside. I remember writing film reviews for homework when I was a kid. But back then, I was never telling the truth, because nobody asked me to. I just had to write down something that sounded right, that met a certain standard, to get the assignment done and hopefully get a great mark.",
           "audio": {
-            "path": "finding-my-own-taste-08.mp3",
-            "sha256": "ff05fc4861f716bf0e73298443d300ca6da0edbd0060b7f54073ec9c73fba727"
+            "path": "finding-my-own-taste-words-p08.mp3",
+            "sha256": "8b061d7d5fb1c824ab870a4b18406e863d4e9cec5d40f3deb19c70fa27bdbefe"
           },
           "vocabulary": [
             {
@@ -216,14 +1783,465 @@
               "meaning": "布置的作业；任务"
             }
           ],
-          "updatedAt": "2026-11-14"
+          "updatedAt": "2026-11-14",
+          "lines": [
+            {
+              "text": "I mean, I can evaluate things from the outside.",
+              "translation": "我是说，我能够从外部标准来评价事物。",
+              "location": 0
+            },
+            {
+              "text": "I remember writing film reviews for homework when I was a kid.",
+              "translation": "我记得小时候写过作为作业的影评。",
+              "location": 48
+            },
+            {
+              "text": "But back then, I was never telling the truth, because nobody asked me to.",
+              "translation": "但那时我从来没表达过真实想法，因为没人要求我这样做。",
+              "location": 111
+            },
+            {
+              "text": "I just had to write down something that sounded right, that met a certain standard, to get the assignment done and hopefully get a great mark.",
+              "translation": "我只需要写些听起来正确、符合某种标准的话，把作业完成，并希望拿到好成绩。",
+              "location": 185
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "I",
+              "location": 0,
+              "length": 1,
+              "start": 0.104333,
+              "end": 0.253791
+            },
+            {
+              "text": "mean",
+              "location": 2,
+              "length": 4,
+              "start": 0.267375,
+              "end": 0.620625
+            },
+            {
+              "text": "I",
+              "location": 8,
+              "length": 1,
+              "start": 0.810875,
+              "end": 0.878791
+            },
+            {
+              "text": "can",
+              "location": 10,
+              "length": 3,
+              "start": 0.892375,
+              "end": 1.055416
+            },
+            {
+              "text": "evaluate",
+              "location": 14,
+              "length": 8,
+              "start": 1.069041,
+              "end": 1.707624
+            },
+            {
+              "text": "things",
+              "location": 23,
+              "length": 6,
+              "start": 1.721208,
+              "end": 2.006541
+            },
+            {
+              "text": "from",
+              "location": 30,
+              "length": 4,
+              "start": 2.020125,
+              "end": 2.156
+            },
+            {
+              "text": "the",
+              "location": 35,
+              "length": 3,
+              "start": 2.169583,
+              "end": 2.264708
+            },
+            {
+              "text": "outside",
+              "location": 39,
+              "length": 7,
+              "start": 2.27825,
+              "end": 2.971166
+            },
+            {
+              "text": "I",
+              "location": 48,
+              "length": 1,
+              "start": 3.913041,
+              "end": 4.062499
+            },
+            {
+              "text": "remember",
+              "location": 50,
+              "length": 8,
+              "start": 4.076083,
+              "end": 4.497291
+            },
+            {
+              "text": "writing",
+              "location": 59,
+              "length": 7,
+              "start": 4.510875,
+              "end": 4.891291
+            },
+            {
+              "text": "film",
+              "location": 67,
+              "length": 4,
+              "start": 4.904875,
+              "end": 5.203791
+            },
+            {
+              "text": "reviews",
+              "location": 72,
+              "length": 7,
+              "start": 5.217375,
+              "end": 5.66575
+            },
+            {
+              "text": "for",
+              "location": 80,
+              "length": 3,
+              "start": 5.679333,
+              "end": 5.828791
+            },
+            {
+              "text": "homework",
+              "location": 84,
+              "length": 8,
+              "start": 5.842375,
+              "end": 6.37225
+            },
+            {
+              "text": "when",
+              "location": 93,
+              "length": 4,
+              "start": 6.385875,
+              "end": 6.52175
+            },
+            {
+              "text": "I",
+              "location": 98,
+              "length": 1,
+              "start": 6.535333,
+              "end": 6.616874
+            },
+            {
+              "text": "was",
+              "location": 100,
+              "length": 3,
+              "start": 6.630416,
+              "end": 6.807041
+            },
+            {
+              "text": "a",
+              "location": 104,
+              "length": 1,
+              "start": 6.820666,
+              "end": 6.874999
+            },
+            {
+              "text": "kid",
+              "location": 106,
+              "length": 3,
+              "start": 6.888583,
+              "end": 7.377708
+            },
+            {
+              "text": "But",
+              "location": 111,
+              "length": 3,
+              "start": 8.315208,
+              "end": 8.518999
+            },
+            {
+              "text": "back",
+              "location": 115,
+              "length": 4,
+              "start": 8.532625,
+              "end": 8.831541
+            },
+            {
+              "text": "then",
+              "location": 120,
+              "length": 4,
+              "start": 8.845125,
+              "end": 9.211958
+            },
+            {
+              "text": "I",
+              "location": 126,
+              "length": 1,
+              "start": 9.347833,
+              "end": 9.388583
+            },
+            {
+              "text": "was",
+              "location": 128,
+              "length": 3,
+              "start": 9.402166,
+              "end": 9.578791
+            },
+            {
+              "text": "never",
+              "location": 132,
+              "length": 5,
+              "start": 9.592375,
+              "end": 9.877708
+            },
+            {
+              "text": "telling",
+              "location": 138,
+              "length": 7,
+              "start": 9.891291,
+              "end": 10.258124
+            },
+            {
+              "text": "the",
+              "location": 146,
+              "length": 3,
+              "start": 10.27175,
+              "end": 10.366875
+            },
+            {
+              "text": "truth",
+              "location": 150,
+              "length": 5,
+              "start": 10.380416,
+              "end": 10.937499
+            },
+            {
+              "text": "because",
+              "location": 157,
+              "length": 7,
+              "start": 11.114125,
+              "end": 11.480958
+            },
+            {
+              "text": "nobody",
+              "location": 165,
+              "length": 6,
+              "start": 11.494583,
+              "end": 11.915791
+            },
+            {
+              "text": "asked",
+              "location": 172,
+              "length": 5,
+              "start": 11.929333,
+              "end": 12.282583
+            },
+            {
+              "text": "me",
+              "location": 178,
+              "length": 2,
+              "start": 12.296208,
+              "end": 12.418499
+            },
+            {
+              "text": "to",
+              "location": 181,
+              "length": 2,
+              "start": 12.432083,
+              "end": 12.758166
+            },
+            {
+              "text": "I",
+              "location": 185,
+              "length": 1,
+              "start": 13.70925,
+              "end": 13.872291
+            },
+            {
+              "text": "just",
+              "location": 187,
+              "length": 4,
+              "start": 13.885875,
+              "end": 14.130458
+            },
+            {
+              "text": "had",
+              "location": 192,
+              "length": 3,
+              "start": 14.144041,
+              "end": 14.320666
+            },
+            {
+              "text": "to",
+              "location": 196,
+              "length": 2,
+              "start": 14.33425,
+              "end": 14.429375
+            },
+            {
+              "text": "write",
+              "location": 199,
+              "length": 5,
+              "start": 14.442916,
+              "end": 14.728249
+            },
+            {
+              "text": "down",
+              "location": 205,
+              "length": 4,
+              "start": 14.741833,
+              "end": 15.040749
+            },
+            {
+              "text": "something",
+              "location": 210,
+              "length": 9,
+              "start": 15.054333,
+              "end": 15.448374
+            },
+            {
+              "text": "that",
+              "location": 220,
+              "length": 4,
+              "start": 15.461958,
+              "end": 15.652166
+            },
+            {
+              "text": "sounded",
+              "location": 225,
+              "length": 7,
+              "start": 15.66575,
+              "end": 16.073375
+            },
+            {
+              "text": "right",
+              "location": 233,
+              "length": 5,
+              "start": 16.086958,
+              "end": 16.494583
+            },
+            {
+              "text": "that",
+              "location": 240,
+              "length": 4,
+              "start": 16.711958,
+              "end": 16.861416
+            },
+            {
+              "text": "met",
+              "location": 245,
+              "length": 3,
+              "start": 16.875,
+              "end": 17.051625
+            },
+            {
+              "text": "a",
+              "location": 249,
+              "length": 1,
+              "start": 17.065208,
+              "end": 17.119541
+            },
+            {
+              "text": "certain",
+              "location": 251,
+              "length": 7,
+              "start": 17.133166,
+              "end": 17.486416
+            },
+            {
+              "text": "standard",
+              "location": 259,
+              "length": 8,
+              "start": 17.5,
+              "end": 18.08425
+            },
+            {
+              "text": "to",
+              "location": 269,
+              "length": 2,
+              "start": 18.260875,
+              "end": 18.369583
+            },
+            {
+              "text": "get",
+              "location": 272,
+              "length": 3,
+              "start": 18.383166,
+              "end": 18.573374
+            },
+            {
+              "text": "the",
+              "location": 276,
+              "length": 3,
+              "start": 18.586958,
+              "end": 18.682083
+            },
+            {
+              "text": "assignment",
+              "location": 280,
+              "length": 10,
+              "start": 18.695666,
+              "end": 19.225541
+            },
+            {
+              "text": "done",
+              "location": 291,
+              "length": 4,
+              "start": 19.239125,
+              "end": 19.660333
+            },
+            {
+              "text": "and",
+              "location": 296,
+              "length": 3,
+              "start": 19.673916,
+              "end": 19.796207
+            },
+            {
+              "text": "hopefully",
+              "location": 300,
+              "length": 9,
+              "start": 19.809791,
+              "end": 20.298916
+            },
+            {
+              "text": "get",
+              "location": 310,
+              "length": 3,
+              "start": 20.3125,
+              "end": 20.489125
+            },
+            {
+              "text": "a",
+              "location": 314,
+              "length": 1,
+              "start": 20.502708,
+              "end": 20.557041
+            },
+            {
+              "text": "great",
+              "location": 316,
+              "length": 5,
+              "start": 20.570666,
+              "end": 20.869582
+            },
+            {
+              "text": "mark",
+              "location": 322,
+              "length": 4,
+              "start": 20.883166,
+              "end": 21.426624
+            }
+          ]
         },
         {
           "id": "p09",
           "text": "I hardly ever ask myself about my personal preferences, whether it's when I'm watching movies or just going about my everyday life.",
           "audio": {
-            "path": "finding-my-own-taste-09.mp3",
-            "sha256": "f29f832c62c251564ab241ce21d6d8c9f52df3828b13371950f03a955c82a04a"
+            "path": "finding-my-own-taste-words-p09.mp3",
+            "sha256": "9e0b8d0bebdb25ed27babe48aa512fc46a4ea8db57b7eb9eb6dd2d0738224ab2"
           },
           "vocabulary": [
             {
@@ -242,14 +2260,177 @@
               "meaning": "这里指照常进行、过着（日常生活）"
             }
           ],
-          "updatedAt": "2026-11-14"
+          "updatedAt": "2026-11-14",
+          "lines": [
+            {
+              "text": "I hardly ever ask myself about my personal preferences, whether it's when I'm watching movies or just going about my everyday life.",
+              "translation": "无论是看电影，还是过着日常生活，我几乎从不问自己真正的喜好是什么。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "I",
+              "location": 0,
+              "length": 1,
+              "start": 0.104333,
+              "end": 0.267374
+            },
+            {
+              "text": "hardly",
+              "location": 2,
+              "length": 6,
+              "start": 0.280958,
+              "end": 0.729333
+            },
+            {
+              "text": "ever",
+              "location": 9,
+              "length": 4,
+              "start": 0.742916,
+              "end": 1.055416
+            },
+            {
+              "text": "ask",
+              "location": 14,
+              "length": 3,
+              "start": 1.069041,
+              "end": 1.367957
+            },
+            {
+              "text": "myself",
+              "location": 18,
+              "length": 6,
+              "start": 1.381541,
+              "end": 1.870666
+            },
+            {
+              "text": "about",
+              "location": 25,
+              "length": 5,
+              "start": 1.88425,
+              "end": 2.142416
+            },
+            {
+              "text": "my",
+              "location": 31,
+              "length": 2,
+              "start": 2.155958,
+              "end": 2.291833
+            },
+            {
+              "text": "personal",
+              "location": 34,
+              "length": 8,
+              "start": 2.305416,
+              "end": 2.794541
+            },
+            {
+              "text": "preferences",
+              "location": 43,
+              "length": 11,
+              "start": 2.808166,
+              "end": 3.636957
+            },
+            {
+              "text": "whether",
+              "location": 56,
+              "length": 7,
+              "start": 3.867916,
+              "end": 4.166832
+            },
+            {
+              "text": "it's",
+              "location": 64,
+              "length": 4,
+              "start": 4.180416,
+              "end": 4.343457
+            },
+            {
+              "text": "when",
+              "location": 69,
+              "length": 4,
+              "start": 4.357083,
+              "end": 4.492958
+            },
+            {
+              "text": "I'm",
+              "location": 74,
+              "length": 3,
+              "start": 4.506541,
+              "end": 4.642416
+            },
+            {
+              "text": "watching",
+              "location": 78,
+              "length": 8,
+              "start": 4.655958,
+              "end": 5.077166
+            },
+            {
+              "text": "movies",
+              "location": 87,
+              "length": 6,
+              "start": 5.09075,
+              "end": 5.566291
+            },
+            {
+              "text": "or",
+              "location": 94,
+              "length": 2,
+              "start": 5.579875,
+              "end": 5.770083
+            },
+            {
+              "text": "just",
+              "location": 97,
+              "length": 4,
+              "start": 5.783708,
+              "end": 6.082624
+            },
+            {
+              "text": "going",
+              "location": 102,
+              "length": 5,
+              "start": 6.096208,
+              "end": 6.367958
+            },
+            {
+              "text": "about",
+              "location": 108,
+              "length": 5,
+              "start": 6.381541,
+              "end": 6.639707
+            },
+            {
+              "text": "my",
+              "location": 114,
+              "length": 2,
+              "start": 6.65325,
+              "end": 6.829875
+            },
+            {
+              "text": "everyday",
+              "location": 117,
+              "length": 8,
+              "start": 6.843458,
+              "end": 7.291833
+            },
+            {
+              "text": "life",
+              "location": 126,
+              "length": 4,
+              "start": 7.305416,
+              "end": 7.903249
+            }
+          ]
         },
         {
           "id": "p10",
           "text": "So if you asked me for a movie recommendation, I'd probably end up naming a bunch of universally acclaimed classics rather than something that genuinely reflects my personal taste.",
           "audio": {
-            "path": "finding-my-own-taste-10.mp3",
-            "sha256": "32c14e4554299393d822983c616bc9a17b0097d2d56089e649d1e91c0b71ba9e"
+            "path": "finding-my-own-taste-words-p10.mp3",
+            "sha256": "5bee1ba23828107df5a563b64e062ea2143f62e7f38c66831a7f76ea42622ab3"
           },
           "vocabulary": [
             {
@@ -283,12 +2464,224 @@
               "meaning": "反映；体现"
             }
           ],
-          "updatedAt": "2026-11-14"
+          "updatedAt": "2026-11-14",
+          "lines": [
+            {
+              "text": "So if you asked me for a movie recommendation, I'd probably end up naming a bunch of universally acclaimed classics rather than something that genuinely reflects my personal taste.",
+              "translation": "所以，如果你让我推荐电影，我多半会列出一堆广受赞誉的经典，而不是那些真正体现我个人品味的作品。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "So",
+              "location": 0,
+              "length": 2,
+              "start": 0.104333,
+              "end": 0.348916
+            },
+            {
+              "text": "if",
+              "location": 3,
+              "length": 2,
+              "start": 0.3625,
+              "end": 0.471208
+            },
+            {
+              "text": "you",
+              "location": 6,
+              "length": 3,
+              "start": 0.484791,
+              "end": 0.620666
+            },
+            {
+              "text": "asked",
+              "location": 10,
+              "length": 5,
+              "start": 0.63425,
+              "end": 0.9875
+            },
+            {
+              "text": "me",
+              "location": 16,
+              "length": 2,
+              "start": 1.001083,
+              "end": 1.123374
+            },
+            {
+              "text": "for",
+              "location": 19,
+              "length": 3,
+              "start": 1.136958,
+              "end": 1.299999
+            },
+            {
+              "text": "a",
+              "location": 23,
+              "length": 1,
+              "start": 1.313583,
+              "end": 1.367916
+            },
+            {
+              "text": "movie",
+              "location": 25,
+              "length": 5,
+              "start": 1.381541,
+              "end": 1.694041
+            },
+            {
+              "text": "recommendation",
+              "location": 31,
+              "length": 14,
+              "start": 1.707625,
+              "end": 2.699458
+            },
+            {
+              "text": "I'd",
+              "location": 47,
+              "length": 3,
+              "start": 2.944041,
+              "end": 3.066332
+            },
+            {
+              "text": "probably",
+              "location": 51,
+              "length": 8,
+              "start": 3.079875,
+              "end": 3.596166
+            },
+            {
+              "text": "end",
+              "location": 60,
+              "length": 3,
+              "start": 3.609791,
+              "end": 3.827166
+            },
+            {
+              "text": "up",
+              "location": 64,
+              "length": 2,
+              "start": 3.84075,
+              "end": 4.003791
+            },
+            {
+              "text": "naming",
+              "location": 67,
+              "length": 6,
+              "start": 4.017375,
+              "end": 4.397791
+            },
+            {
+              "text": "a",
+              "location": 74,
+              "length": 1,
+              "start": 4.411416,
+              "end": 4.479332
+            },
+            {
+              "text": "bunch",
+              "location": 76,
+              "length": 5,
+              "start": 4.492916,
+              "end": 4.805416
+            },
+            {
+              "text": "of",
+              "location": 82,
+              "length": 2,
+              "start": 4.819041,
+              "end": 4.900582
+            },
+            {
+              "text": "universally",
+              "location": 85,
+              "length": 11,
+              "start": 4.914125,
+              "end": 5.647833
+            },
+            {
+              "text": "acclaimed",
+              "location": 97,
+              "length": 9,
+              "start": 5.661416,
+              "end": 6.109791
+            },
+            {
+              "text": "classics",
+              "location": 107,
+              "length": 8,
+              "start": 6.123375,
+              "end": 6.802708
+            },
+            {
+              "text": "rather",
+              "location": 116,
+              "length": 6,
+              "start": 6.816291,
+              "end": 7.155957
+            },
+            {
+              "text": "than",
+              "location": 123,
+              "length": 4,
+              "start": 7.169583,
+              "end": 7.332624
+            },
+            {
+              "text": "something",
+              "location": 128,
+              "length": 9,
+              "start": 7.346208,
+              "end": 7.726624
+            },
+            {
+              "text": "that",
+              "location": 138,
+              "length": 4,
+              "start": 7.740208,
+              "end": 7.943999
+            },
+            {
+              "text": "genuinely",
+              "location": 143,
+              "length": 9,
+              "start": 7.957625,
+              "end": 8.569041
+            },
+            {
+              "text": "reflects",
+              "location": 153,
+              "length": 8,
+              "start": 8.582625,
+              "end": 9.126083
+            },
+            {
+              "text": "my",
+              "location": 162,
+              "length": 2,
+              "start": 9.139666,
+              "end": 9.261957
+            },
+            {
+              "text": "personal",
+              "location": 165,
+              "length": 8,
+              "start": 9.275541,
+              "end": 9.751082
+            },
+            {
+              "text": "taste",
+              "location": 174,
+              "length": 5,
+              "start": 9.764666,
+              "end": 10.403249
+            }
+          ]
         }
       ],
       "fullAudio": {
-        "path": "finding-my-own-taste-full.mp3",
-        "sha256": "36b662e69d4b01c1d8707c59674a43004ab248b5f42444a4b29baa18d25728fe"
+        "path": "finding-my-own-taste-words-full.mp3",
+        "sha256": "2e2cf710c3f269f585b030090757b484f6a4130859cd70a694eb450203570c91"
       },
       "edits": [
         {
@@ -331,7 +2724,7 @@
     },
     {
       "id": "small-steps-video-fragments",
-      "revision": 2,
+      "revision": 3,
       "updatedAt": "2026-11-14",
       "title": "Small Steps · Video Fragments",
       "subtitle": "关于面对变化的畏惧、推进想法时的急切，以及合作、行动框架与持续做小事的片段。",
@@ -343,8 +2736,8 @@
           "text": "I used to consider myself a rather",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "small-steps-video-fragments-01.mp3",
-            "sha256": "fa3a7473ad7c9603328838aea5fb167b2b82098c40ae61a8505243281d2ff115"
+            "path": "small-steps-video-fragments-words-p01.mp3",
+            "sha256": "7db5c09d192a6f2a1624bd538a4bd8382c1af1fcdfcc193cebb96d61f2d952e6"
           },
           "vocabulary": [
             {
@@ -357,6 +2750,64 @@
               "ipa": "ˈræðɚ",
               "meaning": "相当；颇（此处后文缺失）"
             }
+          ],
+          "lines": [
+            {
+              "text": "I used to consider myself a rather",
+              "translation": "我以前觉得自己是个相当……的人（原句未完）",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "I",
+              "location": 0,
+              "length": 1,
+              "start": 0.104333,
+              "end": 0.213041
+            },
+            {
+              "text": "used",
+              "location": 2,
+              "length": 4,
+              "start": 0.226625,
+              "end": 0.498375
+            },
+            {
+              "text": "to",
+              "location": 7,
+              "length": 2,
+              "start": 0.511958,
+              "end": 0.593499
+            },
+            {
+              "text": "consider",
+              "location": 10,
+              "length": 8,
+              "start": 0.607083,
+              "end": 1.069041
+            },
+            {
+              "text": "myself",
+              "location": 19,
+              "length": 6,
+              "start": 1.082625,
+              "end": 1.531
+            },
+            {
+              "text": "a",
+              "location": 26,
+              "length": 1,
+              "start": 1.544583,
+              "end": 1.598916
+            },
+            {
+              "text": "rather",
+              "location": 28,
+              "length": 6,
+              "start": 1.6125,
+              "end": 2.155958
+            }
           ]
         },
         {
@@ -364,14 +2815,72 @@
           "text": "and I feel intimidated by big changes",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "small-steps-video-fragments-02.mp3",
-            "sha256": "4137406e9f493cc84c6af19d62587885597b4086d35c398ea255520d7e33a121"
+            "path": "small-steps-video-fragments-words-p02.mp3",
+            "sha256": "a287b2356f00fbb12ccf0233aedb280593d95ee2352c677ff1be113e9ca53898"
           },
           "vocabulary": [
             {
               "word": "intimidated",
               "ipa": "ɪnˈtɪmədeɪtɪd",
               "meaning": "感到畏惧的；被吓住的"
+            }
+          ],
+          "lines": [
+            {
+              "text": "and I feel intimidated by big changes",
+              "translation": "而且，面对大的变化，我会感到畏惧。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "and",
+              "location": 0,
+              "length": 3,
+              "start": 0.104333,
+              "end": 0.308124
+            },
+            {
+              "text": "I",
+              "location": 4,
+              "length": 1,
+              "start": 0.32175,
+              "end": 0.403291
+            },
+            {
+              "text": "feel",
+              "location": 6,
+              "length": 4,
+              "start": 0.416833,
+              "end": 0.661416
+            },
+            {
+              "text": "intimidated",
+              "location": 11,
+              "length": 11,
+              "start": 0.675,
+              "end": 1.408708
+            },
+            {
+              "text": "by",
+              "location": 23,
+              "length": 2,
+              "start": 1.422291,
+              "end": 1.558166
+            },
+            {
+              "text": "big",
+              "location": 26,
+              "length": 3,
+              "start": 1.57175,
+              "end": 1.829916
+            },
+            {
+              "text": "changes",
+              "location": 30,
+              "length": 7,
+              "start": 1.843458,
+              "end": 2.604333
             }
           ]
         },
@@ -380,14 +2889,72 @@
           "text": "or I want to throw an elaborate",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "small-steps-video-fragments-03.mp3",
-            "sha256": "1327442e37f458b07e8b0beeeedfcc4690774734036f796cdbbe82732cfcebde"
+            "path": "small-steps-video-fragments-words-p03.mp3",
+            "sha256": "5f3de8be94251ca25339f357ebaafc4f9c889d04ec14be5dbc001be2b4cdf9a7"
           },
           "vocabulary": [
             {
               "word": "elaborate",
               "ipa": "ɪˈlæbərət",
               "meaning": "精心安排的；复杂的（形容词；后面的名词缺失）"
+            }
+          ],
+          "lines": [
+            {
+              "text": "or I want to throw an elaborate",
+              "translation": "或者，我想举办一场精心安排的……（原句未完）",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "or",
+              "location": 0,
+              "length": 2,
+              "start": 0.104333,
+              "end": 0.308124
+            },
+            {
+              "text": "I",
+              "location": 3,
+              "length": 1,
+              "start": 0.32175,
+              "end": 0.403291
+            },
+            {
+              "text": "want",
+              "location": 5,
+              "length": 4,
+              "start": 0.416833,
+              "end": 0.634208
+            },
+            {
+              "text": "to",
+              "location": 10,
+              "length": 2,
+              "start": 0.647833,
+              "end": 0.729374
+            },
+            {
+              "text": "throw",
+              "location": 13,
+              "length": 5,
+              "start": 0.742916,
+              "end": 1.001082
+            },
+            {
+              "text": "an",
+              "location": 19,
+              "length": 2,
+              "start": 1.014666,
+              "end": 1.109791
+            },
+            {
+              "text": "elaborate",
+              "location": 22,
+              "length": 9,
+              "start": 1.123375,
+              "end": 1.816291
             }
           ]
         },
@@ -396,8 +2963,8 @@
           "text": "but I'm incredibly impatient in all of those ideas",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "small-steps-video-fragments-04.mp3",
-            "sha256": "b76f17e4f3b965e1985225832b5e7e33a6f7b53a3b3f60b515dc0095e897608a"
+            "path": "small-steps-video-fragments-words-p04.mp3",
+            "sha256": "d3a5e79cd2b842514369dd5c55789d1efcf43bd3e210e229e51d9cf87755a27a"
           },
           "vocabulary": [
             {
@@ -410,6 +2977,78 @@
               "ipa": "ɪmˈpeɪʃənt",
               "meaning": "不耐烦的；急切的"
             }
+          ],
+          "lines": [
+            {
+              "text": "but I'm incredibly impatient in all of those ideas",
+              "translation": "但面对所有这些想法，我都极其缺乏耐心。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "but",
+              "location": 0,
+              "length": 3,
+              "start": 0.104333,
+              "end": 0.267374
+            },
+            {
+              "text": "I'm",
+              "location": 4,
+              "length": 3,
+              "start": 0.280958,
+              "end": 0.389666
+            },
+            {
+              "text": "incredibly",
+              "location": 8,
+              "length": 10,
+              "start": 0.40325,
+              "end": 1.014666
+            },
+            {
+              "text": "impatient",
+              "location": 19,
+              "length": 9,
+              "start": 1.02825,
+              "end": 1.639666
+            },
+            {
+              "text": "in",
+              "location": 29,
+              "length": 2,
+              "start": 1.65325,
+              "end": 1.816291
+            },
+            {
+              "text": "all",
+              "location": 32,
+              "length": 3,
+              "start": 1.829875,
+              "end": 2.0065
+            },
+            {
+              "text": "of",
+              "location": 36,
+              "length": 2,
+              "start": 2.020125,
+              "end": 2.088041
+            },
+            {
+              "text": "those",
+              "location": 39,
+              "length": 5,
+              "start": 2.101625,
+              "end": 2.319
+            },
+            {
+              "text": "ideas",
+              "location": 45,
+              "length": 5,
+              "start": 2.332625,
+              "end": 3.066333
+            }
           ]
         },
         {
@@ -417,14 +3056,79 @@
           "text": "through the whole process of making things happen",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "small-steps-video-fragments-05.mp3",
-            "sha256": "523ea4f1c66c20fedfc8832fc6c5ab9cea0b2daa2d6b1c9d5e70fc124e6f521b"
+            "path": "small-steps-video-fragments-words-p05.mp3",
+            "sha256": "e49bf826432a485b331c08a3100dd0a0d0da2d62f68924954db43dd2ad296159"
           },
           "vocabulary": [
             {
               "word": "process",
               "ipa": "ˈprɑsɛs",
               "meaning": "过程；流程"
+            }
+          ],
+          "lines": [
+            {
+              "text": "through the whole process of making things happen",
+              "translation": "在把事情做成的整个过程中。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "through",
+              "location": 0,
+              "length": 7,
+              "start": 0.104333,
+              "end": 0.308124
+            },
+            {
+              "text": "the",
+              "location": 8,
+              "length": 3,
+              "start": 0.32175,
+              "end": 0.430458
+            },
+            {
+              "text": "whole",
+              "location": 12,
+              "length": 5,
+              "start": 0.444041,
+              "end": 0.661416
+            },
+            {
+              "text": "process",
+              "location": 18,
+              "length": 7,
+              "start": 0.675,
+              "end": 1.204875
+            },
+            {
+              "text": "of",
+              "location": 26,
+              "length": 2,
+              "start": 1.218458,
+              "end": 1.313583
+            },
+            {
+              "text": "making",
+              "location": 29,
+              "length": 6,
+              "start": 1.327166,
+              "end": 1.707582
+            },
+            {
+              "text": "things",
+              "location": 36,
+              "length": 6,
+              "start": 1.721208,
+              "end": 2.006541
+            },
+            {
+              "text": "happen",
+              "location": 43,
+              "length": 6,
+              "start": 2.020125,
+              "end": 2.55
             }
           ]
         },
@@ -433,8 +3137,8 @@
           "text": "collaborator or even a specific client",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "small-steps-video-fragments-06.mp3",
-            "sha256": "47f1fb39ea0b9a06ce9210df8c7ed801a7b5a5924de84c1608b8cdda3660fdd3"
+            "path": "small-steps-video-fragments-words-p06.mp3",
+            "sha256": "f1ffc27c23c12422f2e099a5c11e4a3e53b81023e124b23b1fd87d18af4f84ee"
           },
           "vocabulary": [
             {
@@ -452,6 +3156,57 @@
               "ipa": "ˈklaɪənt",
               "meaning": "客户；委托人"
             }
+          ],
+          "lines": [
+            {
+              "text": "collaborator or even a specific client",
+              "translation": "合作者，甚至是某个特定的客户。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "collaborator",
+              "location": 0,
+              "length": 12,
+              "start": 0.104333,
+              "end": 0.919541
+            },
+            {
+              "text": "or",
+              "location": 13,
+              "length": 2,
+              "start": 0.933166,
+              "end": 1.069041
+            },
+            {
+              "text": "even",
+              "location": 16,
+              "length": 4,
+              "start": 1.082625,
+              "end": 1.340791
+            },
+            {
+              "text": "a",
+              "location": 21,
+              "length": 1,
+              "start": 1.354333,
+              "end": 1.408666
+            },
+            {
+              "text": "specific",
+              "location": 23,
+              "length": 8,
+              "start": 1.422291,
+              "end": 1.979374
+            },
+            {
+              "text": "client",
+              "location": 32,
+              "length": 6,
+              "start": 1.992916,
+              "end": 2.604332
+            }
           ]
         },
         {
@@ -459,14 +3214,58 @@
           "text": "it's like borrowing someone else's",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "small-steps-video-fragments-07.mp3",
-            "sha256": "147a106e753f4cff7ea0a07e9b6fbee5030c6ca806304ab892a2c66617e46b84"
+            "path": "small-steps-video-fragments-words-p07.mp3",
+            "sha256": "0a7ba8bc366fa488ff95daa0998924a32475646bb0c0d70066e9a03939cf996b"
           },
           "vocabulary": [
             {
               "word": "borrowing",
               "ipa": "ˈbɑroʊɪŋ",
               "meaning": "借用（borrow 的现在分词）"
+            }
+          ],
+          "lines": [
+            {
+              "text": "it's like borrowing someone else's",
+              "translation": "这就像借用别人的……（原句未完）",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "it's",
+              "location": 0,
+              "length": 4,
+              "start": 0.104333,
+              "end": 0.321708
+            },
+            {
+              "text": "like",
+              "location": 5,
+              "length": 4,
+              "start": 0.335333,
+              "end": 0.552708
+            },
+            {
+              "text": "borrowing",
+              "location": 10,
+              "length": 9,
+              "start": 0.566291,
+              "end": 1.001082
+            },
+            {
+              "text": "someone",
+              "location": 20,
+              "length": 7,
+              "start": 1.014666,
+              "end": 1.354332
+            },
+            {
+              "text": "else's",
+              "location": 28,
+              "length": 6,
+              "start": 1.367916,
+              "end": 2.088041
             }
           ]
         },
@@ -475,14 +3274,51 @@
           "text": "do smaller things consistently",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "small-steps-video-fragments-08.mp3",
-            "sha256": "ac6b1d524bf22421837ac495a0332c71cc49e0f4ac5cb8b9cb2eb53770f02eea"
+            "path": "small-steps-video-fragments-words-p08.mp3",
+            "sha256": "614f6e81249f05effb9f1e2f61e1355c37eb77a5348d31cc1aed0e1ec401f7a0"
           },
           "vocabulary": [
             {
               "word": "consistently",
               "ipa": "kənˈsɪstəntli",
               "meaning": "持续地；始终如一地"
+            }
+          ],
+          "lines": [
+            {
+              "text": "do smaller things consistently",
+              "translation": "持续地做一些更小的事情。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "do",
+              "location": 0,
+              "length": 2,
+              "start": 0.104333,
+              "end": 0.308124
+            },
+            {
+              "text": "smaller",
+              "location": 3,
+              "length": 7,
+              "start": 0.32175,
+              "end": 0.756541
+            },
+            {
+              "text": "things",
+              "location": 11,
+              "length": 6,
+              "start": 0.770125,
+              "end": 1.082625
+            },
+            {
+              "text": "consistently",
+              "location": 18,
+              "length": 12,
+              "start": 1.096208,
+              "end": 1.992958
             }
           ]
         },
@@ -491,8 +3327,8 @@
           "text": "to give me the structure or something",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "small-steps-video-fragments-09.mp3",
-            "sha256": "b33f46a86333e62adcde69c396936ac99fd89d2d7b28550d79f3f7894f8e675a"
+            "path": "small-steps-video-fragments-words-p09.mp3",
+            "sha256": "ecff2328c9b83cd9f2fb9b02504beec77e84d33569efd4f75a6ade653fbd5938"
           },
           "vocabulary": [
             {
@@ -500,19 +3336,77 @@
               "ipa": "ˈstrʌktʃɚ",
               "meaning": "结构；框架；条理"
             }
+          ],
+          "lines": [
+            {
+              "text": "to give me the structure or something",
+              "translation": "给我一些框架，或者类似的东西。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "to",
+              "location": 0,
+              "length": 2,
+              "start": 0.104333,
+              "end": 0.240208
+            },
+            {
+              "text": "give",
+              "location": 3,
+              "length": 4,
+              "start": 0.253791,
+              "end": 0.430416
+            },
+            {
+              "text": "me",
+              "location": 8,
+              "length": 2,
+              "start": 0.444041,
+              "end": 0.552749
+            },
+            {
+              "text": "the",
+              "location": 11,
+              "length": 3,
+              "start": 0.566291,
+              "end": 0.674999
+            },
+            {
+              "text": "structure",
+              "location": 15,
+              "length": 9,
+              "start": 0.688583,
+              "end": 1.191291
+            },
+            {
+              "text": "or",
+              "location": 25,
+              "length": 2,
+              "start": 1.204875,
+              "end": 1.327166
+            },
+            {
+              "text": "something",
+              "location": 28,
+              "length": 9,
+              "start": 1.34075,
+              "end": 1.938583
+            }
           ]
         }
       ],
       "fullAudio": {
-        "path": "small-steps-video-fragments-full.mp3",
-        "sha256": "b2a7dea8794ea29575cc90917ef541b34c375e18fc75392dfad8e202a6a3e651"
+        "path": "small-steps-video-fragments-words-full.mp3",
+        "sha256": "ef9af21c9079d389fe9f9d5e3c8b297b1baff7bfbfda34de7b66f0170ebd5d9d"
       },
       "edits": [],
       "sourceNote": "视频片段跟读 · 按提供顺序保留 8 个片段，另附 1 句；未补全缺失内容。"
     },
     {
       "id": "performing-in-real-time",
-      "revision": 1,
+      "revision": 2,
       "updatedAt": "2026-11-14",
       "title": "Performing in Real Time",
       "subtitle": "为什么即时表现让人紧张，而反复修改让人安心？从唱歌、考试和写作谈起，思考如何练习临场应对。",
@@ -525,8 +3419,8 @@
           "text": "I guess people who don't have much experience with real-time competition tend to get nervous pretty easily. Like me, I struggle to stay calm under pressure.",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "performing-in-real-time-01.mp3",
-            "sha256": "e291367f5f8f31ecaad0b6300271b7a7fbb173ee1992827789e41d3eae8153c1"
+            "path": "performing-in-real-time-words-p01.mp3",
+            "sha256": "802fe19173e0d8a7d87fbf123f7d50011fce2d2ea4483019b85fffe3c4b379f8"
           },
           "vocabulary": [
             {
@@ -544,6 +3438,202 @@
               "ipa": "ˈʌndɚ ˈprɛʃɚ",
               "meaning": "在压力之下"
             }
+          ],
+          "lines": [
+            {
+              "text": "I guess people who don't have much experience with real-time competition tend to get nervous pretty easily.",
+              "translation": "我想，那些没怎么经历过即时竞争的人，往往很容易紧张。",
+              "location": 0
+            },
+            {
+              "text": "Like me, I struggle to stay calm under pressure.",
+              "translation": "就像我，在压力下很难保持冷静。",
+              "location": 108
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "I",
+              "location": 0,
+              "length": 1,
+              "start": 0.104333,
+              "end": 0.267374
+            },
+            {
+              "text": "guess",
+              "location": 2,
+              "length": 5,
+              "start": 0.280958,
+              "end": 0.525541
+            },
+            {
+              "text": "people",
+              "location": 8,
+              "length": 6,
+              "start": 0.539125,
+              "end": 0.878791
+            },
+            {
+              "text": "who",
+              "location": 15,
+              "length": 3,
+              "start": 0.892375,
+              "end": 1.001083
+            },
+            {
+              "text": "don't",
+              "location": 19,
+              "length": 5,
+              "start": 1.014666,
+              "end": 1.259249
+            },
+            {
+              "text": "have",
+              "location": 25,
+              "length": 4,
+              "start": 1.272833,
+              "end": 1.449458
+            },
+            {
+              "text": "much",
+              "location": 30,
+              "length": 4,
+              "start": 1.463041,
+              "end": 1.707624
+            },
+            {
+              "text": "experience",
+              "location": 35,
+              "length": 10,
+              "start": 1.721208,
+              "end": 2.386958
+            },
+            {
+              "text": "with",
+              "location": 46,
+              "length": 4,
+              "start": 2.400541,
+              "end": 2.563582
+            },
+            {
+              "text": "real-time",
+              "location": 51,
+              "length": 9,
+              "start": 2.577166,
+              "end": 3.079874
+            },
+            {
+              "text": "competition",
+              "location": 61,
+              "length": 11,
+              "start": 3.093458,
+              "end": 3.935833
+            },
+            {
+              "text": "tend",
+              "location": 73,
+              "length": 4,
+              "start": 3.949458,
+              "end": 4.221208
+            },
+            {
+              "text": "to",
+              "location": 78,
+              "length": 2,
+              "start": 4.234791,
+              "end": 4.329916
+            },
+            {
+              "text": "get",
+              "location": 81,
+              "length": 3,
+              "start": 4.343458,
+              "end": 4.533666
+            },
+            {
+              "text": "nervous",
+              "location": 85,
+              "length": 7,
+              "start": 4.547291,
+              "end": 4.914124
+            },
+            {
+              "text": "pretty",
+              "location": 93,
+              "length": 6,
+              "start": 4.927708,
+              "end": 5.240208
+            },
+            {
+              "text": "easily",
+              "location": 100,
+              "length": 6,
+              "start": 5.253791,
+              "end": 5.851624
+            },
+            {
+              "text": "Like",
+              "location": 108,
+              "length": 4,
+              "start": 6.793458,
+              "end": 7.105958
+            },
+            {
+              "text": "me",
+              "location": 113,
+              "length": 2,
+              "start": 7.119583,
+              "end": 7.432083
+            },
+            {
+              "text": "I",
+              "location": 117,
+              "length": 1,
+              "start": 7.595125,
+              "end": 7.717416
+            },
+            {
+              "text": "struggle",
+              "location": 119,
+              "length": 8,
+              "start": 7.730958,
+              "end": 8.165749
+            },
+            {
+              "text": "to",
+              "location": 128,
+              "length": 2,
+              "start": 8.179333,
+              "end": 8.274458
+            },
+            {
+              "text": "stay",
+              "location": 131,
+              "length": 4,
+              "start": 8.288041,
+              "end": 8.532624
+            },
+            {
+              "text": "calm",
+              "location": 136,
+              "length": 4,
+              "start": 8.546208,
+              "end": 8.845124
+            },
+            {
+              "text": "under",
+              "location": 141,
+              "length": 5,
+              "start": 8.858708,
+              "end": 9.076083
+            },
+            {
+              "text": "pressure",
+              "location": 147,
+              "length": 8,
+              "start": 9.089666,
+              "end": 9.714666
+            }
           ]
         },
         {
@@ -551,8 +3641,8 @@
           "text": "When it comes to things that happen in real time... By that, I mean things like singing. You've only got maybe three minutes, and every second counts.",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "performing-in-real-time-02.mp3",
-            "sha256": "e1a592b8393eb4176ba4b58e682341f2e634eb050a3554d83efdff4beb16d0cf"
+            "path": "performing-in-real-time-words-p02.mp3",
+            "sha256": "6af0c85810584c097c2f55ac18bace0b6f9195284ae36fbc02e9d4ad5ca1dacd"
           },
           "vocabulary": [
             {
@@ -565,6 +3655,214 @@
               "ipa": "ˈɛvri ˈsɛkənd kaʊnts",
               "meaning": "每一秒都很重要；分秒必争"
             }
+          ],
+          "lines": [
+            {
+              "text": "When it comes to things that happen in real time...",
+              "translation": "说到那些需要当场应对的事情……",
+              "location": 0
+            },
+            {
+              "text": "By that, I mean things like singing.",
+              "translation": "我指的是唱歌这类事。",
+              "location": 52
+            },
+            {
+              "text": "You've only got maybe three minutes, and every second counts.",
+              "translation": "你可能只有三分钟，每一秒都很重要。",
+              "location": 89
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "When",
+              "location": 0,
+              "length": 4,
+              "start": 0.104333,
+              "end": 0.294541
+            },
+            {
+              "text": "it",
+              "location": 5,
+              "length": 2,
+              "start": 0.308166,
+              "end": 0.416874
+            },
+            {
+              "text": "comes",
+              "location": 8,
+              "length": 5,
+              "start": 0.430416,
+              "end": 0.688582
+            },
+            {
+              "text": "to",
+              "location": 14,
+              "length": 2,
+              "start": 0.702166,
+              "end": 0.797291
+            },
+            {
+              "text": "things",
+              "location": 17,
+              "length": 6,
+              "start": 0.810875,
+              "end": 1.123375
+            },
+            {
+              "text": "that",
+              "location": 24,
+              "length": 4,
+              "start": 1.136958,
+              "end": 1.286416
+            },
+            {
+              "text": "happen",
+              "location": 29,
+              "length": 6,
+              "start": 1.3,
+              "end": 1.666833
+            },
+            {
+              "text": "in",
+              "location": 36,
+              "length": 2,
+              "start": 1.680416,
+              "end": 1.816291
+            },
+            {
+              "text": "real",
+              "location": 39,
+              "length": 4,
+              "start": 1.829875,
+              "end": 2.060833
+            },
+            {
+              "text": "time",
+              "location": 44,
+              "length": 4,
+              "start": 2.074458,
+              "end": 2.617916
+            },
+            {
+              "text": "By",
+              "location": 52,
+              "length": 2,
+              "start": 3.559791,
+              "end": 3.736416
+            },
+            {
+              "text": "that",
+              "location": 55,
+              "length": 4,
+              "start": 3.75,
+              "end": 4.198375
+            },
+            {
+              "text": "I",
+              "location": 61,
+              "length": 1,
+              "start": 4.402166,
+              "end": 4.456499
+            },
+            {
+              "text": "mean",
+              "location": 63,
+              "length": 4,
+              "start": 4.470125,
+              "end": 4.741875
+            },
+            {
+              "text": "things",
+              "location": 68,
+              "length": 6,
+              "start": 4.755416,
+              "end": 5.054332
+            },
+            {
+              "text": "like",
+              "location": 75,
+              "length": 4,
+              "start": 5.067916,
+              "end": 5.271707
+            },
+            {
+              "text": "singing",
+              "location": 80,
+              "length": 7,
+              "start": 5.285333,
+              "end": 5.842416
+            },
+            {
+              "text": "You've",
+              "location": 89,
+              "length": 6,
+              "start": 6.779875,
+              "end": 7.024458
+            },
+            {
+              "text": "only",
+              "location": 96,
+              "length": 4,
+              "start": 7.038041,
+              "end": 7.282624
+            },
+            {
+              "text": "got",
+              "location": 101,
+              "length": 3,
+              "start": 7.296208,
+              "end": 7.513583
+            },
+            {
+              "text": "maybe",
+              "location": 105,
+              "length": 5,
+              "start": 7.527166,
+              "end": 7.839666
+            },
+            {
+              "text": "three",
+              "location": 111,
+              "length": 5,
+              "start": 7.85325,
+              "end": 8.097833
+            },
+            {
+              "text": "minutes",
+              "location": 117,
+              "length": 7,
+              "start": 8.111416,
+              "end": 8.668499
+            },
+            {
+              "text": "and",
+              "location": 126,
+              "length": 3,
+              "start": 8.872291,
+              "end": 9.062499
+            },
+            {
+              "text": "every",
+              "location": 130,
+              "length": 5,
+              "start": 9.076083,
+              "end": 9.320666
+            },
+            {
+              "text": "second",
+              "location": 136,
+              "length": 6,
+              "start": 9.33425,
+              "end": 9.755458
+            },
+            {
+              "text": "counts",
+              "location": 143,
+              "length": 6,
+              "start": 9.769041,
+              "end": 10.394041
+            }
           ]
         },
         {
@@ -572,8 +3870,8 @@
           "text": "Whatever you deliver in that moment is what people get. There's no going back to change your work or fix things afterward.",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "performing-in-real-time-03.mp3",
-            "sha256": "469e9667651f0e903fb1e6515d42553e126b11afd3af35ceb1973c78ddb4d974"
+            "path": "performing-in-real-time-words-p03.mp3",
+            "sha256": "bd8d72bf5182c10c9e6a806bc740ef11ced917656f034631aa18dbd995855683"
           },
           "vocabulary": [
             {
@@ -586,6 +3884,174 @@
               "ipa": "ˈæftɚwɚd",
               "meaning": "之后；事后"
             }
+          ],
+          "lines": [
+            {
+              "text": "Whatever you deliver in that moment is what people get.",
+              "translation": "你在那一刻呈现什么，别人接收到的就是什么。",
+              "location": 0
+            },
+            {
+              "text": "There's no going back to change your work or fix things afterward.",
+              "translation": "事后无法回头修改作品或弥补问题。",
+              "location": 56
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "Whatever",
+              "location": 0,
+              "length": 8,
+              "start": 0.104333,
+              "end": 0.539124
+            },
+            {
+              "text": "you",
+              "location": 9,
+              "length": 3,
+              "start": 0.552708,
+              "end": 0.674999
+            },
+            {
+              "text": "deliver",
+              "location": 13,
+              "length": 7,
+              "start": 0.688583,
+              "end": 1.109791
+            },
+            {
+              "text": "in",
+              "location": 21,
+              "length": 2,
+              "start": 1.123375,
+              "end": 1.2185
+            },
+            {
+              "text": "that",
+              "location": 24,
+              "length": 4,
+              "start": 1.232083,
+              "end": 1.435874
+            },
+            {
+              "text": "moment",
+              "location": 29,
+              "length": 6,
+              "start": 1.449458,
+              "end": 1.870666
+            },
+            {
+              "text": "is",
+              "location": 36,
+              "length": 2,
+              "start": 1.88425,
+              "end": 2.020125
+            },
+            {
+              "text": "what",
+              "location": 39,
+              "length": 4,
+              "start": 2.033708,
+              "end": 2.183166
+            },
+            {
+              "text": "people",
+              "location": 44,
+              "length": 6,
+              "start": 2.19675,
+              "end": 2.495666
+            },
+            {
+              "text": "get",
+              "location": 51,
+              "length": 3,
+              "start": 2.50925,
+              "end": 2.984791
+            },
+            {
+              "text": "There's",
+              "location": 56,
+              "length": 7,
+              "start": 3.926625,
+              "end": 4.171208
+            },
+            {
+              "text": "no",
+              "location": 64,
+              "length": 2,
+              "start": 4.184791,
+              "end": 4.347832
+            },
+            {
+              "text": "going",
+              "location": 67,
+              "length": 5,
+              "start": 4.361416,
+              "end": 4.633166
+            },
+            {
+              "text": "back",
+              "location": 73,
+              "length": 4,
+              "start": 4.64675,
+              "end": 4.9185
+            },
+            {
+              "text": "to",
+              "location": 78,
+              "length": 2,
+              "start": 4.932083,
+              "end": 5.027208
+            },
+            {
+              "text": "change",
+              "location": 81,
+              "length": 6,
+              "start": 5.04075,
+              "end": 5.407583
+            },
+            {
+              "text": "your",
+              "location": 88,
+              "length": 4,
+              "start": 5.421208,
+              "end": 5.557083
+            },
+            {
+              "text": "work",
+              "location": 93,
+              "length": 4,
+              "start": 5.570666,
+              "end": 5.923916
+            },
+            {
+              "text": "or",
+              "location": 98,
+              "length": 2,
+              "start": 5.9375,
+              "end": 6.059791
+            },
+            {
+              "text": "fix",
+              "location": 101,
+              "length": 3,
+              "start": 6.073375,
+              "end": 6.413041
+            },
+            {
+              "text": "things",
+              "location": 105,
+              "length": 6,
+              "start": 6.426625,
+              "end": 6.711958
+            },
+            {
+              "text": "afterward",
+              "location": 112,
+              "length": 9,
+              "start": 6.725541,
+              "end": 7.391291
+            }
           ]
         },
         {
@@ -593,14 +4059,107 @@
           "text": "And I'm a total mess when it comes to things like that.",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "performing-in-real-time-04.mp3",
-            "sha256": "c72ec3a0cc8763b81c605ca31ca4bc51dafa7cdceed910c8b6b8f35f465a2f9e"
+            "path": "performing-in-real-time-words-p04.mp3",
+            "sha256": "a0508cc73a734fc19fb3a44829bf50256163b9bed3a19f19287d3383cb7764e4"
           },
           "vocabulary": [
             {
               "word": "a total mess",
               "ipa": "ə ˈtoʊtəl mɛs",
               "meaning": "一团糟；这里形容自己紧张失措"
+            }
+          ],
+          "lines": [
+            {
+              "text": "And I'm a total mess when it comes to things like that.",
+              "translation": "一碰上这样的事，我就会彻底乱了阵脚。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "And",
+              "location": 0,
+              "length": 3,
+              "start": 0.104333,
+              "end": 0.321708
+            },
+            {
+              "text": "I'm",
+              "location": 4,
+              "length": 3,
+              "start": 0.335333,
+              "end": 0.457624
+            },
+            {
+              "text": "a",
+              "location": 8,
+              "length": 1,
+              "start": 0.471208,
+              "end": 0.539124
+            },
+            {
+              "text": "total",
+              "location": 10,
+              "length": 5,
+              "start": 0.552708,
+              "end": 0.905958
+            },
+            {
+              "text": "mess",
+              "location": 16,
+              "length": 4,
+              "start": 0.919583,
+              "end": 1.272833
+            },
+            {
+              "text": "when",
+              "location": 21,
+              "length": 4,
+              "start": 1.286416,
+              "end": 1.422291
+            },
+            {
+              "text": "it",
+              "location": 26,
+              "length": 2,
+              "start": 1.435875,
+              "end": 1.544583
+            },
+            {
+              "text": "comes",
+              "location": 29,
+              "length": 5,
+              "start": 1.558166,
+              "end": 1.843499
+            },
+            {
+              "text": "to",
+              "location": 35,
+              "length": 2,
+              "start": 1.857083,
+              "end": 1.952208
+            },
+            {
+              "text": "things",
+              "location": 38,
+              "length": 6,
+              "start": 1.96575,
+              "end": 2.291833
+            },
+            {
+              "text": "like",
+              "location": 45,
+              "length": 4,
+              "start": 2.305416,
+              "end": 2.495624
+            },
+            {
+              "text": "that",
+              "location": 50,
+              "length": 4,
+              "start": 2.50925,
+              "end": 2.957625
             }
           ]
         },
@@ -609,8 +4168,8 @@
           "text": "But I'm very comfortable with things that allow me to double-check, review, and revise.",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "performing-in-real-time-05.mp3",
-            "sha256": "d20123eec4954dd294535bfa11d909e72465f0cb2ca5f8ce70d57a5d391f85ef"
+            "path": "performing-in-real-time-words-p05.mp3",
+            "sha256": "d4676a08fd65557dee982c1615da7121148097360929690bb450eb2bde1e391d"
           },
           "vocabulary": [
             {
@@ -633,6 +4192,113 @@
               "ipa": "rɪˈvaɪz",
               "meaning": "修改；修订"
             }
+          ],
+          "lines": [
+            {
+              "text": "But I'm very comfortable with things that allow me to double-check, review, and revise.",
+              "translation": "但如果事情允许我反复检查、回顾和修改，我就会很自在。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "But",
+              "location": 0,
+              "length": 3,
+              "start": 0.104333,
+              "end": 0.267374
+            },
+            {
+              "text": "I'm",
+              "location": 4,
+              "length": 3,
+              "start": 0.280958,
+              "end": 0.416833
+            },
+            {
+              "text": "very",
+              "location": 8,
+              "length": 4,
+              "start": 0.430416,
+              "end": 0.729332
+            },
+            {
+              "text": "comfortable",
+              "location": 13,
+              "length": 11,
+              "start": 0.742916,
+              "end": 1.313582
+            },
+            {
+              "text": "with",
+              "location": 25,
+              "length": 4,
+              "start": 1.327166,
+              "end": 1.476624
+            },
+            {
+              "text": "things",
+              "location": 30,
+              "length": 6,
+              "start": 1.490208,
+              "end": 1.884249
+            },
+            {
+              "text": "that",
+              "location": 37,
+              "length": 4,
+              "start": 1.897833,
+              "end": 2.033708
+            },
+            {
+              "text": "allow",
+              "location": 42,
+              "length": 5,
+              "start": 2.047291,
+              "end": 2.319041
+            },
+            {
+              "text": "me",
+              "location": 48,
+              "length": 2,
+              "start": 2.332625,
+              "end": 2.454916
+            },
+            {
+              "text": "to",
+              "location": 51,
+              "length": 2,
+              "start": 2.468458,
+              "end": 2.563583
+            },
+            {
+              "text": "double-check",
+              "location": 54,
+              "length": 12,
+              "start": 2.577166,
+              "end": 3.324457
+            },
+            {
+              "text": "review",
+              "location": 68,
+              "length": 6,
+              "start": 3.52825,
+              "end": 4.058125
+            },
+            {
+              "text": "and",
+              "location": 76,
+              "length": 3,
+              "start": 4.194041,
+              "end": 4.329916
+            },
+            {
+              "text": "revise",
+              "location": 80,
+              "length": 6,
+              "start": 4.343458,
+              "end": 5.077166
+            }
           ]
         },
         {
@@ -640,8 +4306,8 @@
           "text": "Like taking an exam or writing a paper. With a paper, I can always go through my work time and time again before handing it in and having to face the result.",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "performing-in-real-time-06.mp3",
-            "sha256": "941de7c010310881ca2b50937906d94cf3158123c829f9604429ade87aea7e10"
+            "path": "performing-in-real-time-words-p06.mp3",
+            "sha256": "50e8baed6c426f8997a6a1a44abe0adb79f5d0ccc6185232e2bfcd4d7c7018d3"
           },
           "vocabulary": [
             {
@@ -659,6 +4325,244 @@
               "ipa": "ˈhændɪŋ ɪt ɪn",
               "meaning": "提交它；交上作业"
             }
+          ],
+          "lines": [
+            {
+              "text": "Like taking an exam or writing a paper.",
+              "translation": "比如参加考试或写论文。",
+              "location": 0
+            },
+            {
+              "text": "With a paper, I can always go through my work time and time again before handing it in and having to face the result.",
+              "translation": "写论文时，在提交并面对结果之前，我总能一遍又一遍地检查自己的内容。",
+              "location": 40
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "Like",
+              "location": 0,
+              "length": 4,
+              "start": 0.104333,
+              "end": 0.376083
+            },
+            {
+              "text": "taking",
+              "location": 5,
+              "length": 6,
+              "start": 0.389666,
+              "end": 0.783707
+            },
+            {
+              "text": "an",
+              "location": 12,
+              "length": 2,
+              "start": 0.797291,
+              "end": 0.892416
+            },
+            {
+              "text": "exam",
+              "location": 15,
+              "length": 4,
+              "start": 0.905958,
+              "end": 1.408666
+            },
+            {
+              "text": "or",
+              "location": 20,
+              "length": 2,
+              "start": 1.422291,
+              "end": 1.558166
+            },
+            {
+              "text": "writing",
+              "location": 23,
+              "length": 7,
+              "start": 1.57175,
+              "end": 1.925
+            },
+            {
+              "text": "a",
+              "location": 31,
+              "length": 1,
+              "start": 1.938583,
+              "end": 1.992916
+            },
+            {
+              "text": "paper",
+              "location": 33,
+              "length": 5,
+              "start": 2.006541,
+              "end": 2.604374
+            },
+            {
+              "text": "With",
+              "location": 40,
+              "length": 4,
+              "start": 3.546208,
+              "end": 3.736416
+            },
+            {
+              "text": "a",
+              "location": 45,
+              "length": 1,
+              "start": 3.75,
+              "end": 3.817916
+            },
+            {
+              "text": "paper",
+              "location": 47,
+              "length": 5,
+              "start": 3.831541,
+              "end": 4.374999
+            },
+            {
+              "text": "I",
+              "location": 54,
+              "length": 1,
+              "start": 4.592375,
+              "end": 4.660291
+            },
+            {
+              "text": "can",
+              "location": 56,
+              "length": 3,
+              "start": 4.673916,
+              "end": 4.864124
+            },
+            {
+              "text": "always",
+              "location": 60,
+              "length": 6,
+              "start": 4.877708,
+              "end": 5.230958
+            },
+            {
+              "text": "go",
+              "location": 67,
+              "length": 2,
+              "start": 5.244583,
+              "end": 5.394041
+            },
+            {
+              "text": "through",
+              "location": 70,
+              "length": 7,
+              "start": 5.407625,
+              "end": 5.570666
+            },
+            {
+              "text": "my",
+              "location": 78,
+              "length": 2,
+              "start": 5.58425,
+              "end": 5.747291
+            },
+            {
+              "text": "work",
+              "location": 81,
+              "length": 4,
+              "start": 5.760875,
+              "end": 6.032625
+            },
+            {
+              "text": "time",
+              "location": 86,
+              "length": 4,
+              "start": 6.046208,
+              "end": 6.345124
+            },
+            {
+              "text": "and",
+              "location": 91,
+              "length": 3,
+              "start": 6.358708,
+              "end": 6.467416
+            },
+            {
+              "text": "time",
+              "location": 95,
+              "length": 4,
+              "start": 6.480958,
+              "end": 6.779874
+            },
+            {
+              "text": "again",
+              "location": 100,
+              "length": 5,
+              "start": 6.793458,
+              "end": 7.173874
+            },
+            {
+              "text": "before",
+              "location": 106,
+              "length": 6,
+              "start": 7.1875,
+              "end": 7.513583
+            },
+            {
+              "text": "handing",
+              "location": 113,
+              "length": 7,
+              "start": 7.527166,
+              "end": 7.921207
+            },
+            {
+              "text": "it",
+              "location": 121,
+              "length": 2,
+              "start": 7.934791,
+              "end": 8.029916
+            },
+            {
+              "text": "in",
+              "location": 124,
+              "length": 2,
+              "start": 8.043458,
+              "end": 8.328791
+            },
+            {
+              "text": "and",
+              "location": 127,
+              "length": 3,
+              "start": 8.342375,
+              "end": 8.47825
+            },
+            {
+              "text": "having",
+              "location": 131,
+              "length": 6,
+              "start": 8.491833,
+              "end": 8.790749
+            },
+            {
+              "text": "to",
+              "location": 138,
+              "length": 2,
+              "start": 8.804333,
+              "end": 8.913041
+            },
+            {
+              "text": "face",
+              "location": 141,
+              "length": 4,
+              "start": 8.926625,
+              "end": 9.211958
+            },
+            {
+              "text": "the",
+              "location": 146,
+              "length": 3,
+              "start": 9.225541,
+              "end": 9.320666
+            },
+            {
+              "text": "result",
+              "location": 150,
+              "length": 6,
+              "start": 9.33425,
+              "end": 9.932083
+            }
           ]
         },
         {
@@ -666,8 +4570,8 @@
           "text": "I love that feeling of having control over the whole process.",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "performing-in-real-time-07.mp3",
-            "sha256": "93f0f7b344415111d279b17f93c6b58c0f5fbd96477f5800a6098ffc759697a5"
+            "path": "performing-in-real-time-words-p07.mp3",
+            "sha256": "1a8be95f188cbf949f024e8fd6b3735a8a153f51ac448a32484f23ac59702300"
           },
           "vocabulary": [
             {
@@ -680,6 +4584,92 @@
               "ipa": "ˈprɑsɛs",
               "meaning": "过程；流程"
             }
+          ],
+          "lines": [
+            {
+              "text": "I love that feeling of having control over the whole process.",
+              "translation": "我喜欢那种能够掌控整个过程的感觉。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "I",
+              "location": 0,
+              "length": 1,
+              "start": 0.104333,
+              "end": 0.240208
+            },
+            {
+              "text": "love",
+              "location": 2,
+              "length": 4,
+              "start": 0.253791,
+              "end": 0.498374
+            },
+            {
+              "text": "that",
+              "location": 7,
+              "length": 4,
+              "start": 0.511958,
+              "end": 0.688583
+            },
+            {
+              "text": "feeling",
+              "location": 12,
+              "length": 7,
+              "start": 0.702166,
+              "end": 1.055416
+            },
+            {
+              "text": "of",
+              "location": 20,
+              "length": 2,
+              "start": 1.069041,
+              "end": 1.150582
+            },
+            {
+              "text": "having",
+              "location": 23,
+              "length": 6,
+              "start": 1.164125,
+              "end": 1.476625
+            },
+            {
+              "text": "control",
+              "location": 30,
+              "length": 7,
+              "start": 1.490208,
+              "end": 2.047291
+            },
+            {
+              "text": "over",
+              "location": 38,
+              "length": 4,
+              "start": 2.060875,
+              "end": 2.2375
+            },
+            {
+              "text": "the",
+              "location": 43,
+              "length": 3,
+              "start": 2.251083,
+              "end": 2.332624
+            },
+            {
+              "text": "whole",
+              "location": 47,
+              "length": 5,
+              "start": 2.346208,
+              "end": 2.563583
+            },
+            {
+              "text": "process",
+              "location": 53,
+              "length": 7,
+              "start": 2.577166,
+              "end": 3.392374
+            }
           ]
         },
         {
@@ -687,8 +4677,8 @@
           "text": "So I guess I should try more... or just put myself in more situations where I have to respond and perform in real time.",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "performing-in-real-time-08.mp3",
-            "sha256": "ea79349b834be2fe9e28b3b2d3560edbf7e8523603469f061cb03fbc88492043"
+            "path": "performing-in-real-time-words-p08.mp3",
+            "sha256": "b8530a91a0056591af72c6df9cbacacc55cb2740ae52e390726147d1aef6b742"
           },
           "vocabulary": [
             {
@@ -706,6 +4696,183 @@
               "ipa": "pɚˈfɔrm",
               "meaning": "表现；表演"
             }
+          ],
+          "lines": [
+            {
+              "text": "So I guess I should try more... or just put myself in more situations where I have to respond and perform in real time.",
+              "translation": "所以，我想我应该多尝试……或者多让自己置身于必须即时回应、当场表现的情境中。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "So",
+              "location": 0,
+              "length": 2,
+              "start": 0.104333,
+              "end": 0.335291
+            },
+            {
+              "text": "I",
+              "location": 3,
+              "length": 1,
+              "start": 0.348916,
+              "end": 0.444041
+            },
+            {
+              "text": "guess",
+              "location": 5,
+              "length": 5,
+              "start": 0.457625,
+              "end": 0.715791
+            },
+            {
+              "text": "I",
+              "location": 11,
+              "length": 1,
+              "start": 0.729333,
+              "end": 0.797249
+            },
+            {
+              "text": "should",
+              "location": 13,
+              "length": 6,
+              "start": 0.810875,
+              "end": 1.014666
+            },
+            {
+              "text": "try",
+              "location": 20,
+              "length": 3,
+              "start": 1.02825,
+              "end": 1.272833
+            },
+            {
+              "text": "more",
+              "location": 24,
+              "length": 4,
+              "start": 1.286416,
+              "end": 1.721207
+            },
+            {
+              "text": "or",
+              "location": 32,
+              "length": 2,
+              "start": 2.060875,
+              "end": 2.223916
+            },
+            {
+              "text": "just",
+              "location": 35,
+              "length": 4,
+              "start": 2.2375,
+              "end": 2.495666
+            },
+            {
+              "text": "put",
+              "location": 40,
+              "length": 3,
+              "start": 2.50925,
+              "end": 2.672291
+            },
+            {
+              "text": "myself",
+              "location": 44,
+              "length": 6,
+              "start": 2.685875,
+              "end": 3.13425
+            },
+            {
+              "text": "in",
+              "location": 51,
+              "length": 2,
+              "start": 3.147833,
+              "end": 3.256541
+            },
+            {
+              "text": "more",
+              "location": 54,
+              "length": 4,
+              "start": 3.270125,
+              "end": 3.501083
+            },
+            {
+              "text": "situations",
+              "location": 59,
+              "length": 10,
+              "start": 3.514666,
+              "end": 4.329874
+            },
+            {
+              "text": "where",
+              "location": 70,
+              "length": 5,
+              "start": 4.343458,
+              "end": 4.492916
+            },
+            {
+              "text": "I",
+              "location": 76,
+              "length": 1,
+              "start": 4.506541,
+              "end": 4.574457
+            },
+            {
+              "text": "have",
+              "location": 78,
+              "length": 4,
+              "start": 4.588041,
+              "end": 4.791832
+            },
+            {
+              "text": "to",
+              "location": 83,
+              "length": 2,
+              "start": 4.805416,
+              "end": 4.914124
+            },
+            {
+              "text": "respond",
+              "location": 86,
+              "length": 7,
+              "start": 4.927708,
+              "end": 5.539124
+            },
+            {
+              "text": "and",
+              "location": 94,
+              "length": 3,
+              "start": 5.552708,
+              "end": 5.661416
+            },
+            {
+              "text": "perform",
+              "location": 98,
+              "length": 7,
+              "start": 5.675,
+              "end": 6.123375
+            },
+            {
+              "text": "in",
+              "location": 106,
+              "length": 2,
+              "start": 6.136958,
+              "end": 6.272833
+            },
+            {
+              "text": "real",
+              "location": 109,
+              "length": 4,
+              "start": 6.286416,
+              "end": 6.490207
+            },
+            {
+              "text": "time",
+              "location": 114,
+              "length": 4,
+              "start": 6.503791,
+              "end": 7.033666
+            }
           ]
         },
         {
@@ -713,8 +4880,8 @@
           "text": "Just to develop that skill.",
           "updatedAt": "2026-11-14",
           "audio": {
-            "path": "performing-in-real-time-09.mp3",
-            "sha256": "11d416dea55fe1140c0c01aed9e2a04c1be48f606e78acf6ff998fc167d798b3"
+            "path": "performing-in-real-time-words-p09.mp3",
+            "sha256": "126d60931f19362d5cc62ea373d36366e8d3f0c630dbe3ac2637f3b6100066c9"
           },
           "vocabulary": [
             {
@@ -727,12 +4894,56 @@
               "ipa": "skɪl",
               "meaning": "技能；本领"
             }
+          ],
+          "lines": [
+            {
+              "text": "Just to develop that skill.",
+              "translation": "就是为了培养这项能力。",
+              "location": 0
+            }
+          ],
+          "wordTimings": [
+            {
+              "text": "Just",
+              "location": 0,
+              "length": 4,
+              "start": 0.104333,
+              "end": 0.403249
+            },
+            {
+              "text": "to",
+              "location": 5,
+              "length": 2,
+              "start": 0.416833,
+              "end": 0.498374
+            },
+            {
+              "text": "develop",
+              "location": 8,
+              "length": 7,
+              "start": 0.511958,
+              "end": 0.960333
+            },
+            {
+              "text": "that",
+              "location": 16,
+              "length": 4,
+              "start": 0.973916,
+              "end": 1.218499
+            },
+            {
+              "text": "skill",
+              "location": 21,
+              "length": 5,
+              "start": 1.232083,
+              "end": 1.775541
+            }
           ]
         }
       ],
       "fullAudio": {
-        "path": "performing-in-real-time-full.mp3",
-        "sha256": "8b8a97edfcee55b9254574353a4074eeeb618e03779795a9ba37b59d8c6046eb"
+        "path": "performing-in-real-time-words-full.mp3",
+        "sha256": "f5a8454d02bcaa1aa6eda943a466282310871b5e783e461a1e7ea921aef137b3"
       },
       "edits": [
         {
