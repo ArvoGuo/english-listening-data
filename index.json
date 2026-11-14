@@ -23,7 +23,8 @@
               "ipa": "kənˈfjuː.zɪŋ",
               "meaning": "令人困惑的"
             }
-          ]
+          ],
+          "updatedAt": "2026-11-14"
         },
         {
           "id": "p02",
@@ -53,7 +54,8 @@
               "ipa": "ɪkˈspɪr.i.ən.sɪz",
               "meaning": "经历；体验（复数）"
             }
-          ]
+          ],
+          "updatedAt": "2026-11-14"
         },
         {
           "id": "p03",
@@ -78,7 +80,8 @@
               "ipa": "ˈfɝː.nɪ.tʃɚ",
               "meaning": "家具（不可数名词）"
             }
-          ]
+          ],
+          "updatedAt": "2026-11-14"
         },
         {
           "id": "p04",
@@ -108,7 +111,8 @@
               "ipa": "ˈpæk.ɪ.dʒɪŋ",
               "meaning": "商品的包装"
             }
-          ]
+          ],
+          "updatedAt": "2026-11-14"
         },
         {
           "id": "p05",
@@ -138,7 +142,8 @@
               "ipa": "ˌwel.dɪˈfaɪnd",
               "meaning": "清晰明确的；这里指喜好很明确"
             }
-          ]
+          ],
+          "updatedAt": "2026-11-14"
         },
         {
           "id": "p06",
@@ -153,7 +158,8 @@
               "ipa": "ˈkaʊnt.ləs",
               "meaning": "无数的；数不清的"
             }
-          ]
+          ],
+          "updatedAt": "2026-11-14"
         },
         {
           "id": "p07",
@@ -178,7 +184,8 @@
               "ipa": "ˈɑː.nɪst.li",
               "meaning": "说实话；坦白地说"
             }
-          ]
+          ],
+          "updatedAt": "2026-11-14"
         },
         {
           "id": "p08",
@@ -208,7 +215,8 @@
               "ipa": "əˈsaɪn.mənt",
               "meaning": "布置的作业；任务"
             }
-          ]
+          ],
+          "updatedAt": "2026-11-14"
         },
         {
           "id": "p09",
@@ -233,7 +241,8 @@
               "ipa": "ˈɡoʊ.ɪŋ əˈbaʊt",
               "meaning": "这里指照常进行、过着（日常生活）"
             }
-          ]
+          ],
+          "updatedAt": "2026-11-14"
         },
         {
           "id": "p10",
@@ -273,7 +282,8 @@
               "ipa": "rɪˈflekts",
               "meaning": "反映；体现"
             }
-          ]
+          ],
+          "updatedAt": "2026-11-14"
         }
       ],
       "fullAudio": {
@@ -316,7 +326,188 @@
           "after": "for a movie recommendation / genuinely reflects",
           "explanation": "补充冠词，并修正主谓一致。"
         }
-      ]
+      ],
+      "updatedAt": "2026-11-14"
+    },
+    {
+      "id": "small-steps-video-fragments",
+      "revision": 1,
+      "updatedAt": "2026-11-14",
+      "title": "Small Steps · Video Fragments",
+      "subtitle": "视频片段跟读 · 按提供顺序保留 8 个片段，另附 1 句；未补全缺失内容。",
+      "duration": 29.328,
+      "voice": "美式女声 · Jenny",
+      "paragraphs": [
+        {
+          "id": "p01",
+          "text": "I used to consider myself a rather",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "small-steps-video-fragments-01.mp3",
+            "sha256": "fa3a7473ad7c9603328838aea5fb167b2b82098c40ae61a8505243281d2ff115"
+          },
+          "vocabulary": [
+            {
+              "word": "consider",
+              "ipa": "kənˈsɪdɚ",
+              "meaning": "认为；把……看作"
+            },
+            {
+              "word": "rather",
+              "ipa": "ˈræðɚ",
+              "meaning": "相当；颇（此处后文缺失）"
+            }
+          ]
+        },
+        {
+          "id": "p02",
+          "text": "and I feel intimidated by big changes",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "small-steps-video-fragments-02.mp3",
+            "sha256": "4137406e9f493cc84c6af19d62587885597b4086d35c398ea255520d7e33a121"
+          },
+          "vocabulary": [
+            {
+              "word": "intimidated",
+              "ipa": "ɪnˈtɪmədeɪtɪd",
+              "meaning": "感到畏惧的；被吓住的"
+            }
+          ]
+        },
+        {
+          "id": "p03",
+          "text": "or I want to throw an elaborate",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "small-steps-video-fragments-03.mp3",
+            "sha256": "1327442e37f458b07e8b0beeeedfcc4690774734036f796cdbbe82732cfcebde"
+          },
+          "vocabulary": [
+            {
+              "word": "elaborate",
+              "ipa": "ɪˈlæbərət",
+              "meaning": "精心安排的；复杂的（形容词；后面的名词缺失）"
+            }
+          ]
+        },
+        {
+          "id": "p04",
+          "text": "but I'm incredibly impatient in all of those ideas",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "small-steps-video-fragments-04.mp3",
+            "sha256": "b76f17e4f3b965e1985225832b5e7e33a6f7b53a3b3f60b515dc0095e897608a"
+          },
+          "vocabulary": [
+            {
+              "word": "incredibly",
+              "ipa": "ɪnˈkrɛdəbli",
+              "meaning": "非常；难以置信地"
+            },
+            {
+              "word": "impatient",
+              "ipa": "ɪmˈpeɪʃənt",
+              "meaning": "不耐烦的；急切的"
+            }
+          ]
+        },
+        {
+          "id": "p05",
+          "text": "through the whole process of making things happen",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "small-steps-video-fragments-05.mp3",
+            "sha256": "523ea4f1c66c20fedfc8832fc6c5ab9cea0b2daa2d6b1c9d5e70fc124e6f521b"
+          },
+          "vocabulary": [
+            {
+              "word": "process",
+              "ipa": "ˈprɑsɛs",
+              "meaning": "过程；流程"
+            }
+          ]
+        },
+        {
+          "id": "p06",
+          "text": "collaborator or even a specific client",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "small-steps-video-fragments-06.mp3",
+            "sha256": "47f1fb39ea0b9a06ce9210df8c7ed801a7b5a5924de84c1608b8cdda3660fdd3"
+          },
+          "vocabulary": [
+            {
+              "word": "collaborator",
+              "ipa": "kəˈlæbəreɪtɚ",
+              "meaning": "合作者；合作伙伴"
+            },
+            {
+              "word": "specific",
+              "ipa": "spəˈsɪfɪk",
+              "meaning": "特定的；具体的"
+            },
+            {
+              "word": "client",
+              "ipa": "ˈklaɪənt",
+              "meaning": "客户；委托人"
+            }
+          ]
+        },
+        {
+          "id": "p07",
+          "text": "it's like borrowing someone else's",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "small-steps-video-fragments-07.mp3",
+            "sha256": "147a106e753f4cff7ea0a07e9b6fbee5030c6ca806304ab892a2c66617e46b84"
+          },
+          "vocabulary": [
+            {
+              "word": "borrowing",
+              "ipa": "ˈbɑroʊɪŋ",
+              "meaning": "借用（borrow 的现在分词）"
+            }
+          ]
+        },
+        {
+          "id": "p08",
+          "text": "do smaller things consistently",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "small-steps-video-fragments-08.mp3",
+            "sha256": "ac6b1d524bf22421837ac495a0332c71cc49e0f4ac5cb8b9cb2eb53770f02eea"
+          },
+          "vocabulary": [
+            {
+              "word": "consistently",
+              "ipa": "kənˈsɪstəntli",
+              "meaning": "持续地；始终如一地"
+            }
+          ]
+        },
+        {
+          "id": "p09",
+          "text": "to give me the structure or something",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "small-steps-video-fragments-09.mp3",
+            "sha256": "b33f46a86333e62adcde69c396936ac99fd89d2d7b28550d79f3f7894f8e675a"
+          },
+          "vocabulary": [
+            {
+              "word": "structure",
+              "ipa": "ˈstrʌktʃɚ",
+              "meaning": "结构；框架；条理"
+            }
+          ]
+        }
+      ],
+      "fullAudio": {
+        "path": "small-steps-video-fragments-full.mp3",
+        "sha256": "b2a7dea8794ea29575cc90917ef541b34c375e18fc75392dfad8e202a6a3e651"
+      },
+      "edits": []
     }
   ]
 }
