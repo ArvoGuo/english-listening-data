@@ -509,6 +509,253 @@
       },
       "edits": [],
       "sourceNote": "视频片段跟读 · 按提供顺序保留 8 个片段，另附 1 句；未补全缺失内容。"
+    },
+    {
+      "id": "performing-in-real-time",
+      "revision": 1,
+      "updatedAt": "2026-11-14",
+      "title": "Performing in Real Time",
+      "subtitle": "为什么即时表现让人紧张，而反复修改让人安心？从唱歌、考试和写作谈起，思考如何练习临场应对。",
+      "sourceNote": "根据提供的英文转写校对，保留口语中的停顿；未核对原视频。",
+      "duration": 66.168,
+      "voice": "美式女声 · Jenny",
+      "paragraphs": [
+        {
+          "id": "p01",
+          "text": "I guess people who don't have much experience with real-time competition tend to get nervous pretty easily. Like me, I struggle to stay calm under pressure.",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "performing-in-real-time-01.mp3",
+            "sha256": "e291367f5f8f31ecaad0b6300271b7a7fbb173ee1992827789e41d3eae8153c1"
+          },
+          "vocabulary": [
+            {
+              "word": "competition",
+              "ipa": "ˌkɑmpəˈtɪʃən",
+              "meaning": "竞争；比赛"
+            },
+            {
+              "word": "tend to",
+              "ipa": "tɛnd tə",
+              "meaning": "往往会；倾向于"
+            },
+            {
+              "word": "under pressure",
+              "ipa": "ˈʌndɚ ˈprɛʃɚ",
+              "meaning": "在压力之下"
+            }
+          ]
+        },
+        {
+          "id": "p02",
+          "text": "When it comes to things that happen in real time... By that, I mean things like singing. You've only got maybe three minutes, and every second counts.",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "performing-in-real-time-02.mp3",
+            "sha256": "e1a592b8393eb4176ba4b58e682341f2e634eb050a3554d83efdff4beb16d0cf"
+          },
+          "vocabulary": [
+            {
+              "word": "in real time",
+              "ipa": "ɪn ˈriːəl taɪm",
+              "meaning": "实时地；当场"
+            },
+            {
+              "word": "every second counts",
+              "ipa": "ˈɛvri ˈsɛkənd kaʊnts",
+              "meaning": "每一秒都很重要；分秒必争"
+            }
+          ]
+        },
+        {
+          "id": "p03",
+          "text": "Whatever you deliver in that moment is what people get. There's no going back to change your work or fix things afterward.",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "performing-in-real-time-03.mp3",
+            "sha256": "469e9667651f0e903fb1e6515d42553e126b11afd3af35ceb1973c78ddb4d974"
+          },
+          "vocabulary": [
+            {
+              "word": "deliver",
+              "ipa": "dɪˈlɪvɚ",
+              "meaning": "这里指呈现、展现（当场的表现）"
+            },
+            {
+              "word": "afterward",
+              "ipa": "ˈæftɚwɚd",
+              "meaning": "之后；事后"
+            }
+          ]
+        },
+        {
+          "id": "p04",
+          "text": "And I'm a total mess when it comes to things like that.",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "performing-in-real-time-04.mp3",
+            "sha256": "c72ec3a0cc8763b81c605ca31ca4bc51dafa7cdceed910c8b6b8f35f465a2f9e"
+          },
+          "vocabulary": [
+            {
+              "word": "a total mess",
+              "ipa": "ə ˈtoʊtəl mɛs",
+              "meaning": "一团糟；这里形容自己紧张失措"
+            }
+          ]
+        },
+        {
+          "id": "p05",
+          "text": "But I'm very comfortable with things that allow me to double-check, review, and revise.",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "performing-in-real-time-05.mp3",
+            "sha256": "d20123eec4954dd294535bfa11d909e72465f0cb2ca5f8ce70d57a5d391f85ef"
+          },
+          "vocabulary": [
+            {
+              "word": "comfortable",
+              "ipa": "ˈkʌmftɚbəl",
+              "meaning": "自在的；从容的"
+            },
+            {
+              "word": "double-check",
+              "ipa": "ˌdʌbəl ˈtʃɛk",
+              "meaning": "再次核对；复查"
+            },
+            {
+              "word": "review",
+              "ipa": "rɪˈvjuː",
+              "meaning": "检查；回顾"
+            },
+            {
+              "word": "revise",
+              "ipa": "rɪˈvaɪz",
+              "meaning": "修改；修订"
+            }
+          ]
+        },
+        {
+          "id": "p06",
+          "text": "Like taking an exam or writing a paper. With a paper, I can always go through my work time and time again before handing it in and having to face the result.",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "performing-in-real-time-06.mp3",
+            "sha256": "941de7c010310881ca2b50937906d94cf3158123c829f9604429ade87aea7e10"
+          },
+          "vocabulary": [
+            {
+              "word": "go through",
+              "ipa": "ɡoʊ θruː",
+              "meaning": "仔细检查；逐一查看"
+            },
+            {
+              "word": "time and time again",
+              "ipa": "ˈtaɪm ən ˈtaɪm əˈɡɛn",
+              "meaning": "一次又一次；反复地"
+            },
+            {
+              "word": "handing it in",
+              "ipa": "ˈhændɪŋ ɪt ɪn",
+              "meaning": "提交它；交上作业"
+            }
+          ]
+        },
+        {
+          "id": "p07",
+          "text": "I love that feeling of having control over the whole process.",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "performing-in-real-time-07.mp3",
+            "sha256": "93f0f7b344415111d279b17f93c6b58c0f5fbd96477f5800a6098ffc759697a5"
+          },
+          "vocabulary": [
+            {
+              "word": "control",
+              "ipa": "kənˈtroʊl",
+              "meaning": "控制；掌控"
+            },
+            {
+              "word": "process",
+              "ipa": "ˈprɑsɛs",
+              "meaning": "过程；流程"
+            }
+          ]
+        },
+        {
+          "id": "p08",
+          "text": "So I guess I should try more... or just put myself in more situations where I have to respond and perform in real time.",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "performing-in-real-time-08.mp3",
+            "sha256": "ea79349b834be2fe9e28b3b2d3560edbf7e8523603469f061cb03fbc88492043"
+          },
+          "vocabulary": [
+            {
+              "word": "situations",
+              "ipa": "ˌsɪtʃuˈeɪʃənz",
+              "meaning": "情境；情况（复数）"
+            },
+            {
+              "word": "respond",
+              "ipa": "rɪˈspɑnd",
+              "meaning": "回应；作出反应"
+            },
+            {
+              "word": "perform",
+              "ipa": "pɚˈfɔrm",
+              "meaning": "表现；表演"
+            }
+          ]
+        },
+        {
+          "id": "p09",
+          "text": "Just to develop that skill.",
+          "updatedAt": "2026-11-14",
+          "audio": {
+            "path": "performing-in-real-time-09.mp3",
+            "sha256": "11d416dea55fe1140c0c01aed9e2a04c1be48f606e78acf6ff998fc167d798b3"
+          },
+          "vocabulary": [
+            {
+              "word": "develop",
+              "ipa": "dɪˈvɛləp",
+              "meaning": "培养；发展"
+            },
+            {
+              "word": "skill",
+              "ipa": "skɪl",
+              "meaning": "技能；本领"
+            }
+          ]
+        }
+      ],
+      "fullAudio": {
+        "path": "performing-in-real-time-full.mp3",
+        "sha256": "8b8a97edfcee55b9254574353a4074eeeb618e03779795a9ba37b59d8c6046eb"
+      },
+      "edits": [
+        {
+          "before": "have a pretty weak nerve / I have a very weak mentality",
+          "after": "get nervous pretty easily / I struggle to stay calm under pressure",
+          "explanation": "改为自然表达‘容易紧张、在压力下难以保持冷静’，保留原来的自我描述。"
+        },
+        {
+          "before": "There's no going back. Changing your work or fixing things after...",
+          "after": "There's no going back to change your work or fix things afterward.",
+          "explanation": "连接相邻片段，说明即时表现后无法回头修改；用 afterward 表达‘事后’。"
+        },
+        {
+          "before": "A paper, I can always ... Before handing in",
+          "after": "With a paper, I can always ... before handing it in",
+          "explanation": "用 With a paper 引出写作情境，并补上 hand in 的宾语 it。"
+        },
+        {
+          "before": "Just in order to train the skill.",
+          "after": "Just to develop that skill.",
+          "explanation": "培养技能通常说 develop a skill；保留为了练习临场应对而尝试的原意。"
+        }
+      ]
     }
   ]
 }
