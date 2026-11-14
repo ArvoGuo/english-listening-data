@@ -4,9 +4,9 @@
   "articles": [
     {
       "id": "finding-my-own-taste",
-      "revision": 1,
+      "revision": 2,
       "title": "Finding My Own Taste",
-      "subtitle": "关于个人喜好与自我感受的一段思考",
+      "subtitle": "从博主分享和电影推荐谈起，思考为什么自己难以说清喜好，以及如何关注真实的个人感受。",
       "duration": 122.088,
       "voice": "美式女声 · Jenny",
       "paragraphs": [
@@ -331,10 +331,10 @@
     },
     {
       "id": "small-steps-video-fragments",
-      "revision": 1,
+      "revision": 2,
       "updatedAt": "2026-11-14",
       "title": "Small Steps · Video Fragments",
-      "subtitle": "视频片段跟读 · 按提供顺序保留 8 个片段，另附 1 句；未补全缺失内容。",
+      "subtitle": "关于面对变化的畏惧、推进想法时的急切，以及合作、行动框架与持续做小事的片段。",
       "duration": 29.328,
       "voice": "美式女声 · Jenny",
       "paragraphs": [
@@ -507,7 +507,8 @@
         "path": "small-steps-video-fragments-full.mp3",
         "sha256": "b2a7dea8794ea29575cc90917ef541b34c375e18fc75392dfad8e202a6a3e651"
       },
-      "edits": []
+      "edits": [],
+      "sourceNote": "视频片段跟读 · 按提供顺序保留 8 个片段，另附 1 句；未补全缺失内容。"
     }
   ]
 }
