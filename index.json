@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-14",
+  "articles": [
+    {
+      "id": "finding-my-own-taste",
+      "revision": 1,
+      "title": "Finding My Own Taste",
+      "subtitle": "关于个人喜好与自我感受的一段思考",
+      "duration": 122.088,
+      "voice": "美式女声 · Jenny",
+      "paragraphs": [
+        {
+          "id": "p01",
+          "text": "Okay, last night my friend and I were talking about something really interesting and confusing at the same time.",
+          "audio": {
+            "path": "finding-my-own-taste-01.mp3",
+            "sha256": "cfa824e2065265e14df6cad3e2460111ea0bd66dd7b87a8ceefe37f1a1e6686c"
+          },
+          "vocabulary": [
+            {
+              "word": "confusing",
+              "ipa": "kənˈfjuː.zɪŋ",
+              "meaning": "令人困惑的"
+            }
+          ]
+        },
+        {
+          "id": "p02",
+          "text": "We noticed that some people seem to have an unbelievably detailed sense of their own preferences and everyday experiences, but we just don't seem to have that.",
+          "audio": {
+            "path": "finding-my-own-taste-02.mp3",
+            "sha256": "142ef99ee2b52c36cd321792696c5b987388150ec83a99d140718efa215ce048"
+          },
+          "vocabulary": [
+            {
+              "word": "unbelievably",
+              "ipa": "ˌʌn.bɪˈliː.və.bli",
+              "meaning": "令人难以置信地；这里强调程度很高"
+            },
+            {
+              "word": "detailed",
+              "ipa": "dɪˈteɪld",
+              "meaning": "详细的；细致的"
+            },
+            {
+              "word": "preferences",
+              "ipa": "ˈpref.ər.ən.sɪz",
+              "meaning": "个人偏好；喜好（复数）"
+            },
+            {
+              "word": "experiences",
+              "ipa": "ɪkˈspɪr.i.ən.sɪz",
+              "meaning": "经历；体验（复数）"
+            }
+          ]
+        },
+        {
+          "id": "p03",
+          "text": "For example, there's this vlogger my friend follows. When she does a room tour, she can talk about almost every little detail in her house, like why she puts a particular piece of furniture there, how she uses it, and what she likes about it.",
+          "audio": {
+            "path": "finding-my-own-taste-03.mp3",
+            "sha256": "3084d165ca9b95712142e6bc17a36b2e2017f364c2372c5bcfc8ef3f99c4482d"
+          },
+          "vocabulary": [
+            {
+              "word": "vlogger",
+              "ipa": "ˈvlɑː.ɡɚ",
+              "meaning": "视频博主"
+            },
+            {
+              "word": "particular",
+              "ipa": "pɚˈtɪk.jə.lɚ",
+              "meaning": "特定的；某一个的"
+            },
+            {
+              "word": "furniture",
+              "ipa": "ˈfɝː.nɪ.tʃɚ",
+              "meaning": "家具（不可数名词）"
+            }
+          ]
+        },
+        {
+          "id": "p04",
+          "text": "And the same goes for a beauty influencer I watch. She can just take out an ordinary skincare product and somehow have so much to say about its packaging, how she uses it, and how this little thing fits—or doesn't fit—into her daily life.",
+          "audio": {
+            "path": "finding-my-own-taste-04.mp3",
+            "sha256": "e8437905da15fcb72c9f69bc9a5ca84f0e4b2c9360782aa937ae1ef321a066ef"
+          },
+          "vocabulary": [
+            {
+              "word": "influencer",
+              "ipa": "ˈɪn.flu.ən.sɚ",
+              "meaning": "社交媒体上有影响力的人；博主"
+            },
+            {
+              "word": "ordinary",
+              "ipa": "ˈɔːr.dən.er.i",
+              "meaning": "普通的；平常的"
+            },
+            {
+              "word": "skincare",
+              "ipa": "ˈskɪn.ker",
+              "meaning": "皮肤护理；护肤"
+            },
+            {
+              "word": "packaging",
+              "ipa": "ˈpæk.ɪ.dʒɪŋ",
+              "meaning": "商品的包装"
+            }
+          ]
+        },
+        {
+          "id": "p05",
+          "text": "And think about some celebrity interviews where actors are asked to name, like, five favorite movies. I remember seeing the Stranger Things cast being asked this kind of question, and everybody just seemed to have a very personal, well-defined list ready to go.",
+          "audio": {
+            "path": "finding-my-own-taste-05.mp3",
+            "sha256": "9bf81dbdc2808752b039351c4b8eca16ae7373b8f0258f09e6bc5f8fafc2ff96"
+          },
+          "vocabulary": [
+            {
+              "word": "celebrity",
+              "ipa": "səˈleb.rə.t̬i",
+              "meaning": "名人；明星"
+            },
+            {
+              "word": "interviews",
+              "ipa": "ˈɪn.t̬ɚ.vjuːz",
+              "meaning": "采访；访谈（复数）"
+            },
+            {
+              "word": "cast",
+              "ipa": "kæst",
+              "meaning": "一部影视作品的全体演员"
+            },
+            {
+              "word": "well-defined",
+              "ipa": "ˌwel.dɪˈfaɪnd",
+              "meaning": "清晰明确的；这里指喜好很明确"
+            }
+          ]
+        },
+        {
+          "id": "p06",
+          "text": "And this is just one example. There are countless moments like this.",
+          "audio": {
+            "path": "finding-my-own-taste-06.mp3",
+            "sha256": "bf18935497416d2790d6f71b8f778cc541d07909e630582ca1b14ae04260ca44"
+          },
+          "vocabulary": [
+            {
+              "word": "countless",
+              "ipa": "ˈkaʊnt.ləs",
+              "meaning": "无数的；数不清的"
+            }
+          ]
+        },
+        {
+          "id": "p07",
+          "text": "I also watch plenty of movies, but if I were in their shoes, I honestly wouldn't know what to say.",
+          "audio": {
+            "path": "finding-my-own-taste-07.mp3",
+            "sha256": "b47f2e9b6246792d8faaf85e379bf036f8912db813f883d99d4b59d8f8b3d4a3"
+          },
+          "vocabulary": [
+            {
+              "word": "plenty of",
+              "ipa": "ˈplen.t̬i əv",
+              "meaning": "很多；大量的"
+            },
+            {
+              "word": "in their shoes",
+              "ipa": "ɪn ðer ʃuːz",
+              "meaning": "处在他们的位置；设身处地"
+            },
+            {
+              "word": "honestly",
+              "ipa": "ˈɑː.nɪst.li",
+              "meaning": "说实话；坦白地说"
+            }
+          ]
+        },
+        {
+          "id": "p08",
+          "text": "I mean, I can evaluate things from the outside. I remember writing film reviews for homework when I was a kid. But back then, I was never telling the truth, because nobody asked me to. I just had to write down something that sounded right, that met a certain standard, to get the assignment done and hopefully get a great mark.",
+          "audio": {
+            "path": "finding-my-own-taste-08.mp3",
+            "sha256": "ff05fc4861f716bf0e73298443d300ca6da0edbd0060b7f54073ec9c73fba727"
+          },
+          "vocabulary": [
+            {
+              "word": "evaluate",
+              "ipa": "ɪˈvæl.ju.eɪt",
+              "meaning": "评价；评估"
+            },
+            {
+              "word": "reviews",
+              "ipa": "rɪˈvjuːz",
+              "meaning": "评论；这里指影评"
+            },
+            {
+              "word": "standard",
+              "ipa": "ˈstæn.dɚd",
+              "meaning": "标准；要求"
+            },
+            {
+              "word": "assignment",
+              "ipa": "əˈsaɪn.mənt",
+              "meaning": "布置的作业；任务"
+            }
+          ]
+        },
+        {
+          "id": "p09",
+          "text": "I hardly ever ask myself about my personal preferences, whether it's when I'm watching movies or just going about my everyday life.",
+          "audio": {
+            "path": "finding-my-own-taste-09.mp3",
+            "sha256": "f29f832c62c251564ab241ce21d6d8c9f52df3828b13371950f03a955c82a04a"
+          },
+          "vocabulary": [
+            {
+              "word": "hardly ever",
+              "ipa": "ˈhɑːrd.li ˈev.ɚ",
+              "meaning": "几乎从不"
+            },
+            {
+              "word": "preferences",
+              "ipa": "ˈpref.ər.ən.sɪz",
+              "meaning": "个人偏好；喜好（复数）"
+            },
+            {
+              "word": "going about",
+              "ipa": "ˈɡoʊ.ɪŋ əˈbaʊt",
+              "meaning": "这里指照常进行、过着（日常生活）"
+            }
+          ]
+        },
+        {
+          "id": "p10",
+          "text": "So if you asked me for a movie recommendation, I'd probably end up naming a bunch of universally acclaimed classics rather than something that genuinely reflects my personal taste.",
+          "audio": {
+            "path": "finding-my-own-taste-10.mp3",
+            "sha256": "32c14e4554299393d822983c616bc9a17b0097d2d56089e649d1e91c0b71ba9e"
+          },
+          "vocabulary": [
+            {
+              "word": "recommendation",
+              "ipa": "ˌrek.ə.menˈdeɪ.ʃən",
+              "meaning": "推荐；推荐的事物"
+            },
+            {
+              "word": "universally",
+              "ipa": "ˌjuː.nəˈvɝː.səl.i",
+              "meaning": "普遍地；广泛地"
+            },
+            {
+              "word": "acclaimed",
+              "ipa": "əˈkleɪmd",
+              "meaning": "广受赞誉的"
+            },
+            {
+              "word": "classics",
+              "ipa": "ˈklæs.ɪks",
+              "meaning": "经典作品（复数）"
+            },
+            {
+              "word": "genuinely",
+              "ipa": "ˈdʒen.ju.ɪn.li",
+              "meaning": "真正地；发自内心地"
+            },
+            {
+              "word": "reflects",
+              "ipa": "rɪˈflekts",
+              "meaning": "反映；体现"
+            }
+          ]
+        }
+      ],
+      "fullAudio": {
+        "path": "finding-my-own-taste-full.mp3",
+        "sha256": "36b662e69d4b01c1d8707c59674a43004ab248b5f42444a4b29baa18d25728fe"
+      },
+      "edits": [
+        {
+          "before": "some people, they seem",
+          "after": "some people seem",
+          "explanation": "去掉口语中重复的主语，让句子更顺畅。"
+        },
+        {
+          "before": "its package, its usage",
+          "after": "its packaging, how she uses it",
+          "explanation": "谈产品包装用 packaging 更自然；使用方式改为更口语的表达。"
+        },
+        {
+          "before": "fits or not fits",
+          "after": "fits—or doesn't fit",
+          "explanation": "修正否定结构。"
+        },
+        {
+          "before": "if I were them",
+          "after": "if I were in their shoes",
+          "explanation": "更自然地表达‘如果换作是我’。"
+        },
+        {
+          "before": "I better write down",
+          "after": "I just had to write down",
+          "explanation": "与过去的作业经历保持一致，保留为了达标而写的原意。"
+        },
+        {
+          "before": "no matter when it comes to",
+          "after": "whether it's when I'm watching movies or just going about my everyday life",
+          "explanation": "修正搭配，明确电影和日常生活两个情境。"
+        },
+        {
+          "before": "for movie recommendation / genuinely reflect",
+          "after": "for a movie recommendation / genuinely reflects",
+          "explanation": "补充冠词，并修正主谓一致。"
+        }
+      ]
+    }
+  ]
+}
