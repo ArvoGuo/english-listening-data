@@ -1,7 +1,786 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15T16:28:40Z",
   "articles": [
+    {
+      "id": "dont-make-their-ceiling-yours",
+      "revision": 1,
+      "title": "Don’t Make Someone Else’s Ceiling Your Own",
+      "subtitle": "别把别人的上限当成自己的｜根据用户整理的视频文字；仅调整标点，未核对原视频音轨。",
+      "paragraphs": [
+        {
+          "id": "p01",
+          "lines": [
+            {
+              "text": "I'm not sure if you know about this, but when you become too fixated on one person, you're actually capping your potential to their level.",
+              "translation": "我不知道你有没有意识到：当你把太多注意力放在一个人身上时，你其实是在拿对方的水平给自己的潜力设限。",
+              "location": 0
+            },
+            {
+              "text": "Because you can only see as far as that person has gone, and in a way, you're sort of setting their ceiling as yours.",
+              "translation": "因为你的视野也只到对方走到的地方。某种意义上，你等于把对方的上限当成了自己的上限。",
+              "location": 139
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "fixated on",
+              "ipa": "ˈfɪk.seɪ.t̬ɪd ɑːn",
+              "meaning": "对……过度关注，心思一直卡在上面。"
+            },
+            {
+              "word": "cap your potential",
+              "ipa": "kæp jʊr pəˈten.ʃəl",
+              "meaning": "给自己的潜力设上限；cap 在这里是动词「限制」。"
+            },
+            {
+              "word": "ceiling",
+              "ipa": "ˈsiː.lɪŋ",
+              "meaning": "天花板；这里比喻一个人能达到的上限。"
+            },
+            {
+              "word": "in a way",
+              "ipa": "ɪn ə weɪ",
+              "meaning": "从某个角度来看；某种意义上。"
+            }
+          ],
+          "text": "I'm not sure if you know about this, but when you become too fixated on one person, you're actually capping your potential to their level. Because you can only see as far as that person has gone, and in a way, you're sort of setting their ceiling as yours.",
+          "updatedAt": "2026-11-15T16:28:40Z",
+          "wordTimings": [
+            {
+              "text": "I'm",
+              "location": 0,
+              "length": 3,
+              "start": 0.221625,
+              "end": 0.440094
+            },
+            {
+              "text": "not",
+              "location": 4,
+              "length": 3,
+              "start": 0.440094,
+              "end": 0.687877
+            },
+            {
+              "text": "sure",
+              "location": 8,
+              "length": 4,
+              "start": 0.687877,
+              "end": 1.026693
+            },
+            {
+              "text": "if",
+              "location": 13,
+              "length": 2,
+              "start": 1.026693,
+              "end": 1.182689
+            },
+            {
+              "text": "you",
+              "location": 16,
+              "length": 3,
+              "start": 1.182689,
+              "end": 1.393884
+            },
+            {
+              "text": "know",
+              "location": 20,
+              "length": 4,
+              "start": 1.393884,
+              "end": 1.579041
+            },
+            {
+              "text": "about",
+              "location": 25,
+              "length": 5,
+              "start": 1.579041,
+              "end": 1.911328
+            },
+            {
+              "text": "this",
+              "location": 31,
+              "length": 4,
+              "start": 1.911328,
+              "end": 2.220417
+            },
+            {
+              "text": "but",
+              "location": 37,
+              "length": 3,
+              "start": 2.328541,
+              "end": 2.487546
+            },
+            {
+              "text": "when",
+              "location": 41,
+              "length": 4,
+              "start": 2.487546,
+              "end": 2.656597
+            },
+            {
+              "text": "you",
+              "location": 46,
+              "length": 3,
+              "start": 2.656597,
+              "end": 2.789922
+            },
+            {
+              "text": "become",
+              "location": 50,
+              "length": 6,
+              "start": 2.789922,
+              "end": 3.161524
+            },
+            {
+              "text": "too",
+              "location": 57,
+              "length": 3,
+              "start": 3.161524,
+              "end": 3.33758
+            },
+            {
+              "text": "fixated",
+              "location": 61,
+              "length": 7,
+              "start": 3.33758,
+              "end": 3.84508
+            },
+            {
+              "text": "on",
+              "location": 69,
+              "length": 2,
+              "start": 3.84508,
+              "end": 4.017469
+            },
+            {
+              "text": "one",
+              "location": 72,
+              "length": 3,
+              "start": 4.017469,
+              "end": 4.21074
+            },
+            {
+              "text": "person",
+              "location": 76,
+              "length": 6,
+              "start": 4.21074,
+              "end": 4.741211
+            },
+            {
+              "text": "you're",
+              "location": 84,
+              "length": 6,
+              "start": 4.848251,
+              "end": 5.028775
+            },
+            {
+              "text": "actually",
+              "location": 91,
+              "length": 8,
+              "start": 5.028775,
+              "end": 5.564985
+            },
+            {
+              "text": "capping",
+              "location": 100,
+              "length": 7,
+              "start": 5.564985,
+              "end": 6.075682
+            },
+            {
+              "text": "your",
+              "location": 108,
+              "length": 4,
+              "start": 6.075682,
+              "end": 6.277275
+            },
+            {
+              "text": "potential",
+              "location": 113,
+              "length": 9,
+              "start": 6.277275,
+              "end": 6.920981
+            },
+            {
+              "text": "to",
+              "location": 123,
+              "length": 2,
+              "start": 6.920981,
+              "end": 7.016413
+            },
+            {
+              "text": "their",
+              "location": 126,
+              "length": 5,
+              "start": 7.016413,
+              "end": 7.246695
+            },
+            {
+              "text": "level",
+              "location": 132,
+              "length": 5,
+              "start": 7.246695,
+              "end": 7.762335
+            },
+            {
+              "text": "Because",
+              "location": 139,
+              "length": 7,
+              "start": 7.870405,
+              "end": 8.335642
+            },
+            {
+              "text": "you",
+              "location": 147,
+              "length": 3,
+              "start": 8.335642,
+              "end": 8.482633
+            },
+            {
+              "text": "can",
+              "location": 151,
+              "length": 3,
+              "start": 8.482633,
+              "end": 8.707234
+            },
+            {
+              "text": "only",
+              "location": 155,
+              "length": 4,
+              "start": 8.707234,
+              "end": 8.990088
+            },
+            {
+              "text": "see",
+              "location": 160,
+              "length": 3,
+              "start": 8.990088,
+              "end": 9.138257
+            },
+            {
+              "text": "as",
+              "location": 164,
+              "length": 2,
+              "start": 9.138257,
+              "end": 9.338984
+            },
+            {
+              "text": "far",
+              "location": 167,
+              "length": 3,
+              "start": 9.338984,
+              "end": 9.618743
+            },
+            {
+              "text": "as",
+              "location": 171,
+              "length": 2,
+              "start": 9.618743,
+              "end": 9.774616
+            },
+            {
+              "text": "that",
+              "location": 174,
+              "length": 4,
+              "start": 9.774616,
+              "end": 9.925611
+            },
+            {
+              "text": "person",
+              "location": 179,
+              "length": 6,
+              "start": 9.925611,
+              "end": 10.354911
+            },
+            {
+              "text": "has",
+              "location": 186,
+              "length": 3,
+              "start": 10.354911,
+              "end": 10.562852
+            },
+            {
+              "text": "gone",
+              "location": 190,
+              "length": 4,
+              "start": 10.562852,
+              "end": 10.979385
+            },
+            {
+              "text": "and",
+              "location": 196,
+              "length": 3,
+              "start": 11.101905,
+              "end": 11.228615
+            },
+            {
+              "text": "in",
+              "location": 200,
+              "length": 2,
+              "start": 11.228615,
+              "end": 11.380457
+            },
+            {
+              "text": "a",
+              "location": 203,
+              "length": 1,
+              "start": 11.380457,
+              "end": 11.459601
+            },
+            {
+              "text": "way",
+              "location": 205,
+              "length": 3,
+              "start": 11.459601,
+              "end": 11.704089
+            },
+            {
+              "text": "you're",
+              "location": 210,
+              "length": 6,
+              "start": 11.935207,
+              "end": 12.171811
+            },
+            {
+              "text": "sort",
+              "location": 217,
+              "length": 4,
+              "start": 12.171811,
+              "end": 12.554605
+            },
+            {
+              "text": "of",
+              "location": 222,
+              "length": 2,
+              "start": 12.554605,
+              "end": 12.641313
+            },
+            {
+              "text": "setting",
+              "location": 225,
+              "length": 7,
+              "start": 12.641313,
+              "end": 13.065138
+            },
+            {
+              "text": "their",
+              "location": 233,
+              "length": 5,
+              "start": 13.065138,
+              "end": 13.184874
+            },
+            {
+              "text": "ceiling",
+              "location": 239,
+              "length": 7,
+              "start": 13.184874,
+              "end": 13.559172
+            },
+            {
+              "text": "as",
+              "location": 247,
+              "length": 2,
+              "start": 13.559172,
+              "end": 13.702513
+            },
+            {
+              "text": "yours",
+              "location": 250,
+              "length": 5,
+              "start": 13.702513,
+              "end": 14.206218
+            }
+          ],
+          "audio": {
+            "path": "dont-make-their-ceiling-yours-p01.mp3",
+            "sha256": "f4f582b10eead100c38255a59e8ca9854e2f90d3d88c273d98faf11fd89e72f1"
+          }
+        },
+        {
+          "id": "p02",
+          "lines": [
+            {
+              "text": "And I think it's a very dangerous territory because it applies to both romantic relationships as well as those subtle unspoken rivalries between you and other people.",
+              "translation": "我觉得这种心态很容易让人陷进去。它不只会出现在恋爱里，也会出现在你和别人那种没说出口、却暗暗较劲的关系里。",
+              "location": 0
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "dangerous territory",
+              "ipa": "ˈdeɪn.dʒɚ.əs ˈter.ə.tɔːr.i",
+              "meaning": "有风险的处境或话题，这里不是指危险地带。"
+            },
+            {
+              "word": "apply to",
+              "ipa": "əˈplaɪ tuː",
+              "meaning": "适用于……；在……情形下也成立。"
+            },
+            {
+              "word": "subtle",
+              "ipa": "ˈsʌt̬.əl",
+              "meaning": "细微的、不易察觉的；b 不发音。"
+            },
+            {
+              "word": "unspoken rivalries",
+              "ipa": "ʌnˈspoʊ.kən ˈraɪ.vəl.riz",
+              "meaning": "没说出口的竞争；两个人暗暗较劲。"
+            }
+          ],
+          "text": "And I think it's a very dangerous territory because it applies to both romantic relationships as well as those subtle unspoken rivalries between you and other people.",
+          "updatedAt": "2026-11-15T16:28:40Z",
+          "wordTimings": [
+            {
+              "text": "And",
+              "location": 0,
+              "length": 3,
+              "start": 0.209428,
+              "end": 0.344982
+            },
+            {
+              "text": "I",
+              "location": 4,
+              "length": 1,
+              "start": 0.344982,
+              "end": 0.513289
+            },
+            {
+              "text": "think",
+              "location": 6,
+              "length": 5,
+              "start": 0.513289,
+              "end": 0.782141
+            },
+            {
+              "text": "it's",
+              "location": 12,
+              "length": 4,
+              "start": 0.782141,
+              "end": 0.947971
+            },
+            {
+              "text": "a",
+              "location": 17,
+              "length": 1,
+              "start": 0.947971,
+              "end": 0.997146
+            },
+            {
+              "text": "very",
+              "location": 19,
+              "length": 4,
+              "start": 0.997146,
+              "end": 1.335591
+            },
+            {
+              "text": "dangerous",
+              "location": 24,
+              "length": 9,
+              "start": 1.335591,
+              "end": 2.020358
+            },
+            {
+              "text": "territory",
+              "location": 34,
+              "length": 9,
+              "start": 2.020358,
+              "end": 2.713318
+            },
+            {
+              "text": "because",
+              "location": 44,
+              "length": 7,
+              "start": 2.713318,
+              "end": 3.050548
+            },
+            {
+              "text": "it",
+              "location": 52,
+              "length": 2,
+              "start": 3.050548,
+              "end": 3.146088
+            },
+            {
+              "text": "applies",
+              "location": 55,
+              "length": 7,
+              "start": 3.146088,
+              "end": 3.525759
+            },
+            {
+              "text": "to",
+              "location": 63,
+              "length": 2,
+              "start": 3.525759,
+              "end": 3.659726
+            },
+            {
+              "text": "both",
+              "location": 66,
+              "length": 4,
+              "start": 3.659726,
+              "end": 3.930141
+            },
+            {
+              "text": "romantic",
+              "location": 71,
+              "length": 8,
+              "start": 3.930141,
+              "end": 4.416289
+            },
+            {
+              "text": "relationships",
+              "location": 80,
+              "length": 13,
+              "start": 4.416289,
+              "end": 5.303832
+            },
+            {
+              "text": "as",
+              "location": 94,
+              "length": 2,
+              "start": 5.303832,
+              "end": 5.465425
+            },
+            {
+              "text": "well",
+              "location": 97,
+              "length": 4,
+              "start": 5.465425,
+              "end": 5.70396
+            },
+            {
+              "text": "as",
+              "location": 102,
+              "length": 2,
+              "start": 5.70396,
+              "end": 5.842664
+            },
+            {
+              "text": "those",
+              "location": 105,
+              "length": 5,
+              "start": 5.842664,
+              "end": 6.012762
+            },
+            {
+              "text": "subtle",
+              "location": 111,
+              "length": 6,
+              "start": 6.012762,
+              "end": 6.316527
+            },
+            {
+              "text": "unspoken",
+              "location": 118,
+              "length": 8,
+              "start": 6.316527,
+              "end": 6.882976
+            },
+            {
+              "text": "rivalries",
+              "location": 127,
+              "length": 9,
+              "start": 6.882976,
+              "end": 7.503535
+            },
+            {
+              "text": "between",
+              "location": 137,
+              "length": 7,
+              "start": 7.503535,
+              "end": 7.989763
+            },
+            {
+              "text": "you",
+              "location": 145,
+              "length": 3,
+              "start": 7.989763,
+              "end": 8.131745
+            },
+            {
+              "text": "and",
+              "location": 149,
+              "length": 3,
+              "start": 8.131745,
+              "end": 8.272577
+            },
+            {
+              "text": "other",
+              "location": 153,
+              "length": 5,
+              "start": 8.272577,
+              "end": 8.510078
+            },
+            {
+              "text": "people",
+              "location": 159,
+              "length": 6,
+              "start": 8.510078,
+              "end": 9.157763
+            }
+          ],
+          "audio": {
+            "path": "dont-make-their-ceiling-yours-p02.mp3",
+            "sha256": "78b5c7ec871cef64140d5f42fd7803547da9af51f158cc2d2db943601c45964c"
+          }
+        },
+        {
+          "id": "p03",
+          "lines": [
+            {
+              "text": "Sometimes you are just too close to it, and maybe it's time to zoom out.",
+              "translation": "有时你只是离这件事太近，看不见全局。也许该退一步，把视野拉远。",
+              "location": 0
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "too close to it",
+              "ipa": "tuː kloʊs tə ɪt",
+              "meaning": "离这件事太近；这里指身在其中，难以看清全局。"
+            },
+            {
+              "word": "zoom out",
+              "ipa": "zuːm aʊt",
+              "meaning": "把镜头拉远；比喻退一步看大局。"
+            }
+          ],
+          "text": "Sometimes you are just too close to it, and maybe it's time to zoom out.",
+          "updatedAt": "2026-11-15T16:28:40Z",
+          "wordTimings": [
+            {
+              "text": "Sometimes",
+              "location": 0,
+              "length": 9,
+              "start": 0.163781,
+              "end": 0.711989
+            },
+            {
+              "text": "you",
+              "location": 10,
+              "length": 3,
+              "start": 0.711989,
+              "end": 0.897579
+            },
+            {
+              "text": "are",
+              "location": 14,
+              "length": 3,
+              "start": 0.897579,
+              "end": 1.058544
+            },
+            {
+              "text": "just",
+              "location": 18,
+              "length": 4,
+              "start": 1.058544,
+              "end": 1.362381
+            },
+            {
+              "text": "too",
+              "location": 23,
+              "length": 3,
+              "start": 1.362381,
+              "end": 1.498307
+            },
+            {
+              "text": "close",
+              "location": 27,
+              "length": 5,
+              "start": 1.498307,
+              "end": 1.917449
+            },
+            {
+              "text": "to",
+              "location": 33,
+              "length": 2,
+              "start": 1.917449,
+              "end": 2.049547
+            },
+            {
+              "text": "it",
+              "location": 36,
+              "length": 2,
+              "start": 2.049547,
+              "end": 2.270349
+            },
+            {
+              "text": "and",
+              "location": 40,
+              "length": 3,
+              "start": 2.372756,
+              "end": 2.529815
+            },
+            {
+              "text": "maybe",
+              "location": 44,
+              "length": 5,
+              "start": 2.529815,
+              "end": 2.843174
+            },
+            {
+              "text": "it's",
+              "location": 50,
+              "length": 4,
+              "start": 2.843174,
+              "end": 3.032869
+            },
+            {
+              "text": "time",
+              "location": 55,
+              "length": 4,
+              "start": 3.032869,
+              "end": 3.340053
+            },
+            {
+              "text": "to",
+              "location": 60,
+              "length": 2,
+              "start": 3.340053,
+              "end": 3.448558
+            },
+            {
+              "text": "zoom",
+              "location": 63,
+              "length": 4,
+              "start": 3.448558,
+              "end": 3.738051
+            },
+            {
+              "text": "out",
+              "location": 68,
+              "length": 3,
+              "start": 3.738051,
+              "end": 4.022199
+            }
+          ],
+          "audio": {
+            "path": "dont-make-their-ceiling-yours-p03.mp3",
+            "sha256": "1cd5563767e98cf98e187c6f3f7e9d68d884706935122a309b8e6a7a91ab5838"
+          }
+        }
+      ],
+      "edits": [
+        {
+          "before": "it applies to both romantic relationships as well as those subtle unspoken rivalries",
+          "after": "it applies to both romantic relationships and those subtle unspoken rivalries",
+          "explanation": "原音转写保留。自己写或说时用 both A and B，或单用 A as well as B，不要混用。"
+        },
+        {
+          "before": "you're actually capping your potential to their level",
+          "after": "you're actually limiting yourself to what they've achieved",
+          "explanation": "原句能听懂。更口语的改述强调「拿对方已经达到的成就给自己设上限」。"
+        }
+      ],
+      "updatedAt": "2026-11-15T16:28:40Z",
+      "voice": "美式女声 · SLT 合成朗读",
+      "fullAudio": {
+        "path": "dont-make-their-ceiling-yours-full.mp3",
+        "sha256": "90973a0ecc23ff26c05b11abb6a8c74e4f2d82fe55b45d58de8cada0cfa1dc62"
+      },
+      "duration": 28.512
+    },
     {
       "id": "finding-my-own-taste",
       "revision": 3,
