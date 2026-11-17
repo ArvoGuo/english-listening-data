@@ -1,7 +1,674 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T04:22:41Z",
+  "updatedAt": "2026-11-17T05:17:19Z",
   "articles": [
+    {
+      "id": "an-important-moment",
+      "revision": 1,
+      "title": "An Important Moment",
+      "subtitle": "如何自然地展开一场演讲｜保留英文转写；音频为合成朗读。",
+      "paragraphs": [
+        {
+          "id": "p01",
+          "lines": [
+            {
+              "text": "Good morning everyone!",
+              "translation": "大家早上好！",
+              "location": 0
+            },
+            {
+              "text": "To be honest, I am a little nervous right now.",
+              "translation": "说实话，我现在有点紧张。",
+              "location": 23
+            },
+            {
+              "text": "Not because I'm afraid to speak, but because I know how important this moment is.",
+              "translation": "不是因为我不敢开口，而是因为我知道这一刻有多重要。",
+              "location": 70
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "to be honest",
+              "ipa": "tə bi ˈɑː.nɪst",
+              "meaning": "说实话。用来自然引出自己的真实感受；honest 开头的 h 不发音。"
+            },
+            {
+              "word": "right now",
+              "ipa": "raɪt naʊ",
+              "meaning": "就在此刻。这里强调的是当下的紧张，而非平时不擅长演讲。"
+            },
+            {
+              "word": "not because … but because …",
+              "ipa": "nɑːt bɪˈkʌz … bət bɪˈkʌz …",
+              "meaning": "不是因为……而是因为……。先排除听众容易想到的原因，再讲真正的原因。"
+            }
+          ],
+          "text": "Good morning everyone! To be honest, I am a little nervous right now. Not because I'm afraid to speak, but because I know how important this moment is.",
+          "updatedAt": "2026-11-17T05:17:19Z",
+          "wordTimings": [
+            {
+              "text": "Good",
+              "location": 0,
+              "length": 4,
+              "start": 0.217552,
+              "end": 0.362635
+            },
+            {
+              "text": "morning",
+              "location": 5,
+              "length": 7,
+              "start": 0.362635,
+              "end": 0.767313
+            },
+            {
+              "text": "everyone",
+              "location": 13,
+              "length": 8,
+              "start": 0.767313,
+              "end": 1.226301
+            },
+            {
+              "text": "To",
+              "location": 23,
+              "length": 2,
+              "start": 1.333284,
+              "end": 1.438078
+            },
+            {
+              "text": "be",
+              "location": 26,
+              "length": 2,
+              "start": 1.438078,
+              "end": 1.601448
+            },
+            {
+              "text": "honest",
+              "location": 29,
+              "length": 6,
+              "start": 1.601448,
+              "end": 2.094796
+            },
+            {
+              "text": "I",
+              "location": 37,
+              "length": 1,
+              "start": 2.19748,
+              "end": 2.366471
+            },
+            {
+              "text": "am",
+              "location": 39,
+              "length": 2,
+              "start": 2.366471,
+              "end": 2.494551
+            },
+            {
+              "text": "a",
+              "location": 42,
+              "length": 1,
+              "start": 2.494551,
+              "end": 2.539859
+            },
+            {
+              "text": "little",
+              "location": 44,
+              "length": 6,
+              "start": 2.539859,
+              "end": 2.900594
+            },
+            {
+              "text": "nervous",
+              "location": 51,
+              "length": 7,
+              "start": 2.900594,
+              "end": 3.41921
+            },
+            {
+              "text": "right",
+              "location": 59,
+              "length": 5,
+              "start": 3.41921,
+              "end": 3.644285
+            },
+            {
+              "text": "now",
+              "location": 65,
+              "length": 3,
+              "start": 3.644285,
+              "end": 3.896408
+            },
+            {
+              "text": "Not",
+              "location": 70,
+              "length": 3,
+              "start": 4.127528,
+              "end": 4.396656
+            },
+            {
+              "text": "because",
+              "location": 74,
+              "length": 7,
+              "start": 4.396656,
+              "end": 4.89326
+            },
+            {
+              "text": "I'm",
+              "location": 82,
+              "length": 3,
+              "start": 4.89326,
+              "end": 5.145312
+            },
+            {
+              "text": "afraid",
+              "location": 86,
+              "length": 6,
+              "start": 5.145312,
+              "end": 5.585334
+            },
+            {
+              "text": "to",
+              "location": 93,
+              "length": 2,
+              "start": 5.585334,
+              "end": 5.680116
+            },
+            {
+              "text": "speak",
+              "location": 96,
+              "length": 5,
+              "start": 5.680116,
+              "end": 6.035826
+            },
+            {
+              "text": "but",
+              "location": 103,
+              "length": 3,
+              "start": 6.139024,
+              "end": 6.314842
+            },
+            {
+              "text": "because",
+              "location": 107,
+              "length": 7,
+              "start": 6.314842,
+              "end": 6.816887
+            },
+            {
+              "text": "I",
+              "location": 115,
+              "length": 1,
+              "start": 6.816887,
+              "end": 6.982844
+            },
+            {
+              "text": "know",
+              "location": 117,
+              "length": 4,
+              "start": 6.982844,
+              "end": 7.197502
+            },
+            {
+              "text": "how",
+              "location": 122,
+              "length": 3,
+              "start": 7.197502,
+              "end": 7.423282
+            },
+            {
+              "text": "important",
+              "location": 126,
+              "length": 9,
+              "start": 7.423282,
+              "end": 8.04915
+            },
+            {
+              "text": "this",
+              "location": 136,
+              "length": 4,
+              "start": 8.04915,
+              "end": 8.209388
+            },
+            {
+              "text": "moment",
+              "location": 141,
+              "length": 6,
+              "start": 8.209388,
+              "end": 8.608346
+            },
+            {
+              "text": "is",
+              "location": 148,
+              "length": 2,
+              "start": 8.608346,
+              "end": 8.930519
+            }
+          ],
+          "audio": {
+            "path": "an-important-moment-p01.mp3",
+            "sha256": "2f5a4ce72e63037b02aab216436d37495299d9497094fb85fdfff9d4b53eaf6b"
+          }
+        },
+        {
+          "id": "p02",
+          "lines": [
+            {
+              "text": "We all come from different backgrounds, different stories and different experiences.",
+              "translation": "我们来自不同的背景，各自有不同的故事，也有不同的经历。",
+              "location": 0
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "background",
+              "ipa": "ˈbæk.ɡraʊnd",
+              "meaning": "成长背景、出身或过往经历。这里不是照片里的背景。"
+            },
+            {
+              "word": "experience",
+              "ipa": "ɪkˈspɪr.i.əns",
+              "meaning": "这里指一段亲身经历，可数；泛指积累的经验时通常不可数。"
+            }
+          ],
+          "text": "We all come from different backgrounds, different stories and different experiences.",
+          "updatedAt": "2026-11-17T05:17:19Z",
+          "wordTimings": [
+            {
+              "text": "We",
+              "location": 0,
+              "length": 2,
+              "start": 0.221741,
+              "end": 0.351948
+            },
+            {
+              "text": "all",
+              "location": 3,
+              "length": 3,
+              "start": 0.351948,
+              "end": 0.563283
+            },
+            {
+              "text": "come",
+              "location": 7,
+              "length": 4,
+              "start": 0.563283,
+              "end": 0.838558
+            },
+            {
+              "text": "from",
+              "location": 12,
+              "length": 4,
+              "start": 0.838558,
+              "end": 1.12993
+            },
+            {
+              "text": "different",
+              "location": 17,
+              "length": 9,
+              "start": 1.12993,
+              "end": 1.499605
+            },
+            {
+              "text": "backgrounds",
+              "location": 27,
+              "length": 11,
+              "start": 1.499605,
+              "end": 2.382835
+            },
+            {
+              "text": "different",
+              "location": 40,
+              "length": 9,
+              "start": 2.487429,
+              "end": 2.913034
+            },
+            {
+              "text": "stories",
+              "location": 50,
+              "length": 7,
+              "start": 2.913034,
+              "end": 3.475603
+            },
+            {
+              "text": "and",
+              "location": 58,
+              "length": 3,
+              "start": 3.475603,
+              "end": 3.65904
+            },
+            {
+              "text": "different",
+              "location": 62,
+              "length": 9,
+              "start": 3.65904,
+              "end": 4.054296
+            },
+            {
+              "text": "experiences",
+              "location": 72,
+              "length": 11,
+              "start": 4.054296,
+              "end": 5.122702
+            }
+          ],
+          "audio": {
+            "path": "an-important-moment-p02.mp3",
+            "sha256": "20451d71692647625a235b2a8f2a37ea0dfd6c97c3847ff702c435a4d87814fc"
+          }
+        },
+        {
+          "id": "p03",
+          "lines": [
+            {
+              "text": "But today we're all here together in this place that shaped us, in this place that challenged us,",
+              "translation": "但今天，我们都相聚在这里，在这个塑造过我们、也磨炼过我们的地方。",
+              "location": 0
+            },
+            {
+              "text": "in this place that sometimes made us feel lost and we didn't back down, we didn't give up.",
+              "translation": "在这个有时也让我们感到迷茫的地方。可我们没有退缩，也没有放弃。",
+              "location": 98
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "shape us",
+              "ipa": "ʃeɪp əs",
+              "meaning": "塑造我们，指一段环境或经历影响了我们成为怎样的人。"
+            },
+            {
+              "word": "feel lost",
+              "ipa": "fiːl lɑːst",
+              "meaning": "感到迷茫、不知道下一步怎么办，不是字面上的迷路。"
+            },
+            {
+              "word": "back down",
+              "ipa": "bæk daʊn",
+              "meaning": "面对压力时退缩或让步；这里和 give up（放弃努力）并列，强调既没退缩，也没放弃。"
+            }
+          ],
+          "text": "But today we're all here together in this place that shaped us, in this place that challenged us, in this place that sometimes made us feel lost and we didn't back down, we didn't give up.",
+          "updatedAt": "2026-11-17T05:17:19Z",
+          "wordTimings": [
+            {
+              "text": "But",
+              "location": 0,
+              "length": 3,
+              "start": 0.216159,
+              "end": 0.37727
+            },
+            {
+              "text": "today",
+              "location": 4,
+              "length": 5,
+              "start": 0.37727,
+              "end": 0.661142
+            },
+            {
+              "text": "we're",
+              "location": 10,
+              "length": 5,
+              "start": 0.661142,
+              "end": 0.829032
+            },
+            {
+              "text": "all",
+              "location": 16,
+              "length": 3,
+              "start": 0.829032,
+              "end": 1.019558
+            },
+            {
+              "text": "here",
+              "location": 20,
+              "length": 4,
+              "start": 1.019558,
+              "end": 1.213446
+            },
+            {
+              "text": "together",
+              "location": 25,
+              "length": 8,
+              "start": 1.213446,
+              "end": 1.644396
+            },
+            {
+              "text": "in",
+              "location": 34,
+              "length": 2,
+              "start": 1.644396,
+              "end": 1.746014
+            },
+            {
+              "text": "this",
+              "location": 37,
+              "length": 4,
+              "start": 1.746014,
+              "end": 1.908756
+            },
+            {
+              "text": "place",
+              "location": 42,
+              "length": 5,
+              "start": 1.908756,
+              "end": 2.314788
+            },
+            {
+              "text": "that",
+              "location": 48,
+              "length": 4,
+              "start": 2.314788,
+              "end": 2.446254
+            },
+            {
+              "text": "shaped",
+              "location": 53,
+              "length": 6,
+              "start": 2.446254,
+              "end": 2.815971
+            },
+            {
+              "text": "us",
+              "location": 60,
+              "length": 2,
+              "start": 2.815971,
+              "end": 3.029221
+            },
+            {
+              "text": "in",
+              "location": 64,
+              "length": 2,
+              "start": 3.129496,
+              "end": 3.293539
+            },
+            {
+              "text": "this",
+              "location": 67,
+              "length": 4,
+              "start": 3.293539,
+              "end": 3.473425
+            },
+            {
+              "text": "place",
+              "location": 72,
+              "length": 5,
+              "start": 3.473425,
+              "end": 3.941764
+            },
+            {
+              "text": "that",
+              "location": 78,
+              "length": 4,
+              "start": 3.941764,
+              "end": 4.12595
+            },
+            {
+              "text": "challenged",
+              "location": 83,
+              "length": 10,
+              "start": 4.12595,
+              "end": 4.634114
+            },
+            {
+              "text": "us",
+              "location": 94,
+              "length": 2,
+              "start": 4.634114,
+              "end": 4.885417
+            },
+            {
+              "text": "in",
+              "location": 98,
+              "length": 2,
+              "start": 4.985691,
+              "end": 5.133903
+            },
+            {
+              "text": "this",
+              "location": 101,
+              "length": 4,
+              "start": 5.133903,
+              "end": 5.31379
+            },
+            {
+              "text": "place",
+              "location": 106,
+              "length": 5,
+              "start": 5.31379,
+              "end": 5.777162
+            },
+            {
+              "text": "that",
+              "location": 112,
+              "length": 4,
+              "start": 5.777162,
+              "end": 5.977989
+            },
+            {
+              "text": "sometimes",
+              "location": 117,
+              "length": 9,
+              "start": 5.977989,
+              "end": 6.572408
+            },
+            {
+              "text": "made",
+              "location": 127,
+              "length": 4,
+              "start": 6.572408,
+              "end": 6.794456
+            },
+            {
+              "text": "us",
+              "location": 132,
+              "length": 2,
+              "start": 6.794456,
+              "end": 6.959135
+            },
+            {
+              "text": "feel",
+              "location": 135,
+              "length": 4,
+              "start": 6.959135,
+              "end": 7.311479
+            },
+            {
+              "text": "lost",
+              "location": 140,
+              "length": 4,
+              "start": 7.311479,
+              "end": 7.60756
+            },
+            {
+              "text": "and",
+              "location": 145,
+              "length": 3,
+              "start": 7.60756,
+              "end": 7.750305
+            },
+            {
+              "text": "we",
+              "location": 149,
+              "length": 2,
+              "start": 7.750305,
+              "end": 7.907939
+            },
+            {
+              "text": "didn't",
+              "location": 152,
+              "length": 6,
+              "start": 7.907939,
+              "end": 8.169002
+            },
+            {
+              "text": "back",
+              "location": 159,
+              "length": 4,
+              "start": 8.169002,
+              "end": 8.377354
+            },
+            {
+              "text": "down",
+              "location": 164,
+              "length": 4,
+              "start": 8.377354,
+              "end": 8.857941
+            },
+            {
+              "text": "we",
+              "location": 170,
+              "length": 2,
+              "start": 8.96274,
+              "end": 9.150794
+            },
+            {
+              "text": "didn't",
+              "location": 173,
+              "length": 6,
+              "start": 9.150794,
+              "end": 9.468751
+            },
+            {
+              "text": "give",
+              "location": 180,
+              "length": 4,
+              "start": 9.468751,
+              "end": 9.723975
+            },
+            {
+              "text": "up",
+              "location": 185,
+              "length": 2,
+              "start": 9.723975,
+              "end": 10.013297
+            }
+          ],
+          "audio": {
+            "path": "an-important-moment-p03.mp3",
+            "sha256": "3d29f3ad56f340327f73dba3d1be6358db0c0cd4a8f7acb733a1e6fd1c11d5c8"
+          }
+        }
+      ],
+      "edits": [
+        {
+          "before": "Good morning everyone!",
+          "after": "Good morning, everyone!",
+          "explanation": "原文照录。书面稿通常用逗号隔开称呼；跟读时可在 morning 后稍停。"
+        },
+        {
+          "before": "in this place that shaped us, in this place that challenged us,",
+          "after": "in this place that shaped us, in this place that challenged us,",
+          "explanation": "这句不是重复啰嗦，而是演讲排比。跟读时每个 in this place 前稍停，把重音放在 shaped 和 challenged；结尾把 didn't back down 与 didn't give up 分开说。"
+        }
+      ],
+      "updatedAt": "2026-11-17T05:17:19Z",
+      "voice": "美式女声 · SLT 合成朗读",
+      "fullAudio": {
+        "path": "an-important-moment-full.mp3",
+        "sha256": "56e0a2595a863c332fc34d0676b89b0f6ad6994942ecd06a196a96451774a840"
+      },
+      "duration": 25.164
+    },
     {
       "id": "changing-in-front-of-friends",
       "revision": 1,
