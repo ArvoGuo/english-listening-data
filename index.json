@@ -1,7 +1,6681 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T05:17:19Z",
+  "updatedAt": "2026-11-17T05:48:20Z",
   "articles": [
+    {
+      "id": "emotions-and-creative-expression",
+      "revision": 1,
+      "title": "Emotions and Creative Expression",
+      "subtitle": "表达情绪，也塑造自己｜保留所供英文转写及口语重复；两处不清词不补写，朗读跳过标注。音频为 SLT 合成朗读，非原视频音轨。",
+      "paragraphs": [
+        {
+          "id": "p01",
+          "lines": [
+            {
+              "text": "I have a new opinion about emotions that is we need to stop finding a safe space for our emotional expression.",
+              "translation": "我对情绪有了一个新看法：我们不必再为情绪表达寻找一个安全的空间。",
+              "location": 0
+            },
+            {
+              "text": "I used to believe that in the current society that we need to find a safe space to sort of store our emotional feelings and the moments that we want to cry, the moments we feel very vulnerable.",
+              "translation": "我以前觉得，在当今社会，我们需要找一个安全的地方，安放自己的情绪，以及那些想哭、感到特别脆弱的时刻。",
+              "location": 111
+            },
+            {
+              "text": "Supposedly we're to hide them because they are a [转写疑似错误，原词不清] on our path towards efficiency.",
+              "translation": "按这种说法，我们应该把它们藏起来，因为它们是我们追求效率之路上的一个[转写疑似错误，原词不清]。",
+              "location": 305
+            },
+            {
+              "text": "The reason why it makes us look bad is because emotions are often related with childish reactions.",
+              "translation": "情绪之所以会让我们显得不好，是因为它常常被和孩子气的反应联系在一起。",
+              "location": 400
+            },
+            {
+              "text": "Because as a kid, being not able to control emotion is our innate reaction towards things that we couldn't control in life.",
+              "translation": "因为小时候，面对生活中无法掌控的事情，控制不住情绪是我们本能的反应。",
+              "location": 499
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "vulnerable",
+              "ipa": "ˈvʌlnərəbəl",
+              "meaning": "脆弱的；容易受到伤害的。可描述情绪上缺乏防护的状态。"
+            },
+            {
+              "word": "innate",
+              "ipa": "ɪˈneɪt",
+              "meaning": "与生俱来的；本能的。innate reaction 指本能反应。"
+            }
+          ],
+          "text": "I have a new opinion about emotions that is we need to stop finding a safe space for our emotional expression. I used to believe that in the current society that we need to find a safe space to sort of store our emotional feelings and the moments that we want to cry, the moments we feel very vulnerable. Supposedly we're to hide them because they are a [转写疑似错误，原词不清] on our path towards efficiency. The reason why it makes us look bad is because emotions are often related with childish reactions. Because as a kid, being not able to control emotion is our innate reaction towards things that we couldn't control in life.",
+          "updatedAt": "2026-11-17T05:48:20Z",
+          "wordTimings": [
+            {
+              "text": "I",
+              "location": 0,
+              "length": 1,
+              "start": 0.209428,
+              "end": 0.332955
+            },
+            {
+              "text": "have",
+              "location": 2,
+              "length": 4,
+              "start": 0.332955,
+              "end": 0.516868
+            },
+            {
+              "text": "a",
+              "location": 7,
+              "length": 1,
+              "start": 0.516868,
+              "end": 0.574522
+            },
+            {
+              "text": "new",
+              "location": 9,
+              "length": 3,
+              "start": 0.574522,
+              "end": 0.821921
+            },
+            {
+              "text": "opinion",
+              "location": 13,
+              "length": 7,
+              "start": 0.821921,
+              "end": 1.284844
+            },
+            {
+              "text": "about",
+              "location": 21,
+              "length": 5,
+              "start": 1.284844,
+              "end": 1.551219
+            },
+            {
+              "text": "emotions",
+              "location": 27,
+              "length": 8,
+              "start": 1.551219,
+              "end": 2.106992
+            },
+            {
+              "text": "that",
+              "location": 36,
+              "length": 4,
+              "start": 2.106992,
+              "end": 2.254859
+            },
+            {
+              "text": "is",
+              "location": 41,
+              "length": 2,
+              "start": 2.254859,
+              "end": 2.397749
+            },
+            {
+              "text": "we",
+              "location": 44,
+              "length": 2,
+              "start": 2.397749,
+              "end": 2.580644
+            },
+            {
+              "text": "need",
+              "location": 47,
+              "length": 4,
+              "start": 2.580644,
+              "end": 2.807109
+            },
+            {
+              "text": "to",
+              "location": 52,
+              "length": 2,
+              "start": 2.807109,
+              "end": 2.940797
+            },
+            {
+              "text": "stop",
+              "location": 55,
+              "length": 4,
+              "start": 2.940797,
+              "end": 3.286428
+            },
+            {
+              "text": "finding",
+              "location": 60,
+              "length": 7,
+              "start": 3.286428,
+              "end": 3.910573
+            },
+            {
+              "text": "a",
+              "location": 68,
+              "length": 1,
+              "start": 3.910573,
+              "end": 3.954737
+            },
+            {
+              "text": "safe",
+              "location": 70,
+              "length": 4,
+              "start": 3.954737,
+              "end": 4.388397
+            },
+            {
+              "text": "space",
+              "location": 75,
+              "length": 5,
+              "start": 4.388397,
+              "end": 4.697352
+            },
+            {
+              "text": "for",
+              "location": 81,
+              "length": 3,
+              "start": 4.697352,
+              "end": 4.920949
+            },
+            {
+              "text": "our",
+              "location": 85,
+              "length": 3,
+              "start": 4.920949,
+              "end": 5.207644
+            },
+            {
+              "text": "emotional",
+              "location": 89,
+              "length": 9,
+              "start": 5.207644,
+              "end": 5.861694
+            },
+            {
+              "text": "expression",
+              "location": 99,
+              "length": 10,
+              "start": 5.861694,
+              "end": 6.524856
+            },
+            {
+              "text": "I",
+              "location": 111,
+              "length": 1,
+              "start": 6.658144,
+              "end": 6.826026
+            },
+            {
+              "text": "used",
+              "location": 113,
+              "length": 4,
+              "start": 6.826026,
+              "end": 7.145421
+            },
+            {
+              "text": "to",
+              "location": 118,
+              "length": 2,
+              "start": 7.145421,
+              "end": 7.258882
+            },
+            {
+              "text": "believe",
+              "location": 121,
+              "length": 7,
+              "start": 7.258882,
+              "end": 7.745628
+            },
+            {
+              "text": "that",
+              "location": 129,
+              "length": 4,
+              "start": 7.745628,
+              "end": 7.951914
+            },
+            {
+              "text": "in",
+              "location": 134,
+              "length": 2,
+              "start": 7.951914,
+              "end": 8.115991
+            },
+            {
+              "text": "the",
+              "location": 137,
+              "length": 3,
+              "start": 8.115991,
+              "end": 8.194983
+            },
+            {
+              "text": "current",
+              "location": 141,
+              "length": 7,
+              "start": 8.194983,
+              "end": 8.563231
+            },
+            {
+              "text": "society",
+              "location": 149,
+              "length": 7,
+              "start": 8.563231,
+              "end": 9.132327
+            },
+            {
+              "text": "that",
+              "location": 157,
+              "length": 4,
+              "start": 9.132327,
+              "end": 9.323378
+            },
+            {
+              "text": "we",
+              "location": 162,
+              "length": 2,
+              "start": 9.323378,
+              "end": 9.497869
+            },
+            {
+              "text": "need",
+              "location": 165,
+              "length": 4,
+              "start": 9.497869,
+              "end": 9.724334
+            },
+            {
+              "text": "to",
+              "location": 170,
+              "length": 2,
+              "start": 9.724334,
+              "end": 9.830314
+            },
+            {
+              "text": "find",
+              "location": 173,
+              "length": 4,
+              "start": 9.830314,
+              "end": 10.164977
+            },
+            {
+              "text": "a",
+              "location": 178,
+              "length": 1,
+              "start": 10.164977,
+              "end": 10.212374
+            },
+            {
+              "text": "safe",
+              "location": 180,
+              "length": 4,
+              "start": 10.212374,
+              "end": 10.637487
+            },
+            {
+              "text": "space",
+              "location": 185,
+              "length": 5,
+              "start": 10.637487,
+              "end": 11.01405
+            },
+            {
+              "text": "to",
+              "location": 191,
+              "length": 2,
+              "start": 11.01405,
+              "end": 11.1661
+            },
+            {
+              "text": "sort",
+              "location": 194,
+              "length": 4,
+              "start": 11.1661,
+              "end": 11.481148
+            },
+            {
+              "text": "of",
+              "location": 199,
+              "length": 2,
+              "start": 11.481148,
+              "end": 11.570479
+            },
+            {
+              "text": "store",
+              "location": 202,
+              "length": 5,
+              "start": 11.570479,
+              "end": 11.882264
+            },
+            {
+              "text": "our",
+              "location": 208,
+              "length": 3,
+              "start": 11.882264,
+              "end": 12.168961
+            },
+            {
+              "text": "emotional",
+              "location": 212,
+              "length": 9,
+              "start": 12.168961,
+              "end": 12.802005
+            },
+            {
+              "text": "feelings",
+              "location": 222,
+              "length": 8,
+              "start": 12.802005,
+              "end": 13.35218
+            },
+            {
+              "text": "and",
+              "location": 231,
+              "length": 3,
+              "start": 13.35218,
+              "end": 13.50888
+            },
+            {
+              "text": "the",
+              "location": 235,
+              "length": 3,
+              "start": 13.50888,
+              "end": 13.556136
+            },
+            {
+              "text": "moments",
+              "location": 239,
+              "length": 7,
+              "start": 13.556136,
+              "end": 13.99457
+            },
+            {
+              "text": "that",
+              "location": 247,
+              "length": 4,
+              "start": 13.99457,
+              "end": 14.150563
+            },
+            {
+              "text": "we",
+              "location": 252,
+              "length": 2,
+              "start": 14.150563,
+              "end": 14.316049
+            },
+            {
+              "text": "want",
+              "location": 255,
+              "length": 4,
+              "start": 14.316049,
+              "end": 14.641219
+            },
+            {
+              "text": "to",
+              "location": 260,
+              "length": 2,
+              "start": 14.641219,
+              "end": 14.737885
+            },
+            {
+              "text": "cry",
+              "location": 263,
+              "length": 3,
+              "start": 14.737885,
+              "end": 15.099402
+            },
+            {
+              "text": "the",
+              "location": 268,
+              "length": 3,
+              "start": 15.289742,
+              "end": 15.376214
+            },
+            {
+              "text": "moments",
+              "location": 272,
+              "length": 7,
+              "start": 15.376214,
+              "end": 15.840797
+            },
+            {
+              "text": "we",
+              "location": 280,
+              "length": 2,
+              "start": 15.840797,
+              "end": 16.003031
+            },
+            {
+              "text": "feel",
+              "location": 283,
+              "length": 4,
+              "start": 16.003031,
+              "end": 16.261568
+            },
+            {
+              "text": "very",
+              "location": 288,
+              "length": 4,
+              "start": 16.261568,
+              "end": 16.556496
+            },
+            {
+              "text": "vulnerable",
+              "location": 293,
+              "length": 10,
+              "start": 16.556496,
+              "end": 17.234449
+            },
+            {
+              "text": "Supposedly",
+              "location": 305,
+              "length": 10,
+              "start": 17.345985,
+              "end": 18.118364
+            },
+            {
+              "text": "we're",
+              "location": 316,
+              "length": 5,
+              "start": 18.118364,
+              "end": 18.292139
+            },
+            {
+              "text": "to",
+              "location": 322,
+              "length": 2,
+              "start": 18.292139,
+              "end": 18.432964
+            },
+            {
+              "text": "hide",
+              "location": 325,
+              "length": 4,
+              "start": 18.432964,
+              "end": 18.712532
+            },
+            {
+              "text": "them",
+              "location": 330,
+              "length": 4,
+              "start": 18.712532,
+              "end": 18.866558
+            },
+            {
+              "text": "because",
+              "location": 335,
+              "length": 7,
+              "start": 18.866558,
+              "end": 19.214613
+            },
+            {
+              "text": "they",
+              "location": 343,
+              "length": 4,
+              "start": 19.214613,
+              "end": 19.446423
+            },
+            {
+              "text": "are",
+              "location": 348,
+              "length": 3,
+              "start": 19.446423,
+              "end": 19.612352
+            },
+            {
+              "text": "a",
+              "location": 352,
+              "length": 1,
+              "start": 19.612352,
+              "end": 19.659321
+            },
+            {
+              "text": "on",
+              "location": 368,
+              "length": 2,
+              "start": 19.659321,
+              "end": 19.791546
+            },
+            {
+              "text": "our",
+              "location": 371,
+              "length": 3,
+              "start": 19.791546,
+              "end": 20.044998
+            },
+            {
+              "text": "path",
+              "location": 375,
+              "length": 4,
+              "start": 20.044998,
+              "end": 20.331013
+            },
+            {
+              "text": "towards",
+              "location": 380,
+              "length": 7,
+              "start": 20.331013,
+              "end": 20.757027
+            },
+            {
+              "text": "efficiency",
+              "location": 388,
+              "length": 10,
+              "start": 20.757027,
+              "end": 21.449085
+            },
+            {
+              "text": "The",
+              "location": 400,
+              "length": 3,
+              "start": 21.631344,
+              "end": 21.728994
+            },
+            {
+              "text": "reason",
+              "location": 404,
+              "length": 6,
+              "start": 21.728994,
+              "end": 22.108892
+            },
+            {
+              "text": "why",
+              "location": 411,
+              "length": 3,
+              "start": 22.108892,
+              "end": 22.274937
+            },
+            {
+              "text": "it",
+              "location": 415,
+              "length": 2,
+              "start": 22.274937,
+              "end": 22.346203
+            },
+            {
+              "text": "makes",
+              "location": 418,
+              "length": 5,
+              "start": 22.346203,
+              "end": 22.705193
+            },
+            {
+              "text": "us",
+              "location": 424,
+              "length": 2,
+              "start": 22.705193,
+              "end": 22.915709
+            },
+            {
+              "text": "look",
+              "location": 427,
+              "length": 4,
+              "start": 22.915709,
+              "end": 23.125372
+            },
+            {
+              "text": "bad",
+              "location": 432,
+              "length": 3,
+              "start": 23.125372,
+              "end": 23.292257
+            },
+            {
+              "text": "is",
+              "location": 436,
+              "length": 2,
+              "start": 23.292257,
+              "end": 23.45232
+            },
+            {
+              "text": "because",
+              "location": 439,
+              "length": 7,
+              "start": 23.45232,
+              "end": 23.764038
+            },
+            {
+              "text": "emotions",
+              "location": 447,
+              "length": 8,
+              "start": 23.764038,
+              "end": 24.331491
+            },
+            {
+              "text": "are",
+              "location": 456,
+              "length": 3,
+              "start": 24.331491,
+              "end": 24.471512
+            },
+            {
+              "text": "often",
+              "location": 460,
+              "length": 5,
+              "start": 24.471512,
+              "end": 24.792919
+            },
+            {
+              "text": "related",
+              "location": 466,
+              "length": 7,
+              "start": 24.792919,
+              "end": 25.210806
+            },
+            {
+              "text": "with",
+              "location": 474,
+              "length": 4,
+              "start": 25.210806,
+              "end": 25.371344
+            },
+            {
+              "text": "childish",
+              "location": 479,
+              "length": 8,
+              "start": 25.371344,
+              "end": 25.992083
+            },
+            {
+              "text": "reactions",
+              "location": 488,
+              "length": 9,
+              "start": 25.992083,
+              "end": 26.750515
+            },
+            {
+              "text": "Because",
+              "location": 499,
+              "length": 7,
+              "start": 26.862356,
+              "end": 27.34185
+            },
+            {
+              "text": "as",
+              "location": 507,
+              "length": 2,
+              "start": 27.34185,
+              "end": 27.491735
+            },
+            {
+              "text": "a",
+              "location": 510,
+              "length": 1,
+              "start": 27.491735,
+              "end": 27.544989
+            },
+            {
+              "text": "kid",
+              "location": 512,
+              "length": 3,
+              "start": 27.544989,
+              "end": 27.893694
+            },
+            {
+              "text": "being",
+              "location": 517,
+              "length": 5,
+              "start": 28.016367,
+              "end": 28.296389
+            },
+            {
+              "text": "not",
+              "location": 523,
+              "length": 3,
+              "start": 28.296389,
+              "end": 28.544889
+            },
+            {
+              "text": "able",
+              "location": 527,
+              "length": 4,
+              "start": 28.544889,
+              "end": 28.856573
+            },
+            {
+              "text": "to",
+              "location": 532,
+              "length": 2,
+              "start": 28.856573,
+              "end": 28.990585
+            },
+            {
+              "text": "control",
+              "location": 535,
+              "length": 7,
+              "start": 28.990585,
+              "end": 29.619984
+            },
+            {
+              "text": "emotion",
+              "location": 543,
+              "length": 7,
+              "start": 29.619984,
+              "end": 30.063173
+            },
+            {
+              "text": "is",
+              "location": 551,
+              "length": 2,
+              "start": 30.063173,
+              "end": 30.184254
+            },
+            {
+              "text": "our",
+              "location": 554,
+              "length": 3,
+              "start": 30.184254,
+              "end": 30.533155
+            },
+            {
+              "text": "innate",
+              "location": 558,
+              "length": 6,
+              "start": 30.533155,
+              "end": 30.997953
+            },
+            {
+              "text": "reaction",
+              "location": 565,
+              "length": 8,
+              "start": 30.997953,
+              "end": 31.439348
+            },
+            {
+              "text": "towards",
+              "location": 574,
+              "length": 7,
+              "start": 31.439348,
+              "end": 31.945873
+            },
+            {
+              "text": "things",
+              "location": 582,
+              "length": 6,
+              "start": 31.945873,
+              "end": 32.33292
+            },
+            {
+              "text": "that",
+              "location": 589,
+              "length": 4,
+              "start": 32.33292,
+              "end": 32.480083
+            },
+            {
+              "text": "we",
+              "location": 594,
+              "length": 2,
+              "start": 32.480083,
+              "end": 32.606968
+            },
+            {
+              "text": "couldn't",
+              "location": 597,
+              "length": 8,
+              "start": 32.606968,
+              "end": 32.892586
+            },
+            {
+              "text": "control",
+              "location": 606,
+              "length": 7,
+              "start": 32.892586,
+              "end": 33.474514
+            },
+            {
+              "text": "in",
+              "location": 614,
+              "length": 2,
+              "start": 33.474514,
+              "end": 33.602814
+            },
+            {
+              "text": "life",
+              "location": 617,
+              "length": 4,
+              "start": 33.602814,
+              "end": 33.997227
+            }
+          ],
+          "audio": {
+            "path": "emotions-and-creative-expression-p01.mp3",
+            "sha256": "f504d77dc1716b7c9af0605c7f33379dbcdfc212eaaffc1139042428da67c6cb"
+          }
+        },
+        {
+          "id": "p02",
+          "lines": [
+            {
+              "text": "That is why I always thought that as a grown up, once we step into society, we're supposed to hold our tears back.",
+              "translation": "所以我一直以为，作为成年人，一旦步入社会，就应该忍住眼泪。",
+              "location": 0
+            },
+            {
+              "text": "We are supposed to laugh in a restricted way when we find something that's very funny.",
+              "translation": "遇到特别好笑的事情，我们也应该克制地笑。",
+              "location": 115
+            },
+            {
+              "text": "When we're angry about something we should press down our anger.",
+              "translation": "对某件事感到愤怒时，我们应该把怒气压下去。",
+              "location": 202
+            },
+            {
+              "text": "We shouldn't be yelling on the top of our lungs towards things that we think is injustice or things are done in the wrong way.",
+              "translation": "面对我们认为不公正或做得不对的事情，我们不应该扯着嗓子大喊。",
+              "location": 267
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "hold back",
+              "ipa": "hoʊld bæk",
+              "meaning": "抑制；忍住。hold our tears back 意为忍住眼泪。"
+            },
+            {
+              "word": "restricted",
+              "ipa": "rɪˈstrɪktɪd",
+              "meaning": "受限制的；这里指笑得有所克制。"
+            }
+          ],
+          "text": "That is why I always thought that as a grown up, once we step into society, we're supposed to hold our tears back. We are supposed to laugh in a restricted way when we find something that's very funny. When we're angry about something we should press down our anger. We shouldn't be yelling on the top of our lungs towards things that we think is injustice or things are done in the wrong way.",
+          "updatedAt": "2026-11-17T05:48:20Z",
+          "wordTimings": [
+            {
+              "text": "That",
+              "location": 0,
+              "length": 4,
+              "start": 0.194852,
+              "end": 0.391486
+            },
+            {
+              "text": "is",
+              "location": 5,
+              "length": 2,
+              "start": 0.391486,
+              "end": 0.522999
+            },
+            {
+              "text": "why",
+              "location": 8,
+              "length": 3,
+              "start": 0.522999,
+              "end": 0.784762
+            },
+            {
+              "text": "I",
+              "location": 12,
+              "length": 1,
+              "start": 0.784762,
+              "end": 0.897971
+            },
+            {
+              "text": "always",
+              "location": 14,
+              "length": 6,
+              "start": 0.897971,
+              "end": 1.234723
+            },
+            {
+              "text": "thought",
+              "location": 21,
+              "length": 7,
+              "start": 1.234723,
+              "end": 1.523161
+            },
+            {
+              "text": "that",
+              "location": 29,
+              "length": 4,
+              "start": 1.523161,
+              "end": 1.649794
+            },
+            {
+              "text": "as",
+              "location": 34,
+              "length": 2,
+              "start": 1.649794,
+              "end": 1.794173
+            },
+            {
+              "text": "a",
+              "location": 37,
+              "length": 1,
+              "start": 1.794173,
+              "end": 1.819689
+            },
+            {
+              "text": "grown",
+              "location": 39,
+              "length": 5,
+              "start": 1.819689,
+              "end": 2.112656
+            },
+            {
+              "text": "up",
+              "location": 45,
+              "length": 2,
+              "start": 2.112656,
+              "end": 2.344117
+            },
+            {
+              "text": "once",
+              "location": 49,
+              "length": 4,
+              "start": 2.447316,
+              "end": 2.769792
+            },
+            {
+              "text": "we",
+              "location": 54,
+              "length": 2,
+              "start": 2.769792,
+              "end": 2.903427
+            },
+            {
+              "text": "step",
+              "location": 57,
+              "length": 4,
+              "start": 2.903427,
+              "end": 3.301133
+            },
+            {
+              "text": "into",
+              "location": 62,
+              "length": 4,
+              "start": 3.301133,
+              "end": 3.638703
+            },
+            {
+              "text": "society",
+              "location": 67,
+              "length": 7,
+              "start": 3.638703,
+              "end": 4.5301
+            },
+            {
+              "text": "we're",
+              "location": 76,
+              "length": 5,
+              "start": 4.753137,
+              "end": 4.87547
+            },
+            {
+              "text": "supposed",
+              "location": 82,
+              "length": 8,
+              "start": 4.87547,
+              "end": 5.375428
+            },
+            {
+              "text": "to",
+              "location": 91,
+              "length": 2,
+              "start": 5.375428,
+              "end": 5.467743
+            },
+            {
+              "text": "hold",
+              "location": 94,
+              "length": 4,
+              "start": 5.467743,
+              "end": 5.772468
+            },
+            {
+              "text": "our",
+              "location": 99,
+              "length": 3,
+              "start": 5.772468,
+              "end": 5.963115
+            },
+            {
+              "text": "tears",
+              "location": 103,
+              "length": 5,
+              "start": 5.963115,
+              "end": 6.342321
+            },
+            {
+              "text": "back",
+              "location": 109,
+              "length": 4,
+              "start": 6.342321,
+              "end": 6.645705
+            },
+            {
+              "text": "We",
+              "location": 115,
+              "length": 2,
+              "start": 6.751534,
+              "end": 6.93339
+            },
+            {
+              "text": "are",
+              "location": 118,
+              "length": 3,
+              "start": 6.93339,
+              "end": 7.067612
+            },
+            {
+              "text": "supposed",
+              "location": 122,
+              "length": 8,
+              "start": 7.067612,
+              "end": 7.645021
+            },
+            {
+              "text": "to",
+              "location": 131,
+              "length": 2,
+              "start": 7.645021,
+              "end": 7.761188
+            },
+            {
+              "text": "laugh",
+              "location": 134,
+              "length": 5,
+              "start": 7.761188,
+              "end": 8.259108
+            },
+            {
+              "text": "in",
+              "location": 140,
+              "length": 2,
+              "start": 8.259108,
+              "end": 8.418186
+            },
+            {
+              "text": "a",
+              "location": 143,
+              "length": 1,
+              "start": 8.418186,
+              "end": 8.453006
+            },
+            {
+              "text": "restricted",
+              "location": 145,
+              "length": 10,
+              "start": 8.453006,
+              "end": 9.178327
+            },
+            {
+              "text": "way",
+              "location": 156,
+              "length": 3,
+              "start": 9.178327,
+              "end": 9.352478
+            },
+            {
+              "text": "when",
+              "location": 160,
+              "length": 4,
+              "start": 9.352478,
+              "end": 9.57493
+            },
+            {
+              "text": "we",
+              "location": 165,
+              "length": 2,
+              "start": 9.57493,
+              "end": 9.706021
+            },
+            {
+              "text": "find",
+              "location": 168,
+              "length": 4,
+              "start": 9.706021,
+              "end": 10.042311
+            },
+            {
+              "text": "something",
+              "location": 173,
+              "length": 9,
+              "start": 10.042311,
+              "end": 10.614384
+            },
+            {
+              "text": "that's",
+              "location": 183,
+              "length": 6,
+              "start": 10.614384,
+              "end": 10.87911
+            },
+            {
+              "text": "very",
+              "location": 190,
+              "length": 4,
+              "start": 10.87911,
+              "end": 11.177583
+            },
+            {
+              "text": "funny",
+              "location": 195,
+              "length": 5,
+              "start": 11.177583,
+              "end": 11.661286
+            },
+            {
+              "text": "When",
+              "location": 202,
+              "length": 4,
+              "start": 11.884323,
+              "end": 12.032749
+            },
+            {
+              "text": "we're",
+              "location": 207,
+              "length": 5,
+              "start": 12.032749,
+              "end": 12.15213
+            },
+            {
+              "text": "angry",
+              "location": 213,
+              "length": 5,
+              "start": 12.15213,
+              "end": 12.605197
+            },
+            {
+              "text": "about",
+              "location": 219,
+              "length": 5,
+              "start": 12.605197,
+              "end": 12.895375
+            },
+            {
+              "text": "something",
+              "location": 225,
+              "length": 9,
+              "start": 12.895375,
+              "end": 13.481689
+            },
+            {
+              "text": "we",
+              "location": 235,
+              "length": 2,
+              "start": 13.481689,
+              "end": 13.63999
+            },
+            {
+              "text": "should",
+              "location": 238,
+              "length": 6,
+              "start": 13.63999,
+              "end": 13.821167
+            },
+            {
+              "text": "press",
+              "location": 245,
+              "length": 5,
+              "start": 13.821167,
+              "end": 14.133866
+            },
+            {
+              "text": "down",
+              "location": 251,
+              "length": 4,
+              "start": 14.133866,
+              "end": 14.335233
+            },
+            {
+              "text": "our",
+              "location": 256,
+              "length": 3,
+              "start": 14.335233,
+              "end": 14.621929
+            },
+            {
+              "text": "anger",
+              "location": 260,
+              "length": 5,
+              "start": 14.621929,
+              "end": 15.165173
+            },
+            {
+              "text": "We",
+              "location": 267,
+              "length": 2,
+              "start": 15.390515,
+              "end": 15.561122
+            },
+            {
+              "text": "shouldn't",
+              "location": 270,
+              "length": 9,
+              "start": 15.561122,
+              "end": 15.955503
+            },
+            {
+              "text": "be",
+              "location": 280,
+              "length": 2,
+              "start": 15.955503,
+              "end": 16.084499
+            },
+            {
+              "text": "yelling",
+              "location": 283,
+              "length": 7,
+              "start": 16.084499,
+              "end": 16.509291
+            },
+            {
+              "text": "on",
+              "location": 291,
+              "length": 2,
+              "start": 16.509291,
+              "end": 16.733343
+            },
+            {
+              "text": "the",
+              "location": 294,
+              "length": 3,
+              "start": 16.733343,
+              "end": 16.823574
+            },
+            {
+              "text": "top",
+              "location": 298,
+              "length": 3,
+              "start": 16.823574,
+              "end": 17.119209
+            },
+            {
+              "text": "of",
+              "location": 302,
+              "length": 2,
+              "start": 17.119209,
+              "end": 17.195572
+            },
+            {
+              "text": "our",
+              "location": 305,
+              "length": 3,
+              "start": 17.195572,
+              "end": 17.427586
+            },
+            {
+              "text": "lungs",
+              "location": 309,
+              "length": 5,
+              "start": 17.427586,
+              "end": 17.815533
+            },
+            {
+              "text": "towards",
+              "location": 315,
+              "length": 7,
+              "start": 17.815533,
+              "end": 18.274048
+            },
+            {
+              "text": "things",
+              "location": 323,
+              "length": 6,
+              "start": 18.274048,
+              "end": 18.661097
+            },
+            {
+              "text": "that",
+              "location": 330,
+              "length": 4,
+              "start": 18.661097,
+              "end": 18.824326
+            },
+            {
+              "text": "we",
+              "location": 335,
+              "length": 2,
+              "start": 18.824326,
+              "end": 18.969538
+            },
+            {
+              "text": "think",
+              "location": 338,
+              "length": 5,
+              "start": 18.969538,
+              "end": 19.182112
+            },
+            {
+              "text": "is",
+              "location": 344,
+              "length": 2,
+              "start": 19.182112,
+              "end": 19.296101
+            },
+            {
+              "text": "injustice",
+              "location": 347,
+              "length": 9,
+              "start": 19.296101,
+              "end": 19.899448
+            },
+            {
+              "text": "or",
+              "location": 357,
+              "length": 2,
+              "start": 19.899448,
+              "end": 20.00523
+            },
+            {
+              "text": "things",
+              "location": 360,
+              "length": 6,
+              "start": 20.00523,
+              "end": 20.293686
+            },
+            {
+              "text": "are",
+              "location": 367,
+              "length": 3,
+              "start": 20.293686,
+              "end": 20.398243
+            },
+            {
+              "text": "done",
+              "location": 371,
+              "length": 4,
+              "start": 20.398243,
+              "end": 20.628418
+            },
+            {
+              "text": "in",
+              "location": 376,
+              "length": 2,
+              "start": 20.628418,
+              "end": 20.748203
+            },
+            {
+              "text": "the",
+              "location": 379,
+              "length": 3,
+              "start": 20.748203,
+              "end": 20.807043
+            },
+            {
+              "text": "wrong",
+              "location": 383,
+              "length": 5,
+              "start": 20.807043,
+              "end": 21.108776
+            },
+            {
+              "text": "way",
+              "location": 389,
+              "length": 3,
+              "start": 21.108776,
+              "end": 21.429247
+            }
+          ],
+          "audio": {
+            "path": "emotions-and-creative-expression-p02.mp3",
+            "sha256": "c1c55b6c56a195a5c52f6986174245caf9ded0e66e121da81c8329cd9b8e8bc5"
+          }
+        },
+        {
+          "id": "p03",
+          "lines": [
+            {
+              "text": "However after a couple years being a grown up, I officially want to say that I have given up in controlling my emotion instead.",
+              "translation": "然而，做了几年成年人之后，我现在正式想说：我反而已经放弃控制自己的情绪了。",
+              "location": 0
+            },
+            {
+              "text": "Instead of finding a safe space to store my every thought, I believe we should just express it.",
+              "translation": "与其找一个安全的地方存放自己的每个想法，我认为我们应该直接表达出来。",
+              "location": 128
+            },
+            {
+              "text": "We should change the rules by crying in front of everybody.",
+              "translation": "我们应该通过在众人面前哭泣，来改变这些规则。",
+              "location": 224
+            },
+            {
+              "text": "We should change the rules by laughing in a very open way about things that are beautiful in life.",
+              "translation": "我们应该通过为生活中美好的事物开怀大笑，来改变这些规则。",
+              "location": 284
+            },
+            {
+              "text": "If we love something, we are supposed to be able to say our feelings to the other person or our feelings to a certain thing.",
+              "translation": "如果我们喜欢什么，就应该能够向另一个人表达感受，或表达自己对某样事物的感情。",
+              "location": 383
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "instead of",
+              "ipa": "ɪnˈstɛd əv",
+              "meaning": "而不是；代替。后接名词或动名词，如 instead of finding。"
+            },
+            {
+              "word": "in front of",
+              "ipa": "ɪn frʌnt əv",
+              "meaning": "在……面前。这里强调不再避开他人表达情绪。"
+            }
+          ],
+          "text": "However after a couple years being a grown up, I officially want to say that I have given up in controlling my emotion instead. Instead of finding a safe space to store my every thought, I believe we should just express it. We should change the rules by crying in front of everybody. We should change the rules by laughing in a very open way about things that are beautiful in life. If we love something, we are supposed to be able to say our feelings to the other person or our feelings to a certain thing.",
+          "updatedAt": "2026-11-17T05:48:20Z",
+          "wordTimings": [
+            {
+              "text": "However",
+              "location": 0,
+              "length": 7,
+              "start": 0.161631,
+              "end": 0.668837
+            },
+            {
+              "text": "after",
+              "location": 8,
+              "length": 5,
+              "start": 0.668837,
+              "end": 0.996975
+            },
+            {
+              "text": "a",
+              "location": 14,
+              "length": 1,
+              "start": 0.996975,
+              "end": 1.02324
+            },
+            {
+              "text": "couple",
+              "location": 16,
+              "length": 6,
+              "start": 1.02324,
+              "end": 1.390708
+            },
+            {
+              "text": "years",
+              "location": 23,
+              "length": 5,
+              "start": 1.390708,
+              "end": 1.673979
+            },
+            {
+              "text": "being",
+              "location": 29,
+              "length": 5,
+              "start": 1.673979,
+              "end": 1.980468
+            },
+            {
+              "text": "a",
+              "location": 35,
+              "length": 1,
+              "start": 1.980468,
+              "end": 2.010535
+            },
+            {
+              "text": "grown",
+              "location": 37,
+              "length": 5,
+              "start": 2.010535,
+              "end": 2.283866
+            },
+            {
+              "text": "up",
+              "location": 43,
+              "length": 2,
+              "start": 2.283866,
+              "end": 2.515326
+            },
+            {
+              "text": "I",
+              "location": 47,
+              "length": 1,
+              "start": 2.61801,
+              "end": 2.763453
+            },
+            {
+              "text": "officially",
+              "location": 49,
+              "length": 10,
+              "start": 2.763453,
+              "end": 3.315541
+            },
+            {
+              "text": "want",
+              "location": 60,
+              "length": 4,
+              "start": 3.315541,
+              "end": 3.609724
+            },
+            {
+              "text": "to",
+              "location": 65,
+              "length": 2,
+              "start": 3.609724,
+              "end": 3.739711
+            },
+            {
+              "text": "say",
+              "location": 68,
+              "length": 3,
+              "start": 3.739711,
+              "end": 3.99101
+            },
+            {
+              "text": "that",
+              "location": 72,
+              "length": 4,
+              "start": 3.99101,
+              "end": 4.19937
+            },
+            {
+              "text": "I",
+              "location": 77,
+              "length": 1,
+              "start": 4.19937,
+              "end": 4.299646
+            },
+            {
+              "text": "have",
+              "location": 79,
+              "length": 4,
+              "start": 4.299646,
+              "end": 4.479395
+            },
+            {
+              "text": "given",
+              "location": 84,
+              "length": 5,
+              "start": 4.479395,
+              "end": 4.763489
+            },
+            {
+              "text": "up",
+              "location": 90,
+              "length": 2,
+              "start": 4.763489,
+              "end": 4.954144
+            },
+            {
+              "text": "in",
+              "location": 93,
+              "length": 2,
+              "start": 4.954144,
+              "end": 5.100816
+            },
+            {
+              "text": "controlling",
+              "location": 96,
+              "length": 11,
+              "start": 5.100816,
+              "end": 5.772126
+            },
+            {
+              "text": "my",
+              "location": 108,
+              "length": 2,
+              "start": 5.772126,
+              "end": 5.955037
+            },
+            {
+              "text": "emotion",
+              "location": 111,
+              "length": 7,
+              "start": 5.955037,
+              "end": 6.425094
+            },
+            {
+              "text": "instead",
+              "location": 119,
+              "length": 7,
+              "start": 6.425094,
+              "end": 6.89601
+            },
+            {
+              "text": "Instead",
+              "location": 128,
+              "length": 7,
+              "start": 7.015437,
+              "end": 7.496032
+            },
+            {
+              "text": "of",
+              "location": 136,
+              "length": 2,
+              "start": 7.496032,
+              "end": 7.593208
+            },
+            {
+              "text": "finding",
+              "location": 139,
+              "length": 7,
+              "start": 7.593208,
+              "end": 8.106795
+            },
+            {
+              "text": "a",
+              "location": 147,
+              "length": 1,
+              "start": 8.106795,
+              "end": 8.150959
+            },
+            {
+              "text": "safe",
+              "location": 149,
+              "length": 4,
+              "start": 8.150959,
+              "end": 8.503996
+            },
+            {
+              "text": "space",
+              "location": 154,
+              "length": 5,
+              "start": 8.503996,
+              "end": 8.859404
+            },
+            {
+              "text": "to",
+              "location": 160,
+              "length": 2,
+              "start": 8.859404,
+              "end": 9.008744
+            },
+            {
+              "text": "store",
+              "location": 163,
+              "length": 5,
+              "start": 9.008744,
+              "end": 9.326076
+            },
+            {
+              "text": "my",
+              "location": 169,
+              "length": 2,
+              "start": 9.326076,
+              "end": 9.587375
+            },
+            {
+              "text": "every",
+              "location": 172,
+              "length": 5,
+              "start": 9.587375,
+              "end": 9.897375
+            },
+            {
+              "text": "thought",
+              "location": 178,
+              "length": 7,
+              "start": 9.897375,
+              "end": 10.145618
+            },
+            {
+              "text": "I",
+              "location": 187,
+              "length": 1,
+              "start": 10.248302,
+              "end": 10.439311
+            },
+            {
+              "text": "believe",
+              "location": 189,
+              "length": 7,
+              "start": 10.439311,
+              "end": 10.88396
+            },
+            {
+              "text": "we",
+              "location": 197,
+              "length": 2,
+              "start": 10.88396,
+              "end": 11.036135
+            },
+            {
+              "text": "should",
+              "location": 200,
+              "length": 6,
+              "start": 11.036135,
+              "end": 11.298738
+            },
+            {
+              "text": "just",
+              "location": 207,
+              "length": 4,
+              "start": 11.298738,
+              "end": 11.618442
+            },
+            {
+              "text": "express",
+              "location": 212,
+              "length": 7,
+              "start": 11.618442,
+              "end": 12.054519
+            },
+            {
+              "text": "it",
+              "location": 220,
+              "length": 2,
+              "start": 12.054519,
+              "end": 12.224069
+            },
+            {
+              "text": "We",
+              "location": 224,
+              "length": 2,
+              "start": 12.325082,
+              "end": 12.49387
+            },
+            {
+              "text": "should",
+              "location": 227,
+              "length": 6,
+              "start": 12.49387,
+              "end": 12.732903
+            },
+            {
+              "text": "change",
+              "location": 234,
+              "length": 6,
+              "start": 12.732903,
+              "end": 13.137912
+            },
+            {
+              "text": "the",
+              "location": 241,
+              "length": 3,
+              "start": 13.137912,
+              "end": 13.213368
+            },
+            {
+              "text": "rules",
+              "location": 245,
+              "length": 5,
+              "start": 13.213368,
+              "end": 13.554138
+            },
+            {
+              "text": "by",
+              "location": 251,
+              "length": 2,
+              "start": 13.554138,
+              "end": 13.687732
+            },
+            {
+              "text": "crying",
+              "location": 254,
+              "length": 6,
+              "start": 13.687732,
+              "end": 14.09938
+            },
+            {
+              "text": "in",
+              "location": 261,
+              "length": 2,
+              "start": 14.09938,
+              "end": 14.215338
+            },
+            {
+              "text": "front",
+              "location": 264,
+              "length": 5,
+              "start": 14.215338,
+              "end": 14.63034
+            },
+            {
+              "text": "of",
+              "location": 270,
+              "length": 2,
+              "start": 14.63034,
+              "end": 14.722688
+            },
+            {
+              "text": "everybody",
+              "location": 273,
+              "length": 9,
+              "start": 14.722688,
+              "end": 15.455619
+            },
+            {
+              "text": "We",
+              "location": 284,
+              "length": 2,
+              "start": 15.678656,
+              "end": 15.856829
+            },
+            {
+              "text": "should",
+              "location": 287,
+              "length": 6,
+              "start": 15.856829,
+              "end": 16.071711
+            },
+            {
+              "text": "change",
+              "location": 294,
+              "length": 6,
+              "start": 16.071711,
+              "end": 16.476719
+            },
+            {
+              "text": "the",
+              "location": 301,
+              "length": 3,
+              "start": 16.476719,
+              "end": 16.552176
+            },
+            {
+              "text": "rules",
+              "location": 305,
+              "length": 5,
+              "start": 16.552176,
+              "end": 16.89295
+            },
+            {
+              "text": "by",
+              "location": 311,
+              "length": 2,
+              "start": 16.89295,
+              "end": 17.030203
+            },
+            {
+              "text": "laughing",
+              "location": 314,
+              "length": 8,
+              "start": 17.030203,
+              "end": 17.545338
+            },
+            {
+              "text": "in",
+              "location": 323,
+              "length": 2,
+              "start": 17.545338,
+              "end": 17.712177
+            },
+            {
+              "text": "a",
+              "location": 326,
+              "length": 1,
+              "start": 17.712177,
+              "end": 17.761353
+            },
+            {
+              "text": "very",
+              "location": 328,
+              "length": 4,
+              "start": 17.761353,
+              "end": 18.107309
+            },
+            {
+              "text": "open",
+              "location": 333,
+              "length": 4,
+              "start": 18.107309,
+              "end": 18.362556
+            },
+            {
+              "text": "way",
+              "location": 338,
+              "length": 3,
+              "start": 18.362556,
+              "end": 18.536707
+            },
+            {
+              "text": "about",
+              "location": 342,
+              "length": 5,
+              "start": 18.536707,
+              "end": 18.934912
+            },
+            {
+              "text": "things",
+              "location": 348,
+              "length": 6,
+              "start": 18.934912,
+              "end": 19.32196
+            },
+            {
+              "text": "that",
+              "location": 355,
+              "length": 4,
+              "start": 19.32196,
+              "end": 19.462395
+            },
+            {
+              "text": "are",
+              "location": 360,
+              "length": 3,
+              "start": 19.462395,
+              "end": 19.587761
+            },
+            {
+              "text": "beautiful",
+              "location": 364,
+              "length": 9,
+              "start": 19.587761,
+              "end": 20.187859
+            },
+            {
+              "text": "in",
+              "location": 374,
+              "length": 2,
+              "start": 20.187859,
+              "end": 20.31616
+            },
+            {
+              "text": "life",
+              "location": 377,
+              "length": 4,
+              "start": 20.31616,
+              "end": 20.67779
+            },
+            {
+              "text": "If",
+              "location": 383,
+              "length": 2,
+              "start": 20.777063,
+              "end": 20.948223
+            },
+            {
+              "text": "we",
+              "location": 386,
+              "length": 2,
+              "start": 20.948223,
+              "end": 21.105183
+            },
+            {
+              "text": "love",
+              "location": 389,
+              "length": 4,
+              "start": 21.105183,
+              "end": 21.351461
+            },
+            {
+              "text": "something",
+              "location": 394,
+              "length": 9,
+              "start": 21.351461,
+              "end": 22.058853
+            },
+            {
+              "text": "we",
+              "location": 405,
+              "length": 2,
+              "start": 22.164682,
+              "end": 22.365219
+            },
+            {
+              "text": "are",
+              "location": 408,
+              "length": 3,
+              "start": 22.365219,
+              "end": 22.499441
+            },
+            {
+              "text": "supposed",
+              "location": 412,
+              "length": 8,
+              "start": 22.499441,
+              "end": 23.076853
+            },
+            {
+              "text": "to",
+              "location": 421,
+              "length": 2,
+              "start": 23.076853,
+              "end": 23.190315
+            },
+            {
+              "text": "be",
+              "location": 424,
+              "length": 2,
+              "start": 23.190315,
+              "end": 23.351898
+            },
+            {
+              "text": "able",
+              "location": 427,
+              "length": 4,
+              "start": 23.351898,
+              "end": 23.703711
+            },
+            {
+              "text": "to",
+              "location": 432,
+              "length": 2,
+              "start": 23.703711,
+              "end": 23.818174
+            },
+            {
+              "text": "say",
+              "location": 435,
+              "length": 3,
+              "start": 23.818174,
+              "end": 24.140533
+            },
+            {
+              "text": "our",
+              "location": 439,
+              "length": 3,
+              "start": 24.140533,
+              "end": 24.410679
+            },
+            {
+              "text": "feelings",
+              "location": 443,
+              "length": 8,
+              "start": 24.410679,
+              "end": 24.833584
+            },
+            {
+              "text": "to",
+              "location": 452,
+              "length": 2,
+              "start": 24.833584,
+              "end": 24.914495
+            },
+            {
+              "text": "the",
+              "location": 455,
+              "length": 3,
+              "start": 24.914495,
+              "end": 25.194977
+            },
+            {
+              "text": "other",
+              "location": 459,
+              "length": 5,
+              "start": 25.194977,
+              "end": 25.442183
+            },
+            {
+              "text": "person",
+              "location": 465,
+              "length": 6,
+              "start": 25.442183,
+              "end": 25.826685
+            },
+            {
+              "text": "or",
+              "location": 472,
+              "length": 2,
+              "start": 25.826685,
+              "end": 25.910486
+            },
+            {
+              "text": "our",
+              "location": 475,
+              "length": 3,
+              "start": 25.910486,
+              "end": 26.242838
+            },
+            {
+              "text": "feelings",
+              "location": 479,
+              "length": 8,
+              "start": 26.242838,
+              "end": 26.694929
+            },
+            {
+              "text": "to",
+              "location": 488,
+              "length": 2,
+              "start": 26.694929,
+              "end": 26.825117
+            },
+            {
+              "text": "a",
+              "location": 491,
+              "length": 1,
+              "start": 26.825117,
+              "end": 26.87071
+            },
+            {
+              "text": "certain",
+              "location": 493,
+              "length": 7,
+              "start": 26.87071,
+              "end": 27.171934
+            },
+            {
+              "text": "thing",
+              "location": 501,
+              "length": 5,
+              "start": 27.171934,
+              "end": 27.503128
+            }
+          ],
+          "audio": {
+            "path": "emotions-and-creative-expression-p03.mp3",
+            "sha256": "57f73b2da9cae3a209ae54c7ddccb66b307012a07aa6dc9a70caddac7bdb7009"
+          }
+        },
+        {
+          "id": "p04",
+          "lines": [
+            {
+              "text": "We're not supposed to be afraid that other people will say that you're such a dork.",
+              "translation": "我们不应该害怕别人说：你可真是个呆子。",
+              "location": 0
+            },
+            {
+              "text": "And why are you so nerdy?",
+              "translation": "还有，你为什么这么书呆子气？",
+              "location": 84
+            },
+            {
+              "text": "Why do you love this movie so much?",
+              "translation": "你为什么这么喜欢这部电影？",
+              "location": 110
+            },
+            {
+              "text": "Why do you like like fantasy?",
+              "translation": "你为什么喜欢、喜欢奇幻作品？",
+              "location": 146
+            },
+            {
+              "text": "Why do you like movies that are touching?",
+              "translation": "你为什么喜欢那些感人的电影？",
+              "location": 176
+            },
+            {
+              "text": "Why do you cry so much about movies that is just movies?",
+              "translation": "明明只是电影，你为什么要为它哭得那么厉害？",
+              "location": 218
+            },
+            {
+              "text": "It's just fake work.",
+              "translation": "那不过是虚构的作品。",
+              "location": 275
+            },
+            {
+              "text": "You put too much of your heart inside this fictional idea that makes you unrealistic.",
+              "translation": "你把太多真心投入这种虚构的想象里，弄得自己不切实际。",
+              "location": 296
+            },
+            {
+              "text": "Why would we need to hide our emotions for them just because our emotions makes them uncomfortable?",
+              "translation": "难道仅仅因为我们的情绪让他们不自在，我们就必须为了他们把情绪藏起来吗？",
+              "location": 382
+            },
+            {
+              "text": "Because they are too afraid to take out their emotion.",
+              "translation": "因为他们自己太害怕把情绪拿出来了。",
+              "location": 482
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "touching",
+              "ipa": "ˈtʌtʃɪŋ",
+              "meaning": "感人的；令人动容的。"
+            },
+            {
+              "word": "fictional",
+              "ipa": "ˈfɪkʃənəl",
+              "meaning": "虚构的。fictional 与真实发生的相对。"
+            },
+            {
+              "word": "unrealistic",
+              "ipa": "ˌʌnriəˈlɪstɪk",
+              "meaning": "不切实际的。原文是在转述外界的批评。"
+            }
+          ],
+          "text": "We're not supposed to be afraid that other people will say that you're such a dork. And why are you so nerdy? Why do you love this movie so much? Why do you like like fantasy? Why do you like movies that are touching? Why do you cry so much about movies that is just movies? It's just fake work. You put too much of your heart inside this fictional idea that makes you unrealistic. Why would we need to hide our emotions for them just because our emotions makes them uncomfortable? Because they are too afraid to take out their emotion.",
+          "updatedAt": "2026-11-17T05:48:20Z",
+          "wordTimings": [
+            {
+              "text": "We're",
+              "location": 0,
+              "length": 5,
+              "start": 0.223834,
+              "end": 0.340357
+            },
+            {
+              "text": "not",
+              "location": 6,
+              "length": 3,
+              "start": 0.340357,
+              "end": 0.605699
+            },
+            {
+              "text": "supposed",
+              "location": 10,
+              "length": 8,
+              "start": 0.605699,
+              "end": 1.183108
+            },
+            {
+              "text": "to",
+              "location": 19,
+              "length": 2,
+              "start": 1.183108,
+              "end": 1.296569
+            },
+            {
+              "text": "be",
+              "location": 22,
+              "length": 2,
+              "start": 1.296569,
+              "end": 1.458154
+            },
+            {
+              "text": "afraid",
+              "location": 25,
+              "length": 6,
+              "start": 1.458154,
+              "end": 1.960992
+            },
+            {
+              "text": "that",
+              "location": 32,
+              "length": 4,
+              "start": 1.960992,
+              "end": 2.10751
+            },
+            {
+              "text": "other",
+              "location": 37,
+              "length": 5,
+              "start": 2.10751,
+              "end": 2.361505
+            },
+            {
+              "text": "people",
+              "location": 43,
+              "length": 6,
+              "start": 2.361505,
+              "end": 2.816672
+            },
+            {
+              "text": "will",
+              "location": 50,
+              "length": 4,
+              "start": 2.816672,
+              "end": 2.968466
+            },
+            {
+              "text": "say",
+              "location": 55,
+              "length": 3,
+              "start": 2.968466,
+              "end": 3.180071
+            },
+            {
+              "text": "that",
+              "location": 59,
+              "length": 4,
+              "start": 3.180071,
+              "end": 3.363567
+            },
+            {
+              "text": "you're",
+              "location": 64,
+              "length": 6,
+              "start": 3.363567,
+              "end": 3.527595
+            },
+            {
+              "text": "such",
+              "location": 71,
+              "length": 4,
+              "start": 3.527595,
+              "end": 3.9281
+            },
+            {
+              "text": "a",
+              "location": 76,
+              "length": 1,
+              "start": 3.9281,
+              "end": 3.96137
+            },
+            {
+              "text": "dork",
+              "location": 78,
+              "length": 4,
+              "start": 3.96137,
+              "end": 4.500019
+            },
+            {
+              "text": "And",
+              "location": 84,
+              "length": 3,
+              "start": 4.613227,
+              "end": 4.757938
+            },
+            {
+              "text": "why",
+              "location": 88,
+              "length": 3,
+              "start": 4.757938,
+              "end": 5.050414
+            },
+            {
+              "text": "are",
+              "location": 92,
+              "length": 3,
+              "start": 5.050414,
+              "end": 5.197927
+            },
+            {
+              "text": "you",
+              "location": 96,
+              "length": 3,
+              "start": 5.197927,
+              "end": 5.35202
+            },
+            {
+              "text": "so",
+              "location": 100,
+              "length": 2,
+              "start": 5.35202,
+              "end": 5.545906
+            },
+            {
+              "text": "nerdy",
+              "location": 103,
+              "length": 5,
+              "start": 5.545906,
+              "end": 6.028753
+            },
+            {
+              "text": "Why",
+              "location": 110,
+              "length": 3,
+              "start": 6.25179,
+              "end": 6.498728
+            },
+            {
+              "text": "do",
+              "location": 114,
+              "length": 2,
+              "start": 6.498728,
+              "end": 6.69844
+            },
+            {
+              "text": "you",
+              "location": 117,
+              "length": 3,
+              "start": 6.69844,
+              "end": 6.846841
+            },
+            {
+              "text": "love",
+              "location": 121,
+              "length": 4,
+              "start": 6.846841,
+              "end": 7.186095
+            },
+            {
+              "text": "this",
+              "location": 126,
+              "length": 4,
+              "start": 7.186095,
+              "end": 7.394744
+            },
+            {
+              "text": "movie",
+              "location": 131,
+              "length": 5,
+              "start": 7.394744,
+              "end": 7.671086
+            },
+            {
+              "text": "so",
+              "location": 137,
+              "length": 2,
+              "start": 7.671086,
+              "end": 7.894926
+            },
+            {
+              "text": "much",
+              "location": 140,
+              "length": 4,
+              "start": 7.894926,
+              "end": 8.255334
+            },
+            {
+              "text": "Why",
+              "location": 146,
+              "length": 3,
+              "start": 8.358533,
+              "end": 8.57006
+            },
+            {
+              "text": "do",
+              "location": 150,
+              "length": 2,
+              "start": 8.57006,
+              "end": 8.769772
+            },
+            {
+              "text": "you",
+              "location": 153,
+              "length": 3,
+              "start": 8.769772,
+              "end": 8.918174
+            },
+            {
+              "text": "like",
+              "location": 157,
+              "length": 4,
+              "start": 8.918174,
+              "end": 9.261005
+            },
+            {
+              "text": "like",
+              "location": 162,
+              "length": 4,
+              "start": 9.261005,
+              "end": 9.519177
+            },
+            {
+              "text": "fantasy",
+              "location": 167,
+              "length": 7,
+              "start": 9.519177,
+              "end": 10.230776
+            },
+            {
+              "text": "Why",
+              "location": 176,
+              "length": 3,
+              "start": 10.453813,
+              "end": 10.700749
+            },
+            {
+              "text": "do",
+              "location": 180,
+              "length": 2,
+              "start": 10.700749,
+              "end": 10.900461
+            },
+            {
+              "text": "you",
+              "location": 183,
+              "length": 3,
+              "start": 10.900461,
+              "end": 11.048863
+            },
+            {
+              "text": "like",
+              "location": 187,
+              "length": 4,
+              "start": 11.048863,
+              "end": 11.432376
+            },
+            {
+              "text": "movies",
+              "location": 192,
+              "length": 6,
+              "start": 11.432376,
+              "end": 11.848186
+            },
+            {
+              "text": "that",
+              "location": 199,
+              "length": 4,
+              "start": 11.848186,
+              "end": 11.996038
+            },
+            {
+              "text": "are",
+              "location": 204,
+              "length": 3,
+              "start": 11.996038,
+              "end": 12.131479
+            },
+            {
+              "text": "touching",
+              "location": 208,
+              "length": 8,
+              "start": 12.131479,
+              "end": 12.701061
+            },
+            {
+              "text": "Why",
+              "location": 218,
+              "length": 3,
+              "start": 12.80426,
+              "end": 13.068401
+            },
+            {
+              "text": "do",
+              "location": 222,
+              "length": 2,
+              "start": 13.068401,
+              "end": 13.25919
+            },
+            {
+              "text": "you",
+              "location": 225,
+              "length": 3,
+              "start": 13.25919,
+              "end": 13.363508
+            },
+            {
+              "text": "cry",
+              "location": 229,
+              "length": 3,
+              "start": 13.363508,
+              "end": 13.558119
+            },
+            {
+              "text": "so",
+              "location": 233,
+              "length": 2,
+              "start": 13.558119,
+              "end": 13.770699
+            },
+            {
+              "text": "much",
+              "location": 236,
+              "length": 4,
+              "start": 13.770699,
+              "end": 14.191428
+            },
+            {
+              "text": "about",
+              "location": 241,
+              "length": 5,
+              "start": 14.191428,
+              "end": 14.461778
+            },
+            {
+              "text": "movies",
+              "location": 247,
+              "length": 6,
+              "start": 14.461778,
+              "end": 14.879657
+            },
+            {
+              "text": "that",
+              "location": 254,
+              "length": 4,
+              "start": 14.879657,
+              "end": 15.028454
+            },
+            {
+              "text": "is",
+              "location": 259,
+              "length": 2,
+              "start": 15.028454,
+              "end": 15.168985
+            },
+            {
+              "text": "just",
+              "location": 262,
+              "length": 4,
+              "start": 15.168985,
+              "end": 15.525604
+            },
+            {
+              "text": "movies",
+              "location": 267,
+              "length": 6,
+              "start": 15.525604,
+              "end": 16.095835
+            },
+            {
+              "text": "It's",
+              "location": 275,
+              "length": 4,
+              "start": 16.20071,
+              "end": 16.39772
+            },
+            {
+              "text": "just",
+              "location": 280,
+              "length": 4,
+              "start": 16.39772,
+              "end": 16.709562
+            },
+            {
+              "text": "fake",
+              "location": 285,
+              "length": 4,
+              "start": 16.709562,
+              "end": 16.996786
+            },
+            {
+              "text": "work",
+              "location": 290,
+              "length": 4,
+              "start": 16.996786,
+              "end": 17.378929
+            },
+            {
+              "text": "You",
+              "location": 296,
+              "length": 3,
+              "start": 17.478903,
+              "end": 17.599667
+            },
+            {
+              "text": "put",
+              "location": 300,
+              "length": 3,
+              "start": 17.599667,
+              "end": 17.82115
+            },
+            {
+              "text": "too",
+              "location": 304,
+              "length": 3,
+              "start": 17.82115,
+              "end": 17.993208
+            },
+            {
+              "text": "much",
+              "location": 308,
+              "length": 4,
+              "start": 17.993208,
+              "end": 18.335932
+            },
+            {
+              "text": "of",
+              "location": 313,
+              "length": 2,
+              "start": 18.335932,
+              "end": 18.460388
+            },
+            {
+              "text": "your",
+              "location": 316,
+              "length": 4,
+              "start": 18.460388,
+              "end": 18.634352
+            },
+            {
+              "text": "heart",
+              "location": 321,
+              "length": 5,
+              "start": 18.634352,
+              "end": 18.976633
+            },
+            {
+              "text": "inside",
+              "location": 327,
+              "length": 6,
+              "start": 18.976633,
+              "end": 19.480133
+            },
+            {
+              "text": "this",
+              "location": 334,
+              "length": 4,
+              "start": 19.480133,
+              "end": 19.641829
+            },
+            {
+              "text": "fictional",
+              "location": 339,
+              "length": 9,
+              "start": 19.641829,
+              "end": 20.100374
+            },
+            {
+              "text": "idea",
+              "location": 349,
+              "length": 4,
+              "start": 20.100374,
+              "end": 20.404583
+            },
+            {
+              "text": "that",
+              "location": 354,
+              "length": 4,
+              "start": 20.404583,
+              "end": 20.600233
+            },
+            {
+              "text": "makes",
+              "location": 359,
+              "length": 5,
+              "start": 20.600233,
+              "end": 20.927603
+            },
+            {
+              "text": "you",
+              "location": 365,
+              "length": 3,
+              "start": 20.927603,
+              "end": 21.071102
+            },
+            {
+              "text": "unrealistic",
+              "location": 369,
+              "length": 11,
+              "start": 21.071102,
+              "end": 21.840767
+            },
+            {
+              "text": "Why",
+              "location": 382,
+              "length": 3,
+              "start": 21.943964,
+              "end": 22.200367
+            },
+            {
+              "text": "would",
+              "location": 386,
+              "length": 5,
+              "start": 22.200367,
+              "end": 22.40909
+            },
+            {
+              "text": "we",
+              "location": 392,
+              "length": 2,
+              "start": 22.40909,
+              "end": 22.56605
+            },
+            {
+              "text": "need",
+              "location": 395,
+              "length": 4,
+              "start": 22.56605,
+              "end": 22.783213
+            },
+            {
+              "text": "to",
+              "location": 400,
+              "length": 2,
+              "start": 22.783213,
+              "end": 22.921915
+            },
+            {
+              "text": "hide",
+              "location": 403,
+              "length": 4,
+              "start": 22.921915,
+              "end": 23.156956
+            },
+            {
+              "text": "our",
+              "location": 408,
+              "length": 3,
+              "start": 23.156956,
+              "end": 23.490828
+            },
+            {
+              "text": "emotions",
+              "location": 412,
+              "length": 8,
+              "start": 23.490828,
+              "end": 24.04324
+            },
+            {
+              "text": "for",
+              "location": 421,
+              "length": 3,
+              "start": 24.04324,
+              "end": 24.180695
+            },
+            {
+              "text": "them",
+              "location": 425,
+              "length": 4,
+              "start": 24.180695,
+              "end": 24.379385
+            },
+            {
+              "text": "just",
+              "location": 430,
+              "length": 4,
+              "start": 24.379385,
+              "end": 24.741747
+            },
+            {
+              "text": "because",
+              "location": 435,
+              "length": 7,
+              "start": 24.741747,
+              "end": 25.039509
+            },
+            {
+              "text": "our",
+              "location": 443,
+              "length": 3,
+              "start": 25.039509,
+              "end": 25.388411
+            },
+            {
+              "text": "emotions",
+              "location": 447,
+              "length": 8,
+              "start": 25.388411,
+              "end": 25.960653
+            },
+            {
+              "text": "makes",
+              "location": 456,
+              "length": 5,
+              "start": 25.960653,
+              "end": 26.302618
+            },
+            {
+              "text": "them",
+              "location": 462,
+              "length": 4,
+              "start": 26.302618,
+              "end": 26.448334
+            },
+            {
+              "text": "uncomfortable",
+              "location": 467,
+              "length": 13,
+              "start": 26.448334,
+              "end": 27.285007
+            },
+            {
+              "text": "Because",
+              "location": 482,
+              "length": 7,
+              "start": 27.393076,
+              "end": 27.84586
+            },
+            {
+              "text": "they",
+              "location": 490,
+              "length": 4,
+              "start": 27.84586,
+              "end": 27.943361
+            },
+            {
+              "text": "are",
+              "location": 495,
+              "length": 3,
+              "start": 27.943361,
+              "end": 28.060215
+            },
+            {
+              "text": "too",
+              "location": 499,
+              "length": 3,
+              "start": 28.060215,
+              "end": 28.270618
+            },
+            {
+              "text": "afraid",
+              "location": 503,
+              "length": 6,
+              "start": 28.270618,
+              "end": 28.654621
+            },
+            {
+              "text": "to",
+              "location": 510,
+              "length": 2,
+              "start": 28.654621,
+              "end": 28.795261
+            },
+            {
+              "text": "take",
+              "location": 513,
+              "length": 4,
+              "start": 28.795261,
+              "end": 29.067783
+            },
+            {
+              "text": "out",
+              "location": 518,
+              "length": 3,
+              "start": 29.067783,
+              "end": 29.271214
+            },
+            {
+              "text": "their",
+              "location": 522,
+              "length": 5,
+              "start": 29.271214,
+              "end": 29.474195
+            },
+            {
+              "text": "emotion",
+              "location": 528,
+              "length": 7,
+              "start": 29.474195,
+              "end": 30.086733
+            }
+          ],
+          "audio": {
+            "path": "emotions-and-creative-expression-p04.mp3",
+            "sha256": "a00a0cb8b78e3da0c0aed96518ac83bdadb60f800f23407467605bcc1d8c973f"
+          }
+        },
+        {
+          "id": "p05",
+          "lines": [
+            {
+              "text": "I think instead of finding a safe space to store emotion, we should just behave in our own way.",
+              "translation": "我觉得，与其为情绪寻找一个安全的存放处，我们不如按自己的方式生活。",
+              "location": 0
+            },
+            {
+              "text": "We should love loudly and we cry loudly.",
+              "translation": "我们应该大声地爱，也大声地哭。",
+              "location": 96
+            },
+            {
+              "text": "When we feel vulnerable, when we feel lonely, we should stay out to the world and let them know what we feel.",
+              "translation": "感到脆弱、感到孤独的时候，我们应该面向世界，让别人知道我们的感受。（原文 stay out to the world 的搭配不自然；这里按上下文理解。）",
+              "location": 137
+            },
+            {
+              "text": "Cause emotions are important now.",
+              "translation": "因为情绪在此刻很重要。",
+              "location": 247
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "in our own way",
+              "ipa": "ɪn aʊər oʊn weɪ",
+              "meaning": "按我们自己的方式。"
+            },
+            {
+              "word": "lonely",
+              "ipa": "ˈloʊnli",
+              "meaning": "孤独的；强调内心感受，不等于独自一人。"
+            }
+          ],
+          "text": "I think instead of finding a safe space to store emotion, we should just behave in our own way. We should love loudly and we cry loudly. When we feel vulnerable, when we feel lonely, we should stay out to the world and let them know what we feel. Cause emotions are important now.",
+          "updatedAt": "2026-11-17T05:48:20Z",
+          "wordTimings": [
+            {
+              "text": "I",
+              "location": 0,
+              "length": 1,
+              "start": 0.209428,
+              "end": 0.355031
+            },
+            {
+              "text": "think",
+              "location": 2,
+              "length": 5,
+              "start": 0.355031,
+              "end": 0.633674
+            },
+            {
+              "text": "instead",
+              "location": 8,
+              "length": 7,
+              "start": 0.633674,
+              "end": 1.045916
+            },
+            {
+              "text": "of",
+              "location": 16,
+              "length": 2,
+              "start": 1.045916,
+              "end": 1.118846
+            },
+            {
+              "text": "finding",
+              "location": 19,
+              "length": 7,
+              "start": 1.118846,
+              "end": 1.689507
+            },
+            {
+              "text": "a",
+              "location": 27,
+              "length": 1,
+              "start": 1.689507,
+              "end": 1.733671
+            },
+            {
+              "text": "safe",
+              "location": 29,
+              "length": 4,
+              "start": 1.733671,
+              "end": 2.089717
+            },
+            {
+              "text": "space",
+              "location": 34,
+              "length": 5,
+              "start": 2.089717,
+              "end": 2.60458
+            },
+            {
+              "text": "to",
+              "location": 40,
+              "length": 2,
+              "start": 2.60458,
+              "end": 2.708257
+            },
+            {
+              "text": "store",
+              "location": 43,
+              "length": 5,
+              "start": 2.708257,
+              "end": 3.108778
+            },
+            {
+              "text": "emotion",
+              "location": 49,
+              "length": 7,
+              "start": 3.108778,
+              "end": 3.694362
+            },
+            {
+              "text": "we",
+              "location": 58,
+              "length": 2,
+              "start": 3.801402,
+              "end": 3.957391
+            },
+            {
+              "text": "should",
+              "location": 61,
+              "length": 6,
+              "start": 3.957391,
+              "end": 4.219994
+            },
+            {
+              "text": "just",
+              "location": 68,
+              "length": 4,
+              "start": 4.219994,
+              "end": 4.526107
+            },
+            {
+              "text": "behave",
+              "location": 73,
+              "length": 6,
+              "start": 4.526107,
+              "end": 4.849052
+            },
+            {
+              "text": "in",
+              "location": 80,
+              "length": 2,
+              "start": 4.849052,
+              "end": 4.910401
+            },
+            {
+              "text": "our",
+              "location": 83,
+              "length": 3,
+              "start": 4.910401,
+              "end": 5.090499
+            },
+            {
+              "text": "own",
+              "location": 87,
+              "length": 3,
+              "start": 5.090499,
+              "end": 5.318175
+            },
+            {
+              "text": "way",
+              "location": 91,
+              "length": 3,
+              "start": 5.318175,
+              "end": 5.544477
+            },
+            {
+              "text": "We",
+              "location": 96,
+              "length": 2,
+              "start": 5.743194,
+              "end": 5.874758
+            },
+            {
+              "text": "should",
+              "location": 99,
+              "length": 6,
+              "start": 5.874758,
+              "end": 6.155345
+            },
+            {
+              "text": "love",
+              "location": 106,
+              "length": 4,
+              "start": 6.155345,
+              "end": 6.542389
+            },
+            {
+              "text": "loudly",
+              "location": 111,
+              "length": 6,
+              "start": 6.542389,
+              "end": 7.201446
+            },
+            {
+              "text": "and",
+              "location": 118,
+              "length": 3,
+              "start": 7.201446,
+              "end": 7.351609
+            },
+            {
+              "text": "we",
+              "location": 122,
+              "length": 2,
+              "start": 7.351609,
+              "end": 7.475398
+            },
+            {
+              "text": "cry",
+              "location": 125,
+              "length": 3,
+              "start": 7.475398,
+              "end": 7.800132
+            },
+            {
+              "text": "loudly",
+              "location": 129,
+              "length": 6,
+              "start": 7.800132,
+              "end": 8.37355
+            },
+            {
+              "text": "When",
+              "location": 137,
+              "length": 4,
+              "start": 8.596587,
+              "end": 8.770958
+            },
+            {
+              "text": "we",
+              "location": 142,
+              "length": 2,
+              "start": 8.770958,
+              "end": 8.904593
+            },
+            {
+              "text": "feel",
+              "location": 145,
+              "length": 4,
+              "start": 8.904593,
+              "end": 9.163128
+            },
+            {
+              "text": "vulnerable",
+              "location": 150,
+              "length": 10,
+              "start": 9.163128,
+              "end": 9.911269
+            },
+            {
+              "text": "when",
+              "location": 162,
+              "length": 4,
+              "start": 10.01934,
+              "end": 10.192664
+            },
+            {
+              "text": "we",
+              "location": 167,
+              "length": 2,
+              "start": 10.192664,
+              "end": 10.326299
+            },
+            {
+              "text": "feel",
+              "location": 170,
+              "length": 4,
+              "start": 10.326299,
+              "end": 10.59774
+            },
+            {
+              "text": "lonely",
+              "location": 175,
+              "length": 6,
+              "start": 10.59774,
+              "end": 11.101167
+            },
+            {
+              "text": "we",
+              "location": 183,
+              "length": 2,
+              "start": 11.324203,
+              "end": 11.502377
+            },
+            {
+              "text": "should",
+              "location": 186,
+              "length": 6,
+              "start": 11.502377,
+              "end": 11.790186
+            },
+            {
+              "text": "stay",
+              "location": 193,
+              "length": 4,
+              "start": 11.790186,
+              "end": 12.138318
+            },
+            {
+              "text": "out",
+              "location": 198,
+              "length": 3,
+              "start": 12.138318,
+              "end": 12.336271
+            },
+            {
+              "text": "to",
+              "location": 202,
+              "length": 2,
+              "start": 12.336271,
+              "end": 12.473256
+            },
+            {
+              "text": "the",
+              "location": 205,
+              "length": 3,
+              "start": 12.473256,
+              "end": 12.560337
+            },
+            {
+              "text": "world",
+              "location": 209,
+              "length": 5,
+              "start": 12.560337,
+              "end": 12.889464
+            },
+            {
+              "text": "and",
+              "location": 215,
+              "length": 3,
+              "start": 12.889464,
+              "end": 13.015396
+            },
+            {
+              "text": "let",
+              "location": 219,
+              "length": 3,
+              "start": 13.015396,
+              "end": 13.244985
+            },
+            {
+              "text": "them",
+              "location": 223,
+              "length": 4,
+              "start": 13.244985,
+              "end": 13.474486
+            },
+            {
+              "text": "know",
+              "location": 228,
+              "length": 4,
+              "start": 13.474486,
+              "end": 13.573752
+            },
+            {
+              "text": "what",
+              "location": 233,
+              "length": 4,
+              "start": 13.573752,
+              "end": 13.784638
+            },
+            {
+              "text": "we",
+              "location": 238,
+              "length": 2,
+              "start": 13.784638,
+              "end": 13.95714
+            },
+            {
+              "text": "feel",
+              "location": 241,
+              "length": 4,
+              "start": 13.95714,
+              "end": 14.436046
+            },
+            {
+              "text": "Cause",
+              "location": 247,
+              "length": 5,
+              "start": 14.547638,
+              "end": 14.87159
+            },
+            {
+              "text": "emotions",
+              "location": 253,
+              "length": 8,
+              "start": 14.87159,
+              "end": 15.494724
+            },
+            {
+              "text": "are",
+              "location": 262,
+              "length": 3,
+              "start": 15.494724,
+              "end": 15.701933
+            },
+            {
+              "text": "important",
+              "location": 266,
+              "length": 9,
+              "start": 15.701933,
+              "end": 16.246178
+            },
+            {
+              "text": "now",
+              "location": 276,
+              "length": 3,
+              "start": 16.246178,
+              "end": 16.614046
+            }
+          ],
+          "audio": {
+            "path": "emotions-and-creative-expression-p05.mp3",
+            "sha256": "93492e8337e7b3ccc2581b7da37ba67091a4eb58ab933709d43d7fd1b10feedf"
+          }
+        },
+        {
+          "id": "p06",
+          "lines": [
+            {
+              "text": "Once you accept that it's a righteous thing to do to express one's emotion in a very bold and comfortable natural way, the next question would be how to express emotions well.",
+              "translation": "一旦你接受了大胆、自在而自然地表达情绪是一件正当的事，接下来的问题就是：怎样把情绪表达好？",
+              "location": 0
+            },
+            {
+              "text": "The most direct way would be just to do it in the most innate naive natural way as possible.",
+              "translation": "最直接的办法，就是尽可能以最本能、最天真、最自然的方式去表达。",
+              "location": 176
+            },
+            {
+              "text": "Imagine you're a literal kid.",
+              "translation": "想象自己真的是一个孩子。",
+              "location": 269
+            },
+            {
+              "text": "I'm not saying that we should all be babies and like cry for things that we don't have.",
+              "translation": "我不是说大家都应该像婴儿一样，为得不到的东西哭闹。",
+              "location": 299
+            },
+            {
+              "text": "But what I'm saying is that to extend in a reasonable extent, we I think we don't need to hold back our emotions so much as we do right now in this current world.",
+              "translation": "我的意思是，在合理的范围内，我们，我觉得，我们不必像现在这个世界里的我们那样，把情绪压抑得那么厉害。",
+              "location": 387
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "bold",
+              "ipa": "boʊld",
+              "meaning": "大胆的；勇于表达的。"
+            },
+            {
+              "word": "reasonable",
+              "ipa": "ˈrizənəbəl",
+              "meaning": "合理的；适度的。"
+            },
+            {
+              "word": "naive",
+              "ipa": "naɪˈiv",
+              "meaning": "天真的；缺乏世故的。此处强调孩子般直接自然。"
+            }
+          ],
+          "text": "Once you accept that it's a righteous thing to do to express one's emotion in a very bold and comfortable natural way, the next question would be how to express emotions well. The most direct way would be just to do it in the most innate naive natural way as possible. Imagine you're a literal kid. I'm not saying that we should all be babies and like cry for things that we don't have. But what I'm saying is that to extend in a reasonable extent, we I think we don't need to hold back our emotions so much as we do right now in this current world.",
+          "updatedAt": "2026-11-17T05:48:20Z",
+          "wordTimings": [
+            {
+              "text": "Once",
+              "location": 0,
+              "length": 4,
+              "start": 0.223834,
+              "end": 0.509681
+            },
+            {
+              "text": "you",
+              "location": 5,
+              "length": 3,
+              "start": 0.509681,
+              "end": 0.693987
+            },
+            {
+              "text": "accept",
+              "location": 9,
+              "length": 6,
+              "start": 0.693987,
+              "end": 1.138105
+            },
+            {
+              "text": "that",
+              "location": 16,
+              "length": 4,
+              "start": 1.138105,
+              "end": 1.31538
+            },
+            {
+              "text": "it's",
+              "location": 21,
+              "length": 4,
+              "start": 1.31538,
+              "end": 1.564694
+            },
+            {
+              "text": "a",
+              "location": 26,
+              "length": 1,
+              "start": 1.564694,
+              "end": 1.599514
+            },
+            {
+              "text": "righteous",
+              "location": 28,
+              "length": 9,
+              "start": 1.599514,
+              "end": 2.134393
+            },
+            {
+              "text": "thing",
+              "location": 38,
+              "length": 5,
+              "start": 2.134393,
+              "end": 2.390808
+            },
+            {
+              "text": "to",
+              "location": 44,
+              "length": 2,
+              "start": 2.390808,
+              "end": 2.492379
+            },
+            {
+              "text": "do",
+              "location": 47,
+              "length": 2,
+              "start": 2.492379,
+              "end": 2.636796
+            },
+            {
+              "text": "to",
+              "location": 50,
+              "length": 2,
+              "start": 2.636796,
+              "end": 2.745504
+            },
+            {
+              "text": "express",
+              "location": 53,
+              "length": 7,
+              "start": 2.745504,
+              "end": 3.335073
+            },
+            {
+              "text": "one's",
+              "location": 61,
+              "length": 5,
+              "start": 3.335073,
+              "end": 3.652004
+            },
+            {
+              "text": "emotion",
+              "location": 67,
+              "length": 7,
+              "start": 3.652004,
+              "end": 4.129864
+            },
+            {
+              "text": "in",
+              "location": 75,
+              "length": 2,
+              "start": 4.129864,
+              "end": 4.288943
+            },
+            {
+              "text": "a",
+              "location": 78,
+              "length": 1,
+              "start": 4.288943,
+              "end": 4.338119
+            },
+            {
+              "text": "very",
+              "location": 80,
+              "length": 4,
+              "start": 4.338119,
+              "end": 4.674943
+            },
+            {
+              "text": "bold",
+              "location": 85,
+              "length": 4,
+              "start": 4.674943,
+              "end": 5.018406
+            },
+            {
+              "text": "and",
+              "location": 90,
+              "length": 3,
+              "start": 5.018406,
+              "end": 5.14571
+            },
+            {
+              "text": "comfortable",
+              "location": 94,
+              "length": 11,
+              "start": 5.14571,
+              "end": 5.884944
+            },
+            {
+              "text": "natural",
+              "location": 106,
+              "length": 7,
+              "start": 5.884944,
+              "end": 6.371907
+            },
+            {
+              "text": "way",
+              "location": 114,
+              "length": 3,
+              "start": 6.371907,
+              "end": 6.611812
+            },
+            {
+              "text": "the",
+              "location": 119,
+              "length": 3,
+              "start": 6.802152,
+              "end": 6.900335
+            },
+            {
+              "text": "next",
+              "location": 123,
+              "length": 4,
+              "start": 6.900335,
+              "end": 7.316401
+            },
+            {
+              "text": "question",
+              "location": 128,
+              "length": 8,
+              "start": 7.316401,
+              "end": 7.833638
+            },
+            {
+              "text": "would",
+              "location": 137,
+              "length": 5,
+              "start": 7.833638,
+              "end": 8.009382
+            },
+            {
+              "text": "be",
+              "location": 143,
+              "length": 2,
+              "start": 8.009382,
+              "end": 8.13138
+            },
+            {
+              "text": "how",
+              "location": 146,
+              "length": 3,
+              "start": 8.13138,
+              "end": 8.303648
+            },
+            {
+              "text": "to",
+              "location": 150,
+              "length": 2,
+              "start": 8.303648,
+              "end": 8.408957
+            },
+            {
+              "text": "express",
+              "location": 153,
+              "length": 7,
+              "start": 8.408957,
+              "end": 8.831295
+            },
+            {
+              "text": "emotions",
+              "location": 161,
+              "length": 8,
+              "start": 8.831295,
+              "end": 9.384861
+            },
+            {
+              "text": "well",
+              "location": 170,
+              "length": 4,
+              "start": 9.384861,
+              "end": 9.59093
+            },
+            {
+              "text": "The",
+              "location": 176,
+              "length": 3,
+              "start": 9.6874,
+              "end": 9.758232
+            },
+            {
+              "text": "most",
+              "location": 180,
+              "length": 4,
+              "start": 9.758232,
+              "end": 10.158547
+            },
+            {
+              "text": "direct",
+              "location": 185,
+              "length": 6,
+              "start": 10.158547,
+              "end": 10.530199
+            },
+            {
+              "text": "way",
+              "location": 192,
+              "length": 3,
+              "start": 10.530199,
+              "end": 10.67579
+            },
+            {
+              "text": "would",
+              "location": 196,
+              "length": 5,
+              "start": 10.67579,
+              "end": 10.865963
+            },
+            {
+              "text": "be",
+              "location": 202,
+              "length": 2,
+              "start": 10.865963,
+              "end": 11.014454
+            },
+            {
+              "text": "just",
+              "location": 205,
+              "length": 4,
+              "start": 11.014454,
+              "end": 11.371703
+            },
+            {
+              "text": "to",
+              "location": 210,
+              "length": 2,
+              "start": 11.371703,
+              "end": 11.468549
+            },
+            {
+              "text": "do",
+              "location": 213,
+              "length": 2,
+              "start": 11.468549,
+              "end": 11.649899
+            },
+            {
+              "text": "it",
+              "location": 216,
+              "length": 2,
+              "start": 11.649899,
+              "end": 11.740139
+            },
+            {
+              "text": "in",
+              "location": 219,
+              "length": 2,
+              "start": 11.740139,
+              "end": 11.904216
+            },
+            {
+              "text": "the",
+              "location": 222,
+              "length": 3,
+              "start": 11.904216,
+              "end": 11.973594
+            },
+            {
+              "text": "most",
+              "location": 226,
+              "length": 4,
+              "start": 11.973594,
+              "end": 12.340486
+            },
+            {
+              "text": "innate",
+              "location": 231,
+              "length": 6,
+              "start": 12.340486,
+              "end": 12.756902
+            },
+            {
+              "text": "naive",
+              "location": 238,
+              "length": 5,
+              "start": 12.756902,
+              "end": 13.262509
+            },
+            {
+              "text": "natural",
+              "location": 244,
+              "length": 7,
+              "start": 13.262509,
+              "end": 13.768986
+            },
+            {
+              "text": "way",
+              "location": 252,
+              "length": 3,
+              "start": 13.768986,
+              "end": 13.977741
+            },
+            {
+              "text": "as",
+              "location": 256,
+              "length": 2,
+              "start": 13.977741,
+              "end": 14.077804
+            },
+            {
+              "text": "possible",
+              "location": 259,
+              "length": 8,
+              "start": 14.077804,
+              "end": 14.823723
+            },
+            {
+              "text": "Imagine",
+              "location": 269,
+              "length": 7,
+              "start": 14.943378,
+              "end": 15.547138
+            },
+            {
+              "text": "you're",
+              "location": 277,
+              "length": 6,
+              "start": 15.547138,
+              "end": 15.705489
+            },
+            {
+              "text": "a",
+              "location": 284,
+              "length": 1,
+              "start": 15.705489,
+              "end": 15.74713
+            },
+            {
+              "text": "literal",
+              "location": 286,
+              "length": 7,
+              "start": 15.74713,
+              "end": 16.16728
+            },
+            {
+              "text": "kid",
+              "location": 294,
+              "length": 3,
+              "start": 16.16728,
+              "end": 16.473185
+            },
+            {
+              "text": "I'm",
+              "location": 299,
+              "length": 3,
+              "start": 16.592609,
+              "end": 16.875181
+            },
+            {
+              "text": "not",
+              "location": 303,
+              "length": 3,
+              "start": 16.875181,
+              "end": 17.131071
+            },
+            {
+              "text": "saying",
+              "location": 307,
+              "length": 6,
+              "start": 17.131071,
+              "end": 17.513435
+            },
+            {
+              "text": "that",
+              "location": 314,
+              "length": 4,
+              "start": 17.513435,
+              "end": 17.712065
+            },
+            {
+              "text": "we",
+              "location": 319,
+              "length": 2,
+              "start": 17.712065,
+              "end": 17.857277
+            },
+            {
+              "text": "should",
+              "location": 322,
+              "length": 6,
+              "start": 17.857277,
+              "end": 18.038454
+            },
+            {
+              "text": "all",
+              "location": 329,
+              "length": 3,
+              "start": 18.038454,
+              "end": 18.188318
+            },
+            {
+              "text": "be",
+              "location": 333,
+              "length": 2,
+              "start": 18.188318,
+              "end": 18.364548
+            },
+            {
+              "text": "babies",
+              "location": 336,
+              "length": 6,
+              "start": 18.364548,
+              "end": 18.772406
+            },
+            {
+              "text": "and",
+              "location": 343,
+              "length": 3,
+              "start": 18.772406,
+              "end": 18.923719
+            },
+            {
+              "text": "like",
+              "location": 347,
+              "length": 4,
+              "start": 18.923719,
+              "end": 19.221838
+            },
+            {
+              "text": "cry",
+              "location": 352,
+              "length": 3,
+              "start": 19.221838,
+              "end": 19.443981
+            },
+            {
+              "text": "for",
+              "location": 356,
+              "length": 3,
+              "start": 19.443981,
+              "end": 19.606735
+            },
+            {
+              "text": "things",
+              "location": 360,
+              "length": 6,
+              "start": 19.606735,
+              "end": 20.010563
+            },
+            {
+              "text": "that",
+              "location": 367,
+              "length": 4,
+              "start": 20.010563,
+              "end": 20.153938
+            },
+            {
+              "text": "we",
+              "location": 372,
+              "length": 2,
+              "start": 20.153938,
+              "end": 20.318102
+            },
+            {
+              "text": "don't",
+              "location": 375,
+              "length": 5,
+              "start": 20.318102,
+              "end": 20.575537
+            },
+            {
+              "text": "have",
+              "location": 381,
+              "length": 4,
+              "start": 20.575537,
+              "end": 20.919178
+            },
+            {
+              "text": "But",
+              "location": 387,
+              "length": 3,
+              "start": 21.022375,
+              "end": 21.179916
+            },
+            {
+              "text": "what",
+              "location": 391,
+              "length": 4,
+              "start": 21.179916,
+              "end": 21.368092
+            },
+            {
+              "text": "I'm",
+              "location": 396,
+              "length": 3,
+              "start": 21.368092,
+              "end": 21.655605
+            },
+            {
+              "text": "saying",
+              "location": 400,
+              "length": 6,
+              "start": 21.655605,
+              "end": 22.079609
+            },
+            {
+              "text": "is",
+              "location": 407,
+              "length": 2,
+              "start": 22.079609,
+              "end": 22.239708
+            },
+            {
+              "text": "that",
+              "location": 410,
+              "length": 4,
+              "start": 22.239708,
+              "end": 22.427027
+            },
+            {
+              "text": "to",
+              "location": 415,
+              "length": 2,
+              "start": 22.427027,
+              "end": 22.585567
+            },
+            {
+              "text": "extend",
+              "location": 418,
+              "length": 6,
+              "start": 22.585567,
+              "end": 22.982475
+            },
+            {
+              "text": "in",
+              "location": 425,
+              "length": 2,
+              "start": 22.982475,
+              "end": 23.137184
+            },
+            {
+              "text": "a",
+              "location": 428,
+              "length": 1,
+              "start": 23.137184,
+              "end": 23.160566
+            },
+            {
+              "text": "reasonable",
+              "location": 430,
+              "length": 10,
+              "start": 23.160566,
+              "end": 23.788424
+            },
+            {
+              "text": "extent",
+              "location": 441,
+              "length": 6,
+              "start": 23.788424,
+              "end": 24.332657
+            },
+            {
+              "text": "we",
+              "location": 449,
+              "length": 2,
+              "start": 24.439682,
+              "end": 24.624781
+            },
+            {
+              "text": "I",
+              "location": 452,
+              "length": 1,
+              "start": 24.624781,
+              "end": 24.770384
+            },
+            {
+              "text": "think",
+              "location": 454,
+              "length": 5,
+              "start": 24.770384,
+              "end": 25.029667
+            },
+            {
+              "text": "we",
+              "location": 460,
+              "length": 2,
+              "start": 25.029667,
+              "end": 25.219862
+            },
+            {
+              "text": "don't",
+              "location": 463,
+              "length": 5,
+              "start": 25.219862,
+              "end": 25.443731
+            },
+            {
+              "text": "need",
+              "location": 469,
+              "length": 4,
+              "start": 25.443731,
+              "end": 25.652418
+            },
+            {
+              "text": "to",
+              "location": 474,
+              "length": 2,
+              "start": 25.652418,
+              "end": 25.791121
+            },
+            {
+              "text": "hold",
+              "location": 477,
+              "length": 4,
+              "start": 25.791121,
+              "end": 26.098577
+            },
+            {
+              "text": "back",
+              "location": 482,
+              "length": 4,
+              "start": 26.098577,
+              "end": 26.317457
+            },
+            {
+              "text": "our",
+              "location": 487,
+              "length": 3,
+              "start": 26.317457,
+              "end": 26.603289
+            },
+            {
+              "text": "emotions",
+              "location": 491,
+              "length": 8,
+              "start": 26.603289,
+              "end": 27.207298
+            },
+            {
+              "text": "so",
+              "location": 500,
+              "length": 2,
+              "start": 27.207298,
+              "end": 27.428181
+            },
+            {
+              "text": "much",
+              "location": 503,
+              "length": 4,
+              "start": 27.428181,
+              "end": 27.770763
+            },
+            {
+              "text": "as",
+              "location": 508,
+              "length": 2,
+              "start": 27.770763,
+              "end": 27.899603
+            },
+            {
+              "text": "we",
+              "location": 511,
+              "length": 2,
+              "start": 27.899603,
+              "end": 28.063766
+            },
+            {
+              "text": "do",
+              "location": 514,
+              "length": 2,
+              "start": 28.063766,
+              "end": 28.186823
+            },
+            {
+              "text": "right",
+              "location": 517,
+              "length": 5,
+              "start": 28.186823,
+              "end": 28.553782
+            },
+            {
+              "text": "now",
+              "location": 523,
+              "length": 3,
+              "start": 28.553782,
+              "end": 28.858711
+            },
+            {
+              "text": "in",
+              "location": 527,
+              "length": 2,
+              "start": 28.858711,
+              "end": 28.964964
+            },
+            {
+              "text": "this",
+              "location": 530,
+              "length": 4,
+              "start": 28.964964,
+              "end": 29.127707
+            },
+            {
+              "text": "current",
+              "location": 535,
+              "length": 7,
+              "start": 29.127707,
+              "end": 29.520943
+            },
+            {
+              "text": "world",
+              "location": 543,
+              "length": 5,
+              "start": 29.520943,
+              "end": 30.086843
+            }
+          ],
+          "audio": {
+            "path": "emotions-and-creative-expression-p06.mp3",
+            "sha256": "d58ebdc09234226226bbf93e477a840b397463f2265447448991a42f81803259"
+          }
+        },
+        {
+          "id": "p07",
+          "lines": [
+            {
+              "text": "Because I feel like especially our generation because of social media.",
+              "translation": "因为我觉得，尤其是我们这一代，因为社交媒体的影响……",
+              "location": 0
+            },
+            {
+              "text": "Okay, I also like videos online cause sometimes I feel like people help me to express my emotions and my ideas better.",
+              "translation": "好吧，我也喜欢网上的视频，因为有时候我觉得别人能帮我把情绪和想法表达得更好。",
+              "location": 71
+            },
+            {
+              "text": "And that makes me think that is that because I couldn't express my own feelings, I have lost the skill of communication entirely.",
+              "translation": "这让我想：是不是因为我无法表达自己的感受，我已经彻底失去了沟通的能力？",
+              "location": 190
+            },
+            {
+              "text": "My language cannot be used to describe my heart.",
+              "translation": "我的语言已经无法描述我的内心。",
+              "location": 320
+            },
+            {
+              "text": "But if my language cannot be used to describe my heart, what makes me a human?",
+              "translation": "可如果我的语言无法描述我的内心，那是什么让我成为一个人呢？",
+              "location": 369
+            },
+            {
+              "text": "Right.",
+              "translation": "对吧。",
+              "location": 448
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "generation",
+              "ipa": "ˌdʒɛnəˈreɪʃən",
+              "meaning": "一代人；同一时代成长的人。"
+            },
+            {
+              "word": "entirely",
+              "ipa": "ɪnˈtaɪərli",
+              "meaning": "完全地；彻底地。"
+            }
+          ],
+          "text": "Because I feel like especially our generation because of social media. Okay, I also like videos online cause sometimes I feel like people help me to express my emotions and my ideas better. And that makes me think that is that because I couldn't express my own feelings, I have lost the skill of communication entirely. My language cannot be used to describe my heart. But if my language cannot be used to describe my heart, what makes me a human? Right.",
+          "updatedAt": "2026-11-17T05:48:20Z",
+          "wordTimings": [
+            {
+              "text": "Because",
+              "location": 0,
+              "length": 7,
+              "start": 0.216159,
+              "end": 0.666569
+            },
+            {
+              "text": "I",
+              "location": 8,
+              "length": 1,
+              "start": 0.666569,
+              "end": 0.762888
+            },
+            {
+              "text": "feel",
+              "location": 10,
+              "length": 4,
+              "start": 0.762888,
+              "end": 1.102668
+            },
+            {
+              "text": "like",
+              "location": 15,
+              "length": 4,
+              "start": 1.102668,
+              "end": 1.417773
+            },
+            {
+              "text": "especially",
+              "location": 20,
+              "length": 10,
+              "start": 1.417773,
+              "end": 1.963547
+            },
+            {
+              "text": "our",
+              "location": 31,
+              "length": 3,
+              "start": 1.963547,
+              "end": 2.185245
+            },
+            {
+              "text": "generation",
+              "location": 35,
+              "length": 10,
+              "start": 2.185245,
+              "end": 2.918287
+            },
+            {
+              "text": "because",
+              "location": 46,
+              "length": 7,
+              "start": 2.918287,
+              "end": 3.216666
+            },
+            {
+              "text": "of",
+              "location": 54,
+              "length": 2,
+              "start": 3.216666,
+              "end": 3.30507
+            },
+            {
+              "text": "social",
+              "location": 57,
+              "length": 6,
+              "start": 3.30507,
+              "end": 3.757782
+            },
+            {
+              "text": "media",
+              "location": 64,
+              "length": 5,
+              "start": 3.757782,
+              "end": 4.137938
+            },
+            {
+              "text": "Okay",
+              "location": 71,
+              "length": 4,
+              "start": 4.365446,
+              "end": 4.824323
+            },
+            {
+              "text": "I",
+              "location": 77,
+              "length": 1,
+              "start": 5.043293,
+              "end": 5.212284
+            },
+            {
+              "text": "also",
+              "location": 79,
+              "length": 4,
+              "start": 5.212284,
+              "end": 5.595757
+            },
+            {
+              "text": "like",
+              "location": 84,
+              "length": 4,
+              "start": 5.595757,
+              "end": 5.886557
+            },
+            {
+              "text": "videos",
+              "location": 89,
+              "length": 6,
+              "start": 5.886557,
+              "end": 6.357173
+            },
+            {
+              "text": "online",
+              "location": 96,
+              "length": 6,
+              "start": 6.357173,
+              "end": 6.768849
+            },
+            {
+              "text": "cause",
+              "location": 103,
+              "length": 5,
+              "start": 6.768849,
+              "end": 6.9196
+            },
+            {
+              "text": "sometimes",
+              "location": 109,
+              "length": 9,
+              "start": 6.9196,
+              "end": 7.520813
+            },
+            {
+              "text": "I",
+              "location": 119,
+              "length": 1,
+              "start": 7.520813,
+              "end": 7.621089
+            },
+            {
+              "text": "feel",
+              "location": 121,
+              "length": 4,
+              "start": 7.621089,
+              "end": 7.966823
+            },
+            {
+              "text": "like",
+              "location": 126,
+              "length": 4,
+              "start": 7.966823,
+              "end": 8.257571
+            },
+            {
+              "text": "people",
+              "location": 131,
+              "length": 6,
+              "start": 8.257571,
+              "end": 8.693815
+            },
+            {
+              "text": "help",
+              "location": 138,
+              "length": 4,
+              "start": 8.693815,
+              "end": 8.98529
+            },
+            {
+              "text": "me",
+              "location": 143,
+              "length": 2,
+              "start": 8.98529,
+              "end": 9.10032
+            },
+            {
+              "text": "to",
+              "location": 146,
+              "length": 2,
+              "start": 9.10032,
+              "end": 9.209027
+            },
+            {
+              "text": "express",
+              "location": 149,
+              "length": 7,
+              "start": 9.209027,
+              "end": 9.743149
+            },
+            {
+              "text": "my",
+              "location": 157,
+              "length": 2,
+              "start": 9.743149,
+              "end": 9.940271
+            },
+            {
+              "text": "emotions",
+              "location": 160,
+              "length": 8,
+              "start": 9.940271,
+              "end": 10.474023
+            },
+            {
+              "text": "and",
+              "location": 169,
+              "length": 3,
+              "start": 10.474023,
+              "end": 10.603248
+            },
+            {
+              "text": "my",
+              "location": 173,
+              "length": 2,
+              "start": 10.603248,
+              "end": 10.859779
+            },
+            {
+              "text": "ideas",
+              "location": 176,
+              "length": 5,
+              "start": 10.859779,
+              "end": 11.298642
+            },
+            {
+              "text": "better",
+              "location": 182,
+              "length": 6,
+              "start": 11.298642,
+              "end": 11.681493
+            },
+            {
+              "text": "And",
+              "location": 190,
+              "length": 3,
+              "start": 11.910982,
+              "end": 12.053745
+            },
+            {
+              "text": "that",
+              "location": 194,
+              "length": 4,
+              "start": 12.053745,
+              "end": 12.229743
+            },
+            {
+              "text": "makes",
+              "location": 199,
+              "length": 5,
+              "start": 12.229743,
+              "end": 12.590603
+            },
+            {
+              "text": "me",
+              "location": 205,
+              "length": 2,
+              "start": 12.590603,
+              "end": 12.696834
+            },
+            {
+              "text": "think",
+              "location": 208,
+              "length": 5,
+              "start": 12.696834,
+              "end": 13.000916
+            },
+            {
+              "text": "that",
+              "location": 214,
+              "length": 4,
+              "start": 13.000916,
+              "end": 13.150422
+            },
+            {
+              "text": "is",
+              "location": 219,
+              "length": 2,
+              "start": 13.150422,
+              "end": 13.273432
+            },
+            {
+              "text": "that",
+              "location": 222,
+              "length": 4,
+              "start": 13.273432,
+              "end": 13.45745
+            },
+            {
+              "text": "because",
+              "location": 227,
+              "length": 7,
+              "start": 13.45745,
+              "end": 13.831316
+            },
+            {
+              "text": "I",
+              "location": 235,
+              "length": 1,
+              "start": 13.831316,
+              "end": 13.931592
+            },
+            {
+              "text": "couldn't",
+              "location": 237,
+              "length": 8,
+              "start": 13.931592,
+              "end": 14.22286
+            },
+            {
+              "text": "express",
+              "location": 246,
+              "length": 7,
+              "start": 14.22286,
+              "end": 14.754951
+            },
+            {
+              "text": "my",
+              "location": 254,
+              "length": 2,
+              "start": 14.754951,
+              "end": 15.017069
+            },
+            {
+              "text": "own",
+              "location": 257,
+              "length": 3,
+              "start": 15.017069,
+              "end": 15.212252
+            },
+            {
+              "text": "feelings",
+              "location": 261,
+              "length": 8,
+              "start": 15.212252,
+              "end": 15.656487
+            },
+            {
+              "text": "I",
+              "location": 271,
+              "length": 1,
+              "start": 15.765079,
+              "end": 15.912057
+            },
+            {
+              "text": "have",
+              "location": 273,
+              "length": 4,
+              "start": 15.912057,
+              "end": 16.081461
+            },
+            {
+              "text": "lost",
+              "location": 278,
+              "length": 4,
+              "start": 16.081461,
+              "end": 16.43882
+            },
+            {
+              "text": "the",
+              "location": 283,
+              "length": 3,
+              "start": 16.43882,
+              "end": 16.515936
+            },
+            {
+              "text": "skill",
+              "location": 287,
+              "length": 5,
+              "start": 16.515936,
+              "end": 16.881245
+            },
+            {
+              "text": "of",
+              "location": 293,
+              "length": 2,
+              "start": 16.881245,
+              "end": 16.963591
+            },
+            {
+              "text": "communication",
+              "location": 296,
+              "length": 13,
+              "start": 16.963591,
+              "end": 17.939009
+            },
+            {
+              "text": "entirely",
+              "location": 310,
+              "length": 8,
+              "start": 17.939009,
+              "end": 18.588551
+            },
+            {
+              "text": "My",
+              "location": 320,
+              "length": 2,
+              "start": 18.811588,
+              "end": 19.014502
+            },
+            {
+              "text": "language",
+              "location": 323,
+              "length": 8,
+              "start": 19.014502,
+              "end": 19.515789
+            },
+            {
+              "text": "cannot",
+              "location": 332,
+              "length": 6,
+              "start": 19.515789,
+              "end": 20.003429
+            },
+            {
+              "text": "be",
+              "location": 339,
+              "length": 2,
+              "start": 20.003429,
+              "end": 20.194458
+            },
+            {
+              "text": "used",
+              "location": 342,
+              "length": 4,
+              "start": 20.194458,
+              "end": 20.568766
+            },
+            {
+              "text": "to",
+              "location": 347,
+              "length": 2,
+              "start": 20.568766,
+              "end": 20.710804
+            },
+            {
+              "text": "describe",
+              "location": 350,
+              "length": 8,
+              "start": 20.710804,
+              "end": 21.201221
+            },
+            {
+              "text": "my",
+              "location": 359,
+              "length": 2,
+              "start": 21.201221,
+              "end": 21.365023
+            },
+            {
+              "text": "heart",
+              "location": 362,
+              "length": 5,
+              "start": 21.365023,
+              "end": 21.827368
+            },
+            {
+              "text": "But",
+              "location": 369,
+              "length": 3,
+              "start": 21.928249,
+              "end": 22.10857
+            },
+            {
+              "text": "if",
+              "location": 373,
+              "length": 2,
+              "start": 22.10857,
+              "end": 22.305147
+            },
+            {
+              "text": "my",
+              "location": 376,
+              "length": 2,
+              "start": 22.305147,
+              "end": 22.482336
+            },
+            {
+              "text": "language",
+              "location": 379,
+              "length": 8,
+              "start": 22.482336,
+              "end": 22.983624
+            },
+            {
+              "text": "cannot",
+              "location": 388,
+              "length": 6,
+              "start": 22.983624,
+              "end": 23.46361
+            },
+            {
+              "text": "be",
+              "location": 395,
+              "length": 2,
+              "start": 23.46361,
+              "end": 23.589441
+            },
+            {
+              "text": "used",
+              "location": 398,
+              "length": 4,
+              "start": 23.589441,
+              "end": 23.908836
+            },
+            {
+              "text": "to",
+              "location": 403,
+              "length": 2,
+              "start": 23.908836,
+              "end": 24.061996
+            },
+            {
+              "text": "describe",
+              "location": 406,
+              "length": 8,
+              "start": 24.061996,
+              "end": 24.552414
+            },
+            {
+              "text": "my",
+              "location": 415,
+              "length": 2,
+              "start": 24.552414,
+              "end": 24.716215
+            },
+            {
+              "text": "heart",
+              "location": 418,
+              "length": 5,
+              "start": 24.716215,
+              "end": 25.17856
+            },
+            {
+              "text": "what",
+              "location": 425,
+              "length": 4,
+              "start": 25.279442,
+              "end": 25.464268
+            },
+            {
+              "text": "makes",
+              "location": 430,
+              "length": 5,
+              "start": 25.464268,
+              "end": 25.842386
+            },
+            {
+              "text": "me",
+              "location": 436,
+              "length": 2,
+              "start": 25.842386,
+              "end": 26.048168
+            },
+            {
+              "text": "a",
+              "location": 439,
+              "length": 1,
+              "start": 26.048168,
+              "end": 26.069548
+            },
+            {
+              "text": "human",
+              "location": 441,
+              "length": 5,
+              "start": 26.069548,
+              "end": 26.505293
+            },
+            {
+              "text": "Right",
+              "location": 448,
+              "length": 5,
+              "start": 26.614647,
+              "end": 26.914574
+            }
+          ],
+          "audio": {
+            "path": "emotions-and-creative-expression-p07.mp3",
+            "sha256": "34ad2de9f659500ec492c1af92c11fc5e8fe98cdf119fc0c6e24c5f91769c44b"
+          }
+        },
+        {
+          "id": "p08",
+          "lines": [
+            {
+              "text": "I believe that even though my emotions and expressions can be expressed by somebody else, and I'm very grateful and happy for that, that does not mean I should give up with practicing my own communication skills and expression.",
+              "translation": "我认为，即使别人能替我表达情绪和想法，而且我对此非常感激和开心，也不代表我就应该放弃练习自己的沟通和表达能力。",
+              "location": 0
+            },
+            {
+              "text": "That is why I really want to suggest.",
+              "translation": "所以，我真的很想提个建议。",
+              "location": 228
+            },
+            {
+              "text": "Ever since I was in high school, I did a [转写疑似错误，原词不清] and it is about why we should use creative expression to express ourselves.",
+              "translation": "早在高中时，我做过一个[转写疑似错误，原词不清]，内容是为什么我们应该用创造性的表达来表达自己。",
+              "location": 266
+            },
+            {
+              "text": "Or if you don't have a clear idea about yourself, you should use creative expression to find yourself, to construct yourself.",
+              "translation": "或者，如果你对自己还没有清晰的认识，就应该用创造性的表达去寻找自己、塑造自己。",
+              "location": 397
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "even though",
+              "ipa": "ˈivən ðoʊ",
+              "meaning": "尽管；即使如此。引出让步，后面的重点并不因此改变。"
+            },
+            {
+              "word": "creative expression",
+              "ipa": "kriˈeɪtɪv ɪkˈsprɛʃən",
+              "meaning": "创造性表达；通过写作、绘画等形式表达想法和感受。"
+            },
+            {
+              "word": "construct",
+              "ipa": "kənˈstrʌkt",
+              "meaning": "建构；塑造。这里指逐渐形成自我认识。"
+            }
+          ],
+          "text": "I believe that even though my emotions and expressions can be expressed by somebody else, and I'm very grateful and happy for that, that does not mean I should give up with practicing my own communication skills and expression. That is why I really want to suggest. Ever since I was in high school, I did a [转写疑似错误，原词不清] and it is about why we should use creative expression to express ourselves. Or if you don't have a clear idea about yourself, you should use creative expression to find yourself, to construct yourself.",
+          "updatedAt": "2026-11-17T05:48:20Z",
+          "wordTimings": [
+            {
+              "text": "I",
+              "location": 0,
+              "length": 1,
+              "start": 0.221625,
+              "end": 0.338094
+            },
+            {
+              "text": "believe",
+              "location": 2,
+              "length": 7,
+              "start": 0.338094,
+              "end": 0.725896
+            },
+            {
+              "text": "that",
+              "location": 10,
+              "length": 4,
+              "start": 0.725896,
+              "end": 0.932183
+            },
+            {
+              "text": "even",
+              "location": 15,
+              "length": 4,
+              "start": 0.932183,
+              "end": 1.189354
+            },
+            {
+              "text": "though",
+              "location": 20,
+              "length": 6,
+              "start": 1.189354,
+              "end": 1.331135
+            },
+            {
+              "text": "my",
+              "location": 27,
+              "length": 2,
+              "start": 1.331135,
+              "end": 1.575738
+            },
+            {
+              "text": "emotions",
+              "location": 30,
+              "length": 8,
+              "start": 1.575738,
+              "end": 2.14912
+            },
+            {
+              "text": "and",
+              "location": 39,
+              "length": 3,
+              "start": 2.14912,
+              "end": 2.325519
+            },
+            {
+              "text": "expressions",
+              "location": 43,
+              "length": 11,
+              "start": 2.325519,
+              "end": 3.029107
+            },
+            {
+              "text": "can",
+              "location": 55,
+              "length": 3,
+              "start": 3.029107,
+              "end": 3.22832
+            },
+            {
+              "text": "be",
+              "location": 59,
+              "length": 2,
+              "start": 3.22832,
+              "end": 3.411981
+            },
+            {
+              "text": "expressed",
+              "location": 62,
+              "length": 9,
+              "start": 3.411981,
+              "end": 3.901821
+            },
+            {
+              "text": "by",
+              "location": 72,
+              "length": 2,
+              "start": 3.901821,
+              "end": 4.075876
+            },
+            {
+              "text": "somebody",
+              "location": 75,
+              "length": 8,
+              "start": 4.075876,
+              "end": 4.718129
+            },
+            {
+              "text": "else",
+              "location": 84,
+              "length": 4,
+              "start": 4.718129,
+              "end": 4.983705
+            },
+            {
+              "text": "and",
+              "location": 90,
+              "length": 3,
+              "start": 5.096913,
+              "end": 5.254496
+            },
+            {
+              "text": "I'm",
+              "location": 94,
+              "length": 3,
+              "start": 5.254496,
+              "end": 5.475969
+            },
+            {
+              "text": "very",
+              "location": 98,
+              "length": 4,
+              "start": 5.475969,
+              "end": 5.749847
+            },
+            {
+              "text": "grateful",
+              "location": 103,
+              "length": 8,
+              "start": 5.749847,
+              "end": 6.318738
+            },
+            {
+              "text": "and",
+              "location": 112,
+              "length": 3,
+              "start": 6.318738,
+              "end": 6.458212
+            },
+            {
+              "text": "happy",
+              "location": 116,
+              "length": 5,
+              "start": 6.458212,
+              "end": 6.81868
+            },
+            {
+              "text": "for",
+              "location": 122,
+              "length": 3,
+              "start": 6.81868,
+              "end": 6.958922
+            },
+            {
+              "text": "that",
+              "location": 126,
+              "length": 4,
+              "start": 6.958922,
+              "end": 7.267757
+            },
+            {
+              "text": "that",
+              "location": 132,
+              "length": 4,
+              "start": 7.362982,
+              "end": 7.551439
+            },
+            {
+              "text": "does",
+              "location": 137,
+              "length": 4,
+              "start": 7.551439,
+              "end": 7.814296
+            },
+            {
+              "text": "not",
+              "location": 142,
+              "length": 3,
+              "start": 7.814296,
+              "end": 8.07382
+            },
+            {
+              "text": "mean",
+              "location": 146,
+              "length": 4,
+              "start": 8.07382,
+              "end": 8.26362
+            },
+            {
+              "text": "I",
+              "location": 151,
+              "length": 1,
+              "start": 8.26362,
+              "end": 8.395813
+            },
+            {
+              "text": "should",
+              "location": 153,
+              "length": 6,
+              "start": 8.395813,
+              "end": 8.643312
+            },
+            {
+              "text": "give",
+              "location": 160,
+              "length": 4,
+              "start": 8.643312,
+              "end": 8.849387
+            },
+            {
+              "text": "up",
+              "location": 165,
+              "length": 2,
+              "start": 8.849387,
+              "end": 8.996105
+            },
+            {
+              "text": "with",
+              "location": 168,
+              "length": 4,
+              "start": 8.996105,
+              "end": 9.153509
+            },
+            {
+              "text": "practicing",
+              "location": 173,
+              "length": 10,
+              "start": 9.153509,
+              "end": 9.851017
+            },
+            {
+              "text": "my",
+              "location": 184,
+              "length": 2,
+              "start": 9.851017,
+              "end": 10.10538
+            },
+            {
+              "text": "own",
+              "location": 187,
+              "length": 3,
+              "start": 10.10538,
+              "end": 10.33164
+            },
+            {
+              "text": "communication",
+              "location": 191,
+              "length": 13,
+              "start": 10.33164,
+              "end": 11.223472
+            },
+            {
+              "text": "skills",
+              "location": 205,
+              "length": 6,
+              "start": 11.223472,
+              "end": 11.600469
+            },
+            {
+              "text": "and",
+              "location": 212,
+              "length": 3,
+              "start": 11.600469,
+              "end": 11.751585
+            },
+            {
+              "text": "expression",
+              "location": 216,
+              "length": 10,
+              "start": 11.751585,
+              "end": 12.346012
+            },
+            {
+              "text": "That",
+              "location": 228,
+              "length": 4,
+              "start": 12.455367,
+              "end": 12.654346
+            },
+            {
+              "text": "is",
+              "location": 233,
+              "length": 2,
+              "start": 12.654346,
+              "end": 12.789277
+            },
+            {
+              "text": "why",
+              "location": 236,
+              "length": 3,
+              "start": 12.789277,
+              "end": 13.059947
+            },
+            {
+              "text": "I",
+              "location": 240,
+              "length": 1,
+              "start": 13.059947,
+              "end": 13.261309
+            },
+            {
+              "text": "really",
+              "location": 242,
+              "length": 6,
+              "start": 13.261309,
+              "end": 13.619487
+            },
+            {
+              "text": "want",
+              "location": 249,
+              "length": 4,
+              "start": 13.619487,
+              "end": 13.921998
+            },
+            {
+              "text": "to",
+              "location": 254,
+              "length": 2,
+              "start": 13.921998,
+              "end": 14.00914
+            },
+            {
+              "text": "suggest",
+              "location": 257,
+              "length": 7,
+              "start": 14.00914,
+              "end": 14.736501
+            },
+            {
+              "text": "Ever",
+              "location": 266,
+              "length": 4,
+              "start": 14.833534,
+              "end": 15.027512
+            },
+            {
+              "text": "since",
+              "location": 271,
+              "length": 5,
+              "start": 15.027512,
+              "end": 15.382137
+            },
+            {
+              "text": "I",
+              "location": 277,
+              "length": 1,
+              "start": 15.382137,
+              "end": 15.534047
+            },
+            {
+              "text": "was",
+              "location": 279,
+              "length": 3,
+              "start": 15.534047,
+              "end": 15.755862
+            },
+            {
+              "text": "in",
+              "location": 283,
+              "length": 2,
+              "start": 15.755862,
+              "end": 15.880404
+            },
+            {
+              "text": "high",
+              "location": 286,
+              "length": 4,
+              "start": 15.880404,
+              "end": 16.071362
+            },
+            {
+              "text": "school",
+              "location": 291,
+              "length": 6,
+              "start": 16.071362,
+              "end": 16.433578
+            },
+            {
+              "text": "I",
+              "location": 299,
+              "length": 1,
+              "start": 16.532909,
+              "end": 16.70079
+            },
+            {
+              "text": "did",
+              "location": 301,
+              "length": 3,
+              "start": 16.70079,
+              "end": 16.843189
+            },
+            {
+              "text": "a",
+              "location": 305,
+              "length": 1,
+              "start": 16.843189,
+              "end": 16.923347
+            },
+            {
+              "text": "and",
+              "location": 321,
+              "length": 3,
+              "start": 16.923347,
+              "end": 17.069899
+            },
+            {
+              "text": "it",
+              "location": 325,
+              "length": 2,
+              "start": 17.069899,
+              "end": 17.133459
+            },
+            {
+              "text": "is",
+              "location": 328,
+              "length": 2,
+              "start": 17.133459,
+              "end": 17.27635
+            },
+            {
+              "text": "about",
+              "location": 331,
+              "length": 5,
+              "start": 17.27635,
+              "end": 17.557978
+            },
+            {
+              "text": "why",
+              "location": 337,
+              "length": 3,
+              "start": 17.557978,
+              "end": 17.747124
+            },
+            {
+              "text": "we",
+              "location": 341,
+              "length": 2,
+              "start": 17.747124,
+              "end": 17.931234
+            },
+            {
+              "text": "should",
+              "location": 344,
+              "length": 6,
+              "start": 17.931234,
+              "end": 18.132471
+            },
+            {
+              "text": "use",
+              "location": 351,
+              "length": 3,
+              "start": 18.132471,
+              "end": 18.378397
+            },
+            {
+              "text": "creative",
+              "location": 355,
+              "length": 8,
+              "start": 18.378397,
+              "end": 18.847715
+            },
+            {
+              "text": "expression",
+              "location": 364,
+              "length": 10,
+              "start": 18.847715,
+              "end": 19.395657
+            },
+            {
+              "text": "to",
+              "location": 375,
+              "length": 2,
+              "start": 19.395657,
+              "end": 19.532276
+            },
+            {
+              "text": "express",
+              "location": 378,
+              "length": 7,
+              "start": 19.532276,
+              "end": 20.002813
+            },
+            {
+              "text": "ourselves",
+              "location": 386,
+              "length": 9,
+              "start": 20.002813,
+              "end": 20.556034
+            },
+            {
+              "text": "Or",
+              "location": 397,
+              "length": 2,
+              "start": 20.678711,
+              "end": 20.789196
+            },
+            {
+              "text": "if",
+              "location": 400,
+              "length": 2,
+              "start": 20.789196,
+              "end": 20.945192
+            },
+            {
+              "text": "you",
+              "location": 403,
+              "length": 3,
+              "start": 20.945192,
+              "end": 21.096268
+            },
+            {
+              "text": "don't",
+              "location": 407,
+              "length": 5,
+              "start": 21.096268,
+              "end": 21.291925
+            },
+            {
+              "text": "have",
+              "location": 413,
+              "length": 4,
+              "start": 21.291925,
+              "end": 21.457569
+            },
+            {
+              "text": "a",
+              "location": 418,
+              "length": 1,
+              "start": 21.457569,
+              "end": 21.49247
+            },
+            {
+              "text": "clear",
+              "location": 420,
+              "length": 5,
+              "start": 21.49247,
+              "end": 21.849592
+            },
+            {
+              "text": "idea",
+              "location": 426,
+              "length": 4,
+              "start": 21.849592,
+              "end": 22.206568
+            },
+            {
+              "text": "about",
+              "location": 431,
+              "length": 5,
+              "start": 22.206568,
+              "end": 22.4349
+            },
+            {
+              "text": "yourself",
+              "location": 437,
+              "length": 8,
+              "start": 22.4349,
+              "end": 23.014904
+            },
+            {
+              "text": "you",
+              "location": 447,
+              "length": 3,
+              "start": 23.112638,
+              "end": 23.233402
+            },
+            {
+              "text": "should",
+              "location": 451,
+              "length": 6,
+              "start": 23.233402,
+              "end": 23.496004
+            },
+            {
+              "text": "use",
+              "location": 458,
+              "length": 3,
+              "start": 23.496004,
+              "end": 23.77405
+            },
+            {
+              "text": "creative",
+              "location": 462,
+              "length": 8,
+              "start": 23.77405,
+              "end": 24.206018
+            },
+            {
+              "text": "expression",
+              "location": 471,
+              "length": 10,
+              "start": 24.206018,
+              "end": 24.843798
+            },
+            {
+              "text": "to",
+              "location": 482,
+              "length": 2,
+              "start": 24.843798,
+              "end": 24.947243
+            },
+            {
+              "text": "find",
+              "location": 485,
+              "length": 4,
+              "start": 24.947243,
+              "end": 25.262865
+            },
+            {
+              "text": "yourself",
+              "location": 490,
+              "length": 8,
+              "start": 25.262865,
+              "end": 25.842869
+            },
+            {
+              "text": "to",
+              "location": 500,
+              "length": 2,
+              "start": 25.937971,
+              "end": 26.035955
+            },
+            {
+              "text": "construct",
+              "location": 503,
+              "length": 9,
+              "start": 26.035955,
+              "end": 26.752813
+            },
+            {
+              "text": "yourself",
+              "location": 513,
+              "length": 8,
+              "start": 26.752813,
+              "end": 27.536871
+            }
+          ],
+          "audio": {
+            "path": "emotions-and-creative-expression-p08.mp3",
+            "sha256": "0a6d58fc74fc6e299fa9b459c7acda15f998dd045ed220d6d4a34a8bcbe63f3c"
+          }
+        },
+        {
+          "id": "p09",
+          "lines": [
+            {
+              "text": "Even if it's just a draft, or you start off with a very rough draft.",
+              "translation": "哪怕那只是一份草稿，或者你一开始只有一份非常粗糙的草稿。",
+              "location": 0
+            },
+            {
+              "text": "You have a very blurry i-idea of yourself.",
+              "translation": "你对自己只有一个非常模糊的想、想法。",
+              "location": 69
+            },
+            {
+              "text": "You're not sure about what's your personality, what things you like, what things you hate.",
+              "translation": "你不确定自己是什么性格，喜欢什么，又讨厌什么。",
+              "location": 112
+            },
+            {
+              "text": "That is why I think creative expressions such as writing, drawing, making music, or even just liking music and writing comments for movies, going on to stores and figure out what things you like.",
+              "translation": "所以我觉得，写作、画画、做音乐，甚至只是喜欢音乐、写影评、逛商店并弄清自己喜欢什么，这些都是创造性的表达。",
+              "location": 203
+            },
+            {
+              "text": "That is a progress.",
+              "translation": "这就是一种进步。",
+              "location": 399
+            },
+            {
+              "text": "That means you're trying to figure out this blurry idea of yourself.",
+              "translation": "这说明你正在努力弄清那个模糊的自我形象。",
+              "location": 419
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "rough draft",
+              "ipa": "rʌf dræft",
+              "meaning": "初稿；尚未打磨的草稿。"
+            },
+            {
+              "word": "blurry",
+              "ipa": "ˈblɜri",
+              "meaning": "模糊的；这里指对自我的认识尚不清晰。"
+            },
+            {
+              "word": "figure out",
+              "ipa": "ˈfɪɡjər aʊt",
+              "meaning": "弄清楚；经过思考或尝试后理解。"
+            }
+          ],
+          "text": "Even if it's just a draft, or you start off with a very rough draft. You have a very blurry i-idea of yourself. You're not sure about what's your personality, what things you like, what things you hate. That is why I think creative expressions such as writing, drawing, making music, or even just liking music and writing comments for movies, going on to stores and figure out what things you like. That is a progress. That means you're trying to figure out this blurry idea of yourself.",
+          "updatedAt": "2026-11-17T05:48:20Z",
+          "wordTimings": [
+            {
+              "text": "Even",
+              "location": 0,
+              "length": 4,
+              "start": 0.223364,
+              "end": 0.434809
+            },
+            {
+              "text": "if",
+              "location": 5,
+              "length": 2,
+              "start": 0.434809,
+              "end": 0.593143
+            },
+            {
+              "text": "it's",
+              "location": 8,
+              "length": 4,
+              "start": 0.593143,
+              "end": 0.770955
+            },
+            {
+              "text": "just",
+              "location": 13,
+              "length": 4,
+              "start": 0.770955,
+              "end": 1.099854
+            },
+            {
+              "text": "a",
+              "location": 18,
+              "length": 1,
+              "start": 1.099854,
+              "end": 1.142651
+            },
+            {
+              "text": "draft",
+              "location": 20,
+              "length": 5,
+              "start": 1.142651,
+              "end": 1.629722
+            },
+            {
+              "text": "or",
+              "location": 27,
+              "length": 2,
+              "start": 1.736386,
+              "end": 1.875983
+            },
+            {
+              "text": "you",
+              "location": 30,
+              "length": 3,
+              "start": 1.875983,
+              "end": 2.016305
+            },
+            {
+              "text": "start",
+              "location": 34,
+              "length": 5,
+              "start": 2.016305,
+              "end": 2.343154
+            },
+            {
+              "text": "off",
+              "location": 40,
+              "length": 3,
+              "start": 2.343154,
+              "end": 2.615632
+            },
+            {
+              "text": "with",
+              "location": 44,
+              "length": 4,
+              "start": 2.615632,
+              "end": 2.758197
+            },
+            {
+              "text": "a",
+              "location": 49,
+              "length": 1,
+              "start": 2.758197,
+              "end": 2.786944
+            },
+            {
+              "text": "very",
+              "location": 51,
+              "length": 4,
+              "start": 2.786944,
+              "end": 3.089891
+            },
+            {
+              "text": "rough",
+              "location": 56,
+              "length": 5,
+              "start": 3.089891,
+              "end": 3.322088
+            },
+            {
+              "text": "draft",
+              "location": 62,
+              "length": 5,
+              "start": 3.322088,
+              "end": 3.76208
+            },
+            {
+              "text": "You",
+              "location": 69,
+              "length": 3,
+              "start": 3.859816,
+              "end": 3.988321
+            },
+            {
+              "text": "have",
+              "location": 73,
+              "length": 4,
+              "start": 3.988321,
+              "end": 4.160841
+            },
+            {
+              "text": "a",
+              "location": 78,
+              "length": 1,
+              "start": 4.160841,
+              "end": 4.195355
+            },
+            {
+              "text": "very",
+              "location": 80,
+              "length": 4,
+              "start": 4.195355,
+              "end": 4.502162
+            },
+            {
+              "text": "blurry",
+              "location": 85,
+              "length": 6,
+              "start": 4.502162,
+              "end": 4.8173
+            },
+            {
+              "text": "i",
+              "location": 92,
+              "length": 1,
+              "start": 4.8173,
+              "end": 4.939691
+            },
+            {
+              "text": "idea",
+              "location": 94,
+              "length": 4,
+              "start": 4.939691,
+              "end": 5.352474
+            },
+            {
+              "text": "of",
+              "location": 99,
+              "length": 2,
+              "start": 5.352474,
+              "end": 5.471402
+            },
+            {
+              "text": "yourself",
+              "location": 102,
+              "length": 8,
+              "start": 5.471402,
+              "end": 6.072456
+            },
+            {
+              "text": "You're",
+              "location": 112,
+              "length": 6,
+              "start": 6.16756,
+              "end": 6.331039
+            },
+            {
+              "text": "not",
+              "location": 119,
+              "length": 3,
+              "start": 6.331039,
+              "end": 6.609822
+            },
+            {
+              "text": "sure",
+              "location": 123,
+              "length": 4,
+              "start": 6.609822,
+              "end": 6.948637
+            },
+            {
+              "text": "about",
+              "location": 128,
+              "length": 5,
+              "start": 6.948637,
+              "end": 7.237983
+            },
+            {
+              "text": "what's",
+              "location": 134,
+              "length": 6,
+              "start": 7.237983,
+              "end": 7.509114
+            },
+            {
+              "text": "your",
+              "location": 141,
+              "length": 4,
+              "start": 7.509114,
+              "end": 7.705253
+            },
+            {
+              "text": "personality",
+              "location": 146,
+              "length": 11,
+              "start": 7.705253,
+              "end": 8.480296
+            },
+            {
+              "text": "what",
+              "location": 159,
+              "length": 4,
+              "start": 8.703333,
+              "end": 8.89201
+            },
+            {
+              "text": "things",
+              "location": 164,
+              "length": 6,
+              "start": 8.89201,
+              "end": 9.234331
+            },
+            {
+              "text": "you",
+              "location": 171,
+              "length": 3,
+              "start": 9.234331,
+              "end": 9.360625
+            },
+            {
+              "text": "like",
+              "location": 175,
+              "length": 4,
+              "start": 9.360625,
+              "end": 9.79366
+            },
+            {
+              "text": "what",
+              "location": 181,
+              "length": 4,
+              "start": 9.896859,
+              "end": 10.051232
+            },
+            {
+              "text": "things",
+              "location": 186,
+              "length": 6,
+              "start": 10.051232,
+              "end": 10.359344
+            },
+            {
+              "text": "you",
+              "location": 193,
+              "length": 3,
+              "start": 10.359344,
+              "end": 10.485639
+            },
+            {
+              "text": "hate",
+              "location": 197,
+              "length": 4,
+              "start": 10.485639,
+              "end": 10.848318
+            },
+            {
+              "text": "That",
+              "location": 203,
+              "length": 4,
+              "start": 10.943543,
+              "end": 11.117866
+            },
+            {
+              "text": "is",
+              "location": 208,
+              "length": 2,
+              "start": 11.117866,
+              "end": 11.249379
+            },
+            {
+              "text": "why",
+              "location": 211,
+              "length": 3,
+              "start": 11.249379,
+              "end": 11.566479
+            },
+            {
+              "text": "I",
+              "location": 215,
+              "length": 1,
+              "start": 11.566479,
+              "end": 11.661081
+            },
+            {
+              "text": "think",
+              "location": 217,
+              "length": 5,
+              "start": 11.661081,
+              "end": 11.965164
+            },
+            {
+              "text": "creative",
+              "location": 223,
+              "length": 8,
+              "start": 11.965164,
+              "end": 12.400026
+            },
+            {
+              "text": "expressions",
+              "location": 232,
+              "length": 11,
+              "start": 12.400026,
+              "end": 13.037202
+            },
+            {
+              "text": "such",
+              "location": 244,
+              "length": 4,
+              "start": 13.037202,
+              "end": 13.356452
+            },
+            {
+              "text": "as",
+              "location": 249,
+              "length": 2,
+              "start": 13.356452,
+              "end": 13.505537
+            },
+            {
+              "text": "writing",
+              "location": 252,
+              "length": 7,
+              "start": 13.505537,
+              "end": 13.997342
+            },
+            {
+              "text": "drawing",
+              "location": 261,
+              "length": 7,
+              "start": 14.104009,
+              "end": 14.565941
+            },
+            {
+              "text": "making",
+              "location": 270,
+              "length": 6,
+              "start": 14.66914,
+              "end": 15.065337
+            },
+            {
+              "text": "music",
+              "location": 277,
+              "length": 5,
+              "start": 15.065337,
+              "end": 15.58155
+            },
+            {
+              "text": "or",
+              "location": 284,
+              "length": 2,
+              "start": 15.678381,
+              "end": 15.779449
+            },
+            {
+              "text": "even",
+              "location": 287,
+              "length": 4,
+              "start": 15.779449,
+              "end": 16.132763
+            },
+            {
+              "text": "just",
+              "location": 292,
+              "length": 4,
+              "start": 16.132763,
+              "end": 16.430815
+            },
+            {
+              "text": "liking",
+              "location": 297,
+              "length": 6,
+              "start": 16.430815,
+              "end": 16.873619
+            },
+            {
+              "text": "music",
+              "location": 304,
+              "length": 5,
+              "start": 16.873619,
+              "end": 17.376471
+            },
+            {
+              "text": "and",
+              "location": 310,
+              "length": 3,
+              "start": 17.376471,
+              "end": 17.528187
+            },
+            {
+              "text": "writing",
+              "location": 314,
+              "length": 7,
+              "start": 17.528187,
+              "end": 17.884598
+            },
+            {
+              "text": "comments",
+              "location": 322,
+              "length": 8,
+              "start": 17.884598,
+              "end": 18.396032
+            },
+            {
+              "text": "for",
+              "location": 331,
+              "length": 3,
+              "start": 18.396032,
+              "end": 18.538507
+            },
+            {
+              "text": "movies",
+              "location": 335,
+              "length": 6,
+              "start": 18.538507,
+              "end": 19.052933
+            },
+            {
+              "text": "going",
+              "location": 343,
+              "length": 5,
+              "start": 19.164524,
+              "end": 19.506752
+            },
+            {
+              "text": "on",
+              "location": 349,
+              "length": 2,
+              "start": 19.506752,
+              "end": 19.692846
+            },
+            {
+              "text": "to",
+              "location": 352,
+              "length": 2,
+              "start": 19.692846,
+              "end": 19.826315
+            },
+            {
+              "text": "stores",
+              "location": 355,
+              "length": 6,
+              "start": 19.826315,
+              "end": 20.183622
+            },
+            {
+              "text": "and",
+              "location": 362,
+              "length": 3,
+              "start": 20.183622,
+              "end": 20.344019
+            },
+            {
+              "text": "figure",
+              "location": 366,
+              "length": 6,
+              "start": 20.344019,
+              "end": 20.667252
+            },
+            {
+              "text": "out",
+              "location": 373,
+              "length": 3,
+              "start": 20.667252,
+              "end": 20.852203
+            },
+            {
+              "text": "what",
+              "location": 377,
+              "length": 4,
+              "start": 20.852203,
+              "end": 21.008276
+            },
+            {
+              "text": "things",
+              "location": 382,
+              "length": 6,
+              "start": 21.008276,
+              "end": 21.290909
+            },
+            {
+              "text": "you",
+              "location": 389,
+              "length": 3,
+              "start": 21.290909,
+              "end": 21.511227
+            },
+            {
+              "text": "like",
+              "location": 393,
+              "length": 4,
+              "start": 21.511227,
+              "end": 21.94426
+            },
+            {
+              "text": "That",
+              "location": 399,
+              "length": 4,
+              "start": 22.039484,
+              "end": 22.220823
+            },
+            {
+              "text": "is",
+              "location": 404,
+              "length": 2,
+              "start": 22.220823,
+              "end": 22.359213
+            },
+            {
+              "text": "a",
+              "location": 407,
+              "length": 1,
+              "start": 22.359213,
+              "end": 22.412128
+            },
+            {
+              "text": "progress",
+              "location": 409,
+              "length": 8,
+              "start": 22.412128,
+              "end": 23.100481
+            },
+            {
+              "text": "That",
+              "location": 419,
+              "length": 4,
+              "start": 23.195705,
+              "end": 23.41073
+            },
+            {
+              "text": "means",
+              "location": 424,
+              "length": 5,
+              "start": 23.41073,
+              "end": 23.797937
+            },
+            {
+              "text": "you're",
+              "location": 430,
+              "length": 6,
+              "start": 23.797937,
+              "end": 23.961592
+            },
+            {
+              "text": "trying",
+              "location": 437,
+              "length": 6,
+              "start": 23.961592,
+              "end": 24.344944
+            },
+            {
+              "text": "to",
+              "location": 444,
+              "length": 2,
+              "start": 24.344944,
+              "end": 24.432169
+            },
+            {
+              "text": "figure",
+              "location": 447,
+              "length": 6,
+              "start": 24.432169,
+              "end": 24.765743
+            },
+            {
+              "text": "out",
+              "location": 454,
+              "length": 3,
+              "start": 24.765743,
+              "end": 24.967142
+            },
+            {
+              "text": "this",
+              "location": 458,
+              "length": 4,
+              "start": 24.967142,
+              "end": 25.152924
+            },
+            {
+              "text": "blurry",
+              "location": 463,
+              "length": 6,
+              "start": 25.152924,
+              "end": 25.411934
+            },
+            {
+              "text": "idea",
+              "location": 470,
+              "length": 4,
+              "start": 25.411934,
+              "end": 25.815443
+            },
+            {
+              "text": "of",
+              "location": 475,
+              "length": 2,
+              "start": 25.815443,
+              "end": 25.93437
+            },
+            {
+              "text": "yourself",
+              "location": 478,
+              "length": 8,
+              "start": 25.93437,
+              "end": 26.664942
+            }
+          ],
+          "audio": {
+            "path": "emotions-and-creative-expression-p09.mp3",
+            "sha256": "6b94e78285ffb46ea7208db9087c320164470f205e5cbd22d3bda1e7c49c23ec"
+          }
+        },
+        {
+          "id": "p10",
+          "lines": [
+            {
+              "text": "I would like to call that like carving.",
+              "translation": "我想把这个过程叫作雕刻。",
+              "location": 0
+            },
+            {
+              "text": "It's like carving a statue from a piece of material.",
+              "translation": "它就像把一块材料雕成一座雕像。",
+              "location": 40
+            },
+            {
+              "text": "You need to have this material in your workshop.",
+              "translation": "你得先在工作室里有这样一块材料。",
+              "location": 93
+            },
+            {
+              "text": "That's the first step.",
+              "translation": "这是第一步。",
+              "location": 142
+            },
+            {
+              "text": "If you don't even have a material so to say, how could you express this self that hasn't exist yet?",
+              "translation": "可以这么说，如果你连一块材料都没有，又怎么能表达那个尚未存在的自我呢？",
+              "location": 165
+            },
+            {
+              "text": "How could you express this self that hasn't exist yet?",
+              "translation": "你又怎么能表达那个尚未存在的自我呢？",
+              "location": 265
+            },
+            {
+              "text": "Right.",
+              "translation": "对吧。",
+              "location": 320
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "carving",
+              "ipa": "ˈkɑrvɪŋ",
+              "meaning": "雕刻；这里比喻逐步塑造自我的过程。"
+            },
+            {
+              "word": "statue",
+              "ipa": "ˈstætʃu",
+              "meaning": "雕像。"
+            },
+            {
+              "word": "workshop",
+              "ipa": "ˈwɜrkʃɑp",
+              "meaning": "工作室；作坊。此处不是培训研讨会。"
+            }
+          ],
+          "text": "I would like to call that like carving. It's like carving a statue from a piece of material. You need to have this material in your workshop. That's the first step. If you don't even have a material so to say, how could you express this self that hasn't exist yet? How could you express this self that hasn't exist yet? Right.",
+          "updatedAt": "2026-11-17T05:48:20Z",
+          "wordTimings": [
+            {
+              "text": "I",
+              "location": 0,
+              "length": 1,
+              "start": 0.217172,
+              "end": 0.343289
+            },
+            {
+              "text": "would",
+              "location": 2,
+              "length": 5,
+              "start": 0.343289,
+              "end": 0.519778
+            },
+            {
+              "text": "like",
+              "location": 8,
+              "length": 4,
+              "start": 0.519778,
+              "end": 0.801997
+            },
+            {
+              "text": "to",
+              "location": 13,
+              "length": 2,
+              "start": 0.801997,
+              "end": 0.951647
+            },
+            {
+              "text": "call",
+              "location": 16,
+              "length": 4,
+              "start": 0.951647,
+              "end": 1.134923
+            },
+            {
+              "text": "that",
+              "location": 21,
+              "length": 4,
+              "start": 1.134923,
+              "end": 1.302047
+            },
+            {
+              "text": "like",
+              "location": 26,
+              "length": 4,
+              "start": 1.302047,
+              "end": 1.592794
+            },
+            {
+              "text": "carving",
+              "location": 31,
+              "length": 7,
+              "start": 1.592794,
+              "end": 2.170269
+            },
+            {
+              "text": "It's",
+              "location": 40,
+              "length": 4,
+              "start": 2.277315,
+              "end": 2.484979
+            },
+            {
+              "text": "like",
+              "location": 45,
+              "length": 4,
+              "start": 2.484979,
+              "end": 2.763833
+            },
+            {
+              "text": "carving",
+              "location": 50,
+              "length": 7,
+              "start": 2.763833,
+              "end": 3.166876
+            },
+            {
+              "text": "a",
+              "location": 58,
+              "length": 1,
+              "start": 3.166876,
+              "end": 3.202688
+            },
+            {
+              "text": "statue",
+              "location": 60,
+              "length": 6,
+              "start": 3.202688,
+              "end": 3.59422
+            },
+            {
+              "text": "from",
+              "location": 67,
+              "length": 4,
+              "start": 3.59422,
+              "end": 3.839557
+            },
+            {
+              "text": "a",
+              "location": 72,
+              "length": 1,
+              "start": 3.839557,
+              "end": 3.894967
+            },
+            {
+              "text": "piece",
+              "location": 74,
+              "length": 5,
+              "start": 3.894967,
+              "end": 4.285507
+            },
+            {
+              "text": "of",
+              "location": 80,
+              "length": 2,
+              "start": 4.285507,
+              "end": 4.392652
+            },
+            {
+              "text": "material",
+              "location": 83,
+              "length": 8,
+              "start": 4.392652,
+              "end": 5.02286
+            },
+            {
+              "text": "You",
+              "location": 93,
+              "length": 3,
+              "start": 5.134397,
+              "end": 5.354871
+            },
+            {
+              "text": "need",
+              "location": 97,
+              "length": 4,
+              "start": 5.354871,
+              "end": 5.571844
+            },
+            {
+              "text": "to",
+              "location": 102,
+              "length": 2,
+              "start": 5.571844,
+              "end": 5.708821
+            },
+            {
+              "text": "have",
+              "location": 105,
+              "length": 4,
+              "start": 5.708821,
+              "end": 5.919394
+            },
+            {
+              "text": "this",
+              "location": 110,
+              "length": 4,
+              "start": 5.919394,
+              "end": 6.162919
+            },
+            {
+              "text": "material",
+              "location": 115,
+              "length": 8,
+              "start": 6.162919,
+              "end": 6.760258
+            },
+            {
+              "text": "in",
+              "location": 124,
+              "length": 2,
+              "start": 6.760258,
+              "end": 6.883283
+            },
+            {
+              "text": "your",
+              "location": 127,
+              "length": 4,
+              "start": 6.883283,
+              "end": 7.046762
+            },
+            {
+              "text": "workshop",
+              "location": 132,
+              "length": 8,
+              "start": 7.046762,
+              "end": 7.844436
+            },
+            {
+              "text": "That's",
+              "location": 142,
+              "length": 6,
+              "start": 7.939661,
+              "end": 8.236684
+            },
+            {
+              "text": "the",
+              "location": 149,
+              "length": 3,
+              "start": 8.236684,
+              "end": 8.316566
+            },
+            {
+              "text": "first",
+              "location": 153,
+              "length": 5,
+              "start": 8.316566,
+              "end": 8.70587
+            },
+            {
+              "text": "step",
+              "location": 159,
+              "length": 4,
+              "start": 8.70587,
+              "end": 9.083469
+            },
+            {
+              "text": "If",
+              "location": 165,
+              "length": 2,
+              "start": 9.182744,
+              "end": 9.353904
+            },
+            {
+              "text": "you",
+              "location": 168,
+              "length": 3,
+              "start": 9.353904,
+              "end": 9.500143
+            },
+            {
+              "text": "don't",
+              "location": 172,
+              "length": 5,
+              "start": 9.500143,
+              "end": 9.711375
+            },
+            {
+              "text": "even",
+              "location": 178,
+              "length": 4,
+              "start": 9.711375,
+              "end": 9.93556
+            },
+            {
+              "text": "have",
+              "location": 183,
+              "length": 4,
+              "start": 9.93556,
+              "end": 10.114524
+            },
+            {
+              "text": "a",
+              "location": 188,
+              "length": 1,
+              "start": 10.114524,
+              "end": 10.16385
+            },
+            {
+              "text": "material",
+              "location": 190,
+              "length": 8,
+              "start": 10.16385,
+              "end": 10.735905
+            },
+            {
+              "text": "so",
+              "location": 199,
+              "length": 2,
+              "start": 10.735905,
+              "end": 10.888609
+            },
+            {
+              "text": "to",
+              "location": 202,
+              "length": 2,
+              "start": 10.888609,
+              "end": 10.990017
+            },
+            {
+              "text": "say",
+              "location": 205,
+              "length": 3,
+              "start": 10.990017,
+              "end": 11.31717
+            },
+            {
+              "text": "how",
+              "location": 210,
+              "length": 3,
+              "start": 11.465224,
+              "end": 11.650652
+            },
+            {
+              "text": "could",
+              "location": 214,
+              "length": 5,
+              "start": 11.650652,
+              "end": 11.898362
+            },
+            {
+              "text": "you",
+              "location": 220,
+              "length": 3,
+              "start": 11.898362,
+              "end": 12.095314
+            },
+            {
+              "text": "express",
+              "location": 224,
+              "length": 7,
+              "start": 12.095314,
+              "end": 12.608155
+            },
+            {
+              "text": "this",
+              "location": 232,
+              "length": 4,
+              "start": 12.608155,
+              "end": 12.759033
+            },
+            {
+              "text": "self",
+              "location": 237,
+              "length": 4,
+              "start": 12.759033,
+              "end": 13.173482
+            },
+            {
+              "text": "that",
+              "location": 242,
+              "length": 4,
+              "start": 13.173482,
+              "end": 13.311373
+            },
+            {
+              "text": "hasn't",
+              "location": 247,
+              "length": 6,
+              "start": 13.311373,
+              "end": 13.716909
+            },
+            {
+              "text": "exist",
+              "location": 254,
+              "length": 5,
+              "start": 13.716909,
+              "end": 14.084786
+            },
+            {
+              "text": "yet",
+              "location": 260,
+              "length": 3,
+              "start": 14.084786,
+              "end": 14.218586
+            },
+            {
+              "text": "How",
+              "location": 265,
+              "length": 3,
+              "start": 14.311416,
+              "end": 14.496843
+            },
+            {
+              "text": "could",
+              "location": 269,
+              "length": 5,
+              "start": 14.496843,
+              "end": 14.744554
+            },
+            {
+              "text": "you",
+              "location": 275,
+              "length": 3,
+              "start": 14.744554,
+              "end": 14.941505
+            },
+            {
+              "text": "express",
+              "location": 279,
+              "length": 7,
+              "start": 14.941505,
+              "end": 15.454347
+            },
+            {
+              "text": "this",
+              "location": 287,
+              "length": 4,
+              "start": 15.454347,
+              "end": 15.605225
+            },
+            {
+              "text": "self",
+              "location": 292,
+              "length": 4,
+              "start": 15.605225,
+              "end": 16.019672
+            },
+            {
+              "text": "that",
+              "location": 297,
+              "length": 4,
+              "start": 16.019672,
+              "end": 16.157562
+            },
+            {
+              "text": "hasn't",
+              "location": 302,
+              "length": 6,
+              "start": 16.157562,
+              "end": 16.563105
+            },
+            {
+              "text": "exist",
+              "location": 309,
+              "length": 5,
+              "start": 16.563105,
+              "end": 16.894163
+            },
+            {
+              "text": "yet",
+              "location": 315,
+              "length": 3,
+              "start": 16.894163,
+              "end": 17.038128
+            },
+            {
+              "text": "Right",
+              "location": 320,
+              "length": 5,
+              "start": 17.138157,
+              "end": 17.459103
+            }
+          ],
+          "audio": {
+            "path": "emotions-and-creative-expression-p10.mp3",
+            "sha256": "3eb2f372402c65acec3ca04605f6ae95061be36115ca1932467a52793afb2587"
+          }
+        }
+      ],
+      "updatedAt": "2026-11-17T05:48:20Z",
+      "voice": "美式女声 · SLT 合成朗读",
+      "fullAudio": {
+        "path": "emotions-and-creative-expression-full.mp3",
+        "sha256": "98767ef6494b7ef3611f77213de8d9e3f7f45f00b4d7f9b773992f5001def91b"
+      },
+      "duration": 262.764
+    },
     {
       "id": "an-important-moment",
       "revision": 1,
