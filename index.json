@@ -1,7 +1,1131 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T05:48:20Z",
+  "updatedAt": "2026-11-18T05:00:53Z",
   "articles": [
+    {
+      "id": "water-breaks-at-work",
+      "revision": 1,
+      "title": "Water Breaks at Work",
+      "subtitle": "办公桌边的喝水英语｜原创日常对话与合成朗读，附 BBC 学习原文链接。",
+      "sourceNote": "主题参考：BBC Learning English, Are you drinking enough water?（官方文本）https://downloads.bbc.co.uk/learningenglish/features/6min/250102_6_minute_english_are_you_drinking_enough_water_.pdf",
+      "paragraphs": [
+        {
+          "id": "p01",
+          "lines": [
+            {
+              "text": "Do you keep a water bottle at your desk?",
+              "translation": "你会在办公桌上放个水瓶吗？",
+              "location": 0
+            },
+            {
+              "text": "I pretty much always do, but I forget to refill it on busy days.",
+              "translation": "我几乎一直都会放，不过忙起来就忘了续水。",
+              "location": 41
+            },
+            {
+              "text": "I fill mine before the first meeting. Then I do not have to think about it.",
+              "translation": "我会在第一场会议前把自己的水瓶灌满，这样后面就不用惦记了。",
+              "location": 106
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "pretty much",
+              "ipa": "ˈprɪti mʌtʃ",
+              "meaning": "几乎；差不多。pretty much always 比 always 更留有余地。"
+            },
+            {
+              "word": "refill",
+              "ipa": "ˌriːˈfɪl",
+              "meaning": "重新装满。refill a bottle 是把瓶子重新灌满。"
+            }
+          ],
+          "text": "Do you keep a water bottle at your desk? I pretty much always do, but I forget to refill it on busy days. I fill mine before the first meeting. Then I do not have to think about it.",
+          "updatedAt": "2026-11-18T05:00:53Z",
+          "wordTimings": [
+            {
+              "text": "Do",
+              "location": 0,
+              "length": 2,
+              "start": 0.193274,
+              "end": 0.329389
+            },
+            {
+              "text": "you",
+              "location": 3,
+              "length": 3,
+              "start": 0.329389,
+              "end": 0.42541
+            },
+            {
+              "text": "keep",
+              "location": 7,
+              "length": 4,
+              "start": 0.42541,
+              "end": 0.712448
+            },
+            {
+              "text": "a",
+              "location": 12,
+              "length": 1,
+              "start": 0.712448,
+              "end": 0.770856
+            },
+            {
+              "text": "water",
+              "location": 14,
+              "length": 5,
+              "start": 0.770856,
+              "end": 1.086848
+            },
+            {
+              "text": "bottle",
+              "location": 20,
+              "length": 6,
+              "start": 1.086848,
+              "end": 1.571104
+            },
+            {
+              "text": "at",
+              "location": 27,
+              "length": 2,
+              "start": 1.571104,
+              "end": 1.659498
+            },
+            {
+              "text": "your",
+              "location": 30,
+              "length": 4,
+              "start": 1.659498,
+              "end": 1.822978
+            },
+            {
+              "text": "desk",
+              "location": 35,
+              "length": 4,
+              "start": 1.822978,
+              "end": 2.235793
+            },
+            {
+              "text": "I",
+              "location": 41,
+              "length": 1,
+              "start": 2.338477,
+              "end": 2.531795
+            },
+            {
+              "text": "pretty",
+              "location": 43,
+              "length": 6,
+              "start": 2.531795,
+              "end": 2.798611
+            },
+            {
+              "text": "much",
+              "location": 50,
+              "length": 4,
+              "start": 2.798611,
+              "end": 3.060553
+            },
+            {
+              "text": "always",
+              "location": 55,
+              "length": 6,
+              "start": 3.060553,
+              "end": 3.512005
+            },
+            {
+              "text": "do",
+              "location": 62,
+              "length": 2,
+              "start": 3.512005,
+              "end": 3.736298
+            },
+            {
+              "text": "but",
+              "location": 66,
+              "length": 3,
+              "start": 3.961087,
+              "end": 4.110343
+            },
+            {
+              "text": "I",
+              "location": 70,
+              "length": 1,
+              "start": 4.110343,
+              "end": 4.278649
+            },
+            {
+              "text": "forget",
+              "location": 72,
+              "length": 6,
+              "start": 4.278649,
+              "end": 4.715512
+            },
+            {
+              "text": "to",
+              "location": 79,
+              "length": 2,
+              "start": 4.715512,
+              "end": 4.863745
+            },
+            {
+              "text": "refill",
+              "location": 82,
+              "length": 6,
+              "start": 4.863745,
+              "end": 5.47966
+            },
+            {
+              "text": "it",
+              "location": 89,
+              "length": 2,
+              "start": 5.47966,
+              "end": 5.57517
+            },
+            {
+              "text": "on",
+              "location": 92,
+              "length": 2,
+              "start": 5.57517,
+              "end": 5.773879
+            },
+            {
+              "text": "busy",
+              "location": 95,
+              "length": 4,
+              "start": 5.773879,
+              "end": 6.054988
+            },
+            {
+              "text": "days",
+              "location": 100,
+              "length": 4,
+              "start": 6.054988,
+              "end": 6.466647
+            },
+            {
+              "text": "I",
+              "location": 106,
+              "length": 1,
+              "start": 6.565702,
+              "end": 6.712678
+            },
+            {
+              "text": "fill",
+              "location": 108,
+              "length": 4,
+              "start": 6.712678,
+              "end": 7.024495
+            },
+            {
+              "text": "mine",
+              "location": 113,
+              "length": 4,
+              "start": 7.024495,
+              "end": 7.302532
+            },
+            {
+              "text": "before",
+              "location": 118,
+              "length": 6,
+              "start": 7.302532,
+              "end": 7.633512
+            },
+            {
+              "text": "the",
+              "location": 125,
+              "length": 3,
+              "start": 7.633512,
+              "end": 7.720265
+            },
+            {
+              "text": "first",
+              "location": 129,
+              "length": 5,
+              "start": 7.720265,
+              "end": 8.16453
+            },
+            {
+              "text": "meeting",
+              "location": 135,
+              "length": 7,
+              "start": 8.16453,
+              "end": 8.603784
+            },
+            {
+              "text": "Then",
+              "location": 144,
+              "length": 4,
+              "start": 8.700253,
+              "end": 8.894293
+            },
+            {
+              "text": "I",
+              "location": 149,
+              "length": 1,
+              "start": 8.894293,
+              "end": 9.026258
+            },
+            {
+              "text": "do",
+              "location": 151,
+              "length": 2,
+              "start": 9.026258,
+              "end": 9.22597
+            },
+            {
+              "text": "not",
+              "location": 154,
+              "length": 3,
+              "start": 9.22597,
+              "end": 9.486585
+            },
+            {
+              "text": "have",
+              "location": 158,
+              "length": 4,
+              "start": 9.486585,
+              "end": 9.657607
+            },
+            {
+              "text": "to",
+              "location": 163,
+              "length": 2,
+              "start": 9.657607,
+              "end": 9.766329
+            },
+            {
+              "text": "think",
+              "location": 166,
+              "length": 5,
+              "start": 9.766329,
+              "end": 10.008135
+            },
+            {
+              "text": "about",
+              "location": 172,
+              "length": 5,
+              "start": 10.008135,
+              "end": 10.296196
+            },
+            {
+              "text": "it",
+              "location": 178,
+              "length": 2,
+              "start": 10.296196,
+              "end": 10.501801
+            }
+          ],
+          "audio": {
+            "path": "water-breaks-at-work-p01.mp3",
+            "sha256": "a357206f7b5cc7f8853f3d7a329451eb37da8ea3c5a597e7e86cad4fcf5c0493"
+          }
+        },
+        {
+          "id": "p02",
+          "lines": [
+            {
+              "text": "How much water does that jug hold?",
+              "translation": "那个水壶能装多少水？",
+              "location": 0
+            },
+            {
+              "text": "A litre is a ballpark figure. I have never measured it.",
+              "translation": "一升是个大概数字，我从来没量过。",
+              "location": 35
+            },
+            {
+              "text": "How did you arrive at that number?",
+              "translation": "你是怎么算出这个数字的？",
+              "location": 91
+            },
+            {
+              "text": "I compared it with the bottle I take to the gym.",
+              "translation": "我是拿它和我带去健身房的水瓶比的。",
+              "location": 126
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "a ballpark figure",
+              "ipa": "ə ˈbɔːlpɑːrk ˈfɪɡjər",
+              "meaning": "粗略估计；不需要精确时，可以说 Give me a ballpark figure."
+            },
+            {
+              "word": "arrive at a number",
+              "ipa": "əˈraɪv æt ə ˈnʌmbər",
+              "meaning": "推算出一个数字。arrive at 也可用于得出结论，比如 arrive at a conclusion。"
+            }
+          ],
+          "text": "How much water does that jug hold? A litre is a ballpark figure. I have never measured it. How did you arrive at that number? I compared it with the bottle I take to the gym.",
+          "updatedAt": "2026-11-18T05:00:53Z",
+          "wordTimings": [
+            {
+              "text": "How",
+              "location": 0,
+              "length": 3,
+              "start": 0.161631,
+              "end": 0.348518
+            },
+            {
+              "text": "much",
+              "location": 4,
+              "length": 4,
+              "start": 0.348518,
+              "end": 0.652587
+            },
+            {
+              "text": "water",
+              "location": 9,
+              "length": 5,
+              "start": 0.652587,
+              "end": 0.931014
+            },
+            {
+              "text": "does",
+              "location": 15,
+              "length": 4,
+              "start": 0.931014,
+              "end": 1.18845
+            },
+            {
+              "text": "that",
+              "location": 20,
+              "length": 4,
+              "start": 1.18845,
+              "end": 1.323002
+            },
+            {
+              "text": "jug",
+              "location": 25,
+              "length": 3,
+              "start": 1.323002,
+              "end": 1.563841
+            },
+            {
+              "text": "hold",
+              "location": 29,
+              "length": 4,
+              "start": 1.563841,
+              "end": 2.025881
+            },
+            {
+              "text": "A",
+              "location": 35,
+              "length": 1,
+              "start": 2.145308,
+              "end": 2.202923
+            },
+            {
+              "text": "litre",
+              "location": 37,
+              "length": 5,
+              "start": 2.202923,
+              "end": 2.563696
+            },
+            {
+              "text": "is",
+              "location": 43,
+              "length": 2,
+              "start": 2.563696,
+              "end": 2.688679
+            },
+            {
+              "text": "a",
+              "location": 46,
+              "length": 1,
+              "start": 2.688679,
+              "end": 2.738338
+            },
+            {
+              "text": "ballpark",
+              "location": 48,
+              "length": 8,
+              "start": 2.738338,
+              "end": 3.274791
+            },
+            {
+              "text": "figure",
+              "location": 57,
+              "length": 6,
+              "start": 3.274791,
+              "end": 3.663153
+            },
+            {
+              "text": "I",
+              "location": 65,
+              "length": 1,
+              "start": 3.89066,
+              "end": 4.003662
+            },
+            {
+              "text": "have",
+              "location": 67,
+              "length": 4,
+              "start": 4.003662,
+              "end": 4.157727
+            },
+            {
+              "text": "never",
+              "location": 72,
+              "length": 5,
+              "start": 4.157727,
+              "end": 4.444346
+            },
+            {
+              "text": "measured",
+              "location": 78,
+              "length": 8,
+              "start": 4.444346,
+              "end": 4.806679
+            },
+            {
+              "text": "it",
+              "location": 87,
+              "length": 2,
+              "start": 4.806679,
+              "end": 4.997768
+            },
+            {
+              "text": "How",
+              "location": 91,
+              "length": 3,
+              "start": 5.090598,
+              "end": 5.285573
+            },
+            {
+              "text": "did",
+              "location": 95,
+              "length": 3,
+              "start": 5.285573,
+              "end": 5.473131
+            },
+            {
+              "text": "you",
+              "location": 99,
+              "length": 3,
+              "start": 5.473131,
+              "end": 5.695816
+            },
+            {
+              "text": "arrive",
+              "location": 103,
+              "length": 6,
+              "start": 5.695816,
+              "end": 6.099075
+            },
+            {
+              "text": "at",
+              "location": 110,
+              "length": 2,
+              "start": 6.099075,
+              "end": 6.226341
+            },
+            {
+              "text": "that",
+              "location": 113,
+              "length": 4,
+              "start": 6.226341,
+              "end": 6.387841
+            },
+            {
+              "text": "number",
+              "location": 118,
+              "length": 6,
+              "start": 6.387841,
+              "end": 6.961051
+            },
+            {
+              "text": "I",
+              "location": 126,
+              "length": 1,
+              "start": 7.188559,
+              "end": 7.322299
+            },
+            {
+              "text": "compared",
+              "location": 128,
+              "length": 8,
+              "start": 7.322299,
+              "end": 7.880275
+            },
+            {
+              "text": "it",
+              "location": 137,
+              "length": 2,
+              "start": 7.880275,
+              "end": 7.993439
+            },
+            {
+              "text": "with",
+              "location": 140,
+              "length": 4,
+              "start": 7.993439,
+              "end": 8.164793
+            },
+            {
+              "text": "the",
+              "location": 145,
+              "length": 3,
+              "start": 8.164793,
+              "end": 8.257546
+            },
+            {
+              "text": "bottle",
+              "location": 149,
+              "length": 6,
+              "start": 8.257546,
+              "end": 8.598937
+            },
+            {
+              "text": "I",
+              "location": 156,
+              "length": 1,
+              "start": 8.598937,
+              "end": 8.699213
+            },
+            {
+              "text": "take",
+              "location": 158,
+              "length": 4,
+              "start": 8.699213,
+              "end": 8.926932
+            },
+            {
+              "text": "to",
+              "location": 163,
+              "length": 2,
+              "start": 8.926932,
+              "end": 9.017545
+            },
+            {
+              "text": "the",
+              "location": 166,
+              "length": 3,
+              "start": 9.017545,
+              "end": 9.102098
+            },
+            {
+              "text": "gym",
+              "location": 170,
+              "length": 3,
+              "start": 9.102098,
+              "end": 9.619351
+            }
+          ],
+          "audio": {
+            "path": "water-breaks-at-work-p02.mp3",
+            "sha256": "a1c03bdf861cca8da579fe35b5223fb27c1d1e3b0643fac3f81a485322ef662e"
+          }
+        },
+        {
+          "id": "p03",
+          "lines": [
+            {
+              "text": "Shall we bring extra water for the hike?",
+              "translation": "徒步时我们要不要多带些水？",
+              "location": 0
+            },
+            {
+              "text": "Good idea. I would rather carry a little extra than run out halfway.",
+              "translation": "好主意。我宁可多带一点，也不想走到一半就没水了。",
+              "location": 41
+            },
+            {
+              "text": "Let us check where we can refill before we set off.",
+              "translation": "出发前，我们先看看哪里能补水吧。",
+              "location": 110
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "run out",
+              "ipa": "rʌn aʊt",
+              "meaning": "用完。run out of water 是把水用完。"
+            },
+            {
+              "word": "set off",
+              "ipa": "set ɔːf",
+              "meaning": "出发；启程。before we set off 是“我们出发前”。"
+            }
+          ],
+          "text": "Shall we bring extra water for the hike? Good idea. I would rather carry a little extra than run out halfway. Let us check where we can refill before we set off.",
+          "updatedAt": "2026-11-18T05:00:53Z",
+          "wordTimings": [
+            {
+              "text": "Shall",
+              "location": 0,
+              "length": 5,
+              "start": 0.161631,
+              "end": 0.528977
+            },
+            {
+              "text": "we",
+              "location": 6,
+              "length": 2,
+              "start": 0.528977,
+              "end": 0.673444
+            },
+            {
+              "text": "bring",
+              "location": 9,
+              "length": 5,
+              "start": 0.673444,
+              "end": 0.939276
+            },
+            {
+              "text": "extra",
+              "location": 15,
+              "length": 5,
+              "start": 0.939276,
+              "end": 1.286105
+            },
+            {
+              "text": "water",
+              "location": 21,
+              "length": 5,
+              "start": 1.286105,
+              "end": 1.616762
+            },
+            {
+              "text": "for",
+              "location": 27,
+              "length": 3,
+              "start": 1.616762,
+              "end": 1.772202
+            },
+            {
+              "text": "the",
+              "location": 31,
+              "length": 3,
+              "start": 1.772202,
+              "end": 1.85073
+            },
+            {
+              "text": "hike",
+              "location": 35,
+              "length": 4,
+              "start": 1.85073,
+              "end": 2.292809
+            },
+            {
+              "text": "Good",
+              "location": 41,
+              "length": 4,
+              "start": 2.390544,
+              "end": 2.624843
+            },
+            {
+              "text": "idea",
+              "location": 46,
+              "length": 4,
+              "start": 2.624843,
+              "end": 3.06162
+            },
+            {
+              "text": "I",
+              "location": 52,
+              "length": 1,
+              "start": 3.289127,
+              "end": 3.482445
+            },
+            {
+              "text": "would",
+              "location": 54,
+              "length": 5,
+              "start": 3.482445,
+              "end": 3.679177
+            },
+            {
+              "text": "rather",
+              "location": 60,
+              "length": 6,
+              "start": 3.679177,
+              "end": 3.960483
+            },
+            {
+              "text": "carry",
+              "location": 67,
+              "length": 5,
+              "start": 3.960483,
+              "end": 4.458533
+            },
+            {
+              "text": "a",
+              "location": 73,
+              "length": 1,
+              "start": 4.458533,
+              "end": 4.506353
+            },
+            {
+              "text": "little",
+              "location": 75,
+              "length": 6,
+              "start": 4.506353,
+              "end": 4.898028
+            },
+            {
+              "text": "extra",
+              "location": 82,
+              "length": 5,
+              "start": 4.898028,
+              "end": 5.28767
+            },
+            {
+              "text": "than",
+              "location": 88,
+              "length": 4,
+              "start": 5.28767,
+              "end": 5.483326
+            },
+            {
+              "text": "run",
+              "location": 93,
+              "length": 3,
+              "start": 5.483326,
+              "end": 5.739347
+            },
+            {
+              "text": "out",
+              "location": 97,
+              "length": 3,
+              "start": 5.739347,
+              "end": 6.018445
+            },
+            {
+              "text": "halfway",
+              "location": 101,
+              "length": 7,
+              "start": 6.018445,
+              "end": 6.510269
+            },
+            {
+              "text": "Let",
+              "location": 110,
+              "length": 3,
+              "start": 6.741388,
+              "end": 6.920947
+            },
+            {
+              "text": "us",
+              "location": 114,
+              "length": 2,
+              "start": 6.920947,
+              "end": 7.085844
+            },
+            {
+              "text": "check",
+              "location": 117,
+              "length": 5,
+              "start": 7.085844,
+              "end": 7.307336
+            },
+            {
+              "text": "where",
+              "location": 123,
+              "length": 5,
+              "start": 7.307336,
+              "end": 7.473935
+            },
+            {
+              "text": "we",
+              "location": 129,
+              "length": 2,
+              "start": 7.473935,
+              "end": 7.678137
+            },
+            {
+              "text": "can",
+              "location": 132,
+              "length": 3,
+              "start": 7.678137,
+              "end": 7.900061
+            },
+            {
+              "text": "refill",
+              "location": 136,
+              "length": 6,
+              "start": 7.900061,
+              "end": 8.318167
+            },
+            {
+              "text": "before",
+              "location": 143,
+              "length": 6,
+              "start": 8.318167,
+              "end": 8.710387
+            },
+            {
+              "text": "we",
+              "location": 150,
+              "length": 2,
+              "start": 8.710387,
+              "end": 8.867126
+            },
+            {
+              "text": "set",
+              "location": 153,
+              "length": 3,
+              "start": 8.867126,
+              "end": 9.106796
+            },
+            {
+              "text": "off",
+              "location": 157,
+              "length": 3,
+              "start": 9.106796,
+              "end": 9.382822
+            }
+          ],
+          "audio": {
+            "path": "water-breaks-at-work-p03.mp3",
+            "sha256": "4cb7e8714b0d8afbf861b9bcd840fa9592cff81b09db88025cba504abe0d6cb1"
+          }
+        },
+        {
+          "id": "p04",
+          "lines": [
+            {
+              "text": "Is a dry mouth always a symptom of dehydration?",
+              "translation": "口干一定是脱水的症状吗？",
+              "location": 0
+            },
+            {
+              "text": "Not necessarily. The same symptom can have more than one cause.",
+              "translation": "不一定。同一种症状可能有不止一个原因。",
+              "location": 48
+            },
+            {
+              "text": "So we should not jump to conclusions.",
+              "translation": "所以我们不该急着下结论。",
+              "location": 112
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "a symptom of",
+              "ipa": "ə ˈsɪmptəm əv",
+              "meaning": "……的症状。这里用来询问某个表现是否与某种状况有关。"
+            },
+            {
+              "word": "dehydration",
+              "ipa": "ˌdiːhaɪˈdreɪʃən",
+              "meaning": "脱水，名词。形容词 dehydrated 表示“脱水的”。"
+            },
+            {
+              "word": "jump to conclusions",
+              "ipa": "dʒʌmp tə kənˈkluːʒənz",
+              "meaning": "没有足够信息就急着下结论。"
+            }
+          ],
+          "text": "Is a dry mouth always a symptom of dehydration? Not necessarily. The same symptom can have more than one cause. So we should not jump to conclusions.",
+          "updatedAt": "2026-11-18T05:00:53Z",
+          "wordTimings": [
+            {
+              "text": "Is",
+              "location": 0,
+              "length": 2,
+              "start": 0.223364,
+              "end": 0.35404
+            },
+            {
+              "text": "a",
+              "location": 3,
+              "length": 1,
+              "start": 0.35404,
+              "end": 0.392986
+            },
+            {
+              "text": "dry",
+              "location": 5,
+              "length": 3,
+              "start": 0.392986,
+              "end": 0.685118
+            },
+            {
+              "text": "mouth",
+              "location": 9,
+              "length": 5,
+              "start": 0.685118,
+              "end": 1.064301
+            },
+            {
+              "text": "always",
+              "location": 15,
+              "length": 6,
+              "start": 1.064301,
+              "end": 1.524454
+            },
+            {
+              "text": "a",
+              "location": 22,
+              "length": 1,
+              "start": 1.524454,
+              "end": 1.568618
+            },
+            {
+              "text": "symptom",
+              "location": 24,
+              "length": 7,
+              "start": 1.568618,
+              "end": 2.030223
+            },
+            {
+              "text": "of",
+              "location": 32,
+              "length": 2,
+              "start": 2.030223,
+              "end": 2.139235
+            },
+            {
+              "text": "dehydration",
+              "location": 35,
+              "length": 11,
+              "start": 2.139235,
+              "end": 2.959452
+            },
+            {
+              "text": "Not",
+              "location": 48,
+              "length": 3,
+              "start": 3.066492,
+              "end": 3.383693
+            },
+            {
+              "text": "necessarily",
+              "location": 52,
+              "length": 11,
+              "start": 3.383693,
+              "end": 4.130618
+            },
+            {
+              "text": "The",
+              "location": 65,
+              "length": 3,
+              "start": 4.312875,
+              "end": 4.397732
+            },
+            {
+              "text": "same",
+              "location": 69,
+              "length": 4,
+              "start": 4.397732,
+              "end": 4.731109
+            },
+            {
+              "text": "symptom",
+              "location": 74,
+              "length": 7,
+              "start": 4.731109,
+              "end": 5.210377
+            },
+            {
+              "text": "can",
+              "location": 82,
+              "length": 3,
+              "start": 5.210377,
+              "end": 5.39968
+            },
+            {
+              "text": "have",
+              "location": 86,
+              "length": 4,
+              "start": 5.39968,
+              "end": 5.602076
+            },
+            {
+              "text": "more",
+              "location": 91,
+              "length": 4,
+              "start": 5.602076,
+              "end": 5.75975
+            },
+            {
+              "text": "than",
+              "location": 96,
+              "length": 4,
+              "start": 5.75975,
+              "end": 5.92009
+            },
+            {
+              "text": "one",
+              "location": 101,
+              "length": 3,
+              "start": 5.92009,
+              "end": 6.128483
+            },
+            {
+              "text": "cause",
+              "location": 105,
+              "length": 5,
+              "start": 6.128483,
+              "end": 6.526628
+            },
+            {
+              "text": "So",
+              "location": 112,
+              "length": 2,
+              "start": 6.633961,
+              "end": 6.887197
+            },
+            {
+              "text": "we",
+              "location": 115,
+              "length": 2,
+              "start": 6.887197,
+              "end": 7.015129
+            },
+            {
+              "text": "should",
+              "location": 118,
+              "length": 6,
+              "start": 7.015129,
+              "end": 7.295716
+            },
+            {
+              "text": "not",
+              "location": 125,
+              "length": 3,
+              "start": 7.295716,
+              "end": 7.539676
+            },
+            {
+              "text": "jump",
+              "location": 129,
+              "length": 4,
+              "start": 7.539676,
+              "end": 7.845113
+            },
+            {
+              "text": "to",
+              "location": 134,
+              "length": 2,
+              "start": 7.845113,
+              "end": 7.93824
+            },
+            {
+              "text": "conclusions",
+              "location": 137,
+              "length": 11,
+              "start": 7.93824,
+              "end": 8.769016
+            }
+          ],
+          "audio": {
+            "path": "water-breaks-at-work-p04.mp3",
+            "sha256": "e3deeaace54406cafa62c0c901803941ef4134a8299f284dae9ecb98309305a2"
+          }
+        }
+      ],
+      "updatedAt": "2026-11-18T05:00:53Z",
+      "voice": "美式女声 · SLT 合成朗读",
+      "fullAudio": {
+        "path": "water-breaks-at-work-full.mp3",
+        "sha256": "23f5555ba1014963e82b5ffd7d6f0f6789298052c92a910ab92022873fdf1f6e"
+      },
+      "duration": 38.875
+    },
     {
       "id": "emotions-and-creative-expression",
       "revision": 1,
